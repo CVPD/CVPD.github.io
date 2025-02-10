@@ -1,5 +1,4 @@
 ---
----
 # Display name
 title: Fadi Dornaika
 

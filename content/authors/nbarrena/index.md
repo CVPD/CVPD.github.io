@@ -1,17 +1,16 @@
 ---
----
 # Display name
-title: Fadi Dornaika
+title: Nagore Barrena
 
 # Full Name (for SEO)
-first_name: Fadi  
-last_name: Dornaika
+first_name: Nagore  
+last_name: Barrena
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ikerbasque Research Professor
+role: Lecturer & Researcher at UPV-EHU
 
 # Organizations/Affiliations
 organizations:
@@ -28,21 +27,21 @@ interests:
 
 education:
   courses:
-    - course: PhD in Computer Vision
-      institution: University of Barcelona
+    - course: PhD in Computer Engineering
+      institution: University Of Basque Country
       year: 2000
-    - course: MSc in Artificial Intelligence
-      institution: University of Barcelona
-      year: 1995
-    - course: BSc in Computer Science
-      institution: University of Barcelona
-      year: 1993
+    # - course: MSc in Artificial Intelligence
+    #   institution: University of Barcelona
+    #   year: 1995
+    # - course: BSc in Computer Science
+    #   institution: University of Barcelona
+    #   year: 1993
 
 # Social/Academic Networking
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:fadi.dornaika@ehu.es'
+    link: 'nagore.barrena@ehu.es'
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=XYZ123'
@@ -55,8 +54,7 @@ user_groups:
   - Researchers
 ---
 
-**Fadi Dornaika** is an Ikerbasque Research Professor at the Universidad del País Vasco, Departamento de Ciencias de la Computación e Inteligencia Artificial, Facultad de Informática, 20018 Donostia - San Sebastián, España.
-
+**Nagore barrena** is an ...
 ## Research interests
 
 ### Computer Vision, Pattern Recognition
