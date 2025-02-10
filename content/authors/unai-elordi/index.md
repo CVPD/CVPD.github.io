@@ -1,7 +1,6 @@
 ---
----
 # Display name
-title: Unai Elordi Hidalgo
+title: Unai Elordi
 
 # Full Name (for SEO)
 first_name: Unai  
@@ -11,7 +10,7 @@ last_name: Elordi Hidalgo
 superuser: false
 
 # Role/position
-role: Assistant Professor
+role: Assistant PhD Professor
 
 # Organizations/Affiliations
 organizations:
@@ -35,9 +34,12 @@ education:
     - course: Master's in Computational Engineering and Intelligent Systems
       institution: University of the Basque Country
       year: 2016
-    - course: Degree in Computer Systems Engineering and Computer Science
+    - course: Degree in Computer Science
       institution: Mondragón University (MGEP)
       year: 2010
+    - course: Degree in Computer Science Systems
+      institution: Mondragón University (MGEP)
+      year: 2010  
 
 # Social/Academic Networking
 social:
@@ -46,7 +48,7 @@ social:
     link: 'mailto:unai.elordi@ehu.es'
   - icon: google-scholar
     icon_pack: ai
-    link: 'https://scholar.google.com/citations?user=XYZ123'
+    link: 'https://scholar.google.es/citations?user=f8WBAnsAAAAJ&hl=en'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
