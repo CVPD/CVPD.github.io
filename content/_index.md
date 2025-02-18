@@ -13,7 +13,6 @@ sections:
       #   filename: welcome.jpg
       text: |
         <br>
-        
         Welcome to the Computer Vision and Pattern Discovery group! We are a group of researchers interested in:
         <ul>
           <li>Image Processing </li>
@@ -23,7 +22,7 @@ sections:
           <li>Graph-based Embedding </li>
           <li>Face Image Analysis </li>
           <li>Human-Computer Interaction </li>
-          <li>Remote Sensing /li>
+          <li>Remote Sensing </li>
           <li>Bio-medical Image Analysis </li></ul>
   
   - block: collection
