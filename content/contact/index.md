@@ -8,8 +8,6 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: |- 
-      feel free to contact us in the following mail
       email: fadi.dornaika@ehu.eus
       address:
         street: Departamento de Ciencias de la Computación e Inteligencia Artificial 
