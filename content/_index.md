@@ -9,8 +9,8 @@ sections:
     content:
       title: |
         CVPD
-      # image:
-      #   filename: welcome.jpg
+      image:
+         filename: logos_ehu_ikerbasque.jpeg
       text: |
         <br>
         Welcome to the Computer Vision and Pattern Discovery group! We are a group of researchers interested in:
