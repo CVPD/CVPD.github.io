@@ -10,7 +10,7 @@ last_name: Arganda Carreras
 superuser: false
 
 # Role/position
-role: Ikerbasque Research Associate
+role: Ikerbasque Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -56,7 +56,7 @@ user_groups:
   - Researchers
 ---
 
-**Ignacio Arganda Carreras** is an Ikerbasque Research Associate at the University of the Basque Country (UPV/EHU) and associated with the Donostia International Physics Center (DIPC) and the Biofisika Institute (Leioa, Spain). He earned his European PhD in Computer Engineering and Telecommunications by the Autonomous University of Madrid (Extraordinary Doctorate Award, 2009) and holds a BSc in Computer Engineering from the same university. He took postdoctoral studies at the department of Brain and Cognitive Sciences of the Massachusetts Institute of Technology (MIT) from 2009 to 2013 and at the Jean-Pierre Bourgin Institute of the Institut National de la Recherche Agronomique (INRA), Versailles, from 2013 to 2015.
+**Ignacio Arganda Carreras** is an Ikerbasque Associate Professor at the University of the Basque Country (UPV/EHU) and associated with the Donostia International Physics Center (DIPC) and the Biofisika Institute (Leioa, Spain). He earned his European PhD in Computer Engineering and Telecommunications by the Autonomous University of Madrid (Extraordinary Doctorate Award, 2009) and holds a BSc in Computer Engineering from the same university. He took postdoctoral studies at the department of Brain and Cognitive Sciences of the Massachusetts Institute of Technology (MIT) from 2009 to 2013 and at the Jean-Pierre Bourgin Institute of the Institut National de la Recherche Agronomique (INRA), Versailles, from 2013 to 2015.
 
 He conducted research stays at the Lawrence Berkeley National Laboratory in Berkeley (California, 2002-2004), the Centre for Machine Perception of the Technical University of Prague (2005), and the Applied Medical Research Centre of the University of Navarra in Pamplona (2006) during his doctorate studies. Dr. Arganda also worked as a consultant for the Max Planck Institute of Cellular Biology and Genetics in Dresden (2009) and the Institute of Neuroinformatics in Zurich (2009). He was an Ikerbasque Research Fellow at the department of Computer Science and Artificial Intelligence of the University of the Basque Country (UPV/EHU) from September 2015 to August 2020, and since September 2020, he holds a permanent position in the same department as an Ikerbasque Research Associate.
 
