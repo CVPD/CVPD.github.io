@@ -47,7 +47,7 @@ social:
     link: 'https://scholar.google.com/citations?user=F3JtINgAAAAJ&hl=es'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
