@@ -7,7 +7,7 @@ first_name: Ignacio
 last_name: Arganda-Carreras
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Ikerbasque Associate Professor
