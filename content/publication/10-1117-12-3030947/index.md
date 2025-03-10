@@ -5,11 +5,11 @@ authors:
 - Unai Elordi
 - Miguel Ortiz-Huamani
 - Jorge Garcia-Castaño
-date: '2024-01-01'
+date: '2024-09-16'
 publishDate: '2025-03-10T09:51:57.213091Z'
 publication_types:
 - paper-conference
-publication: '*Artificial Intelligence for Security and Defence Applications II*'
+publication: '*Artificial Intelligence for Security and Defence Applications II (SPIE)*'
 doi: 10.1117/12.3030947
 abstract: The recent advances in mobile robot surveillance have significantly enhanced
   supervision tasks. Unlike traditional CCTV systems, these robots improve patrolling
