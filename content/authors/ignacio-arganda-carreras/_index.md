@@ -10,7 +10,7 @@ last_name: Arganda-Carreras
 superuser: true
 
 # Role/position
-role: Ikerbasque Associate Professor
+role: Ikerbasque Research Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -44,6 +44,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ignacio.arganda@ehu.es'
+  - icon: bluesky
+    icon_pack: brands
+    link: 'https://bsky.app/profile/iarganda.bsky.social'
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=XYZ123'
