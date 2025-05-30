@@ -12,7 +12,11 @@ authors:
 - Pablo Vicente-Munuera
 - Ana M Palacios
 - Marı́a P Gavilán
-- ' others'
+- Fernando Martín-Belmonte
+- Valentina Annese
+- Pedro Gómez-Gálvez
+- Ignacio Arganda-Carreras
+- Luis M Escudero
 date: '2023-01-01'
 publishDate: '2025-05-30T15:30:23.854588Z'
 publication_types:

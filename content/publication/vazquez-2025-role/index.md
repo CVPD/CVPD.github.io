@@ -1,10 +1,10 @@
 ---
 title: 'The role of artificial intelligence in implant dentistry: a systematic review'
 authors:
-- G Vázquez-Sebrango
-- E Anitua
-- I Macı́a
-- I Arganda-Carreras
+- Gloria Vázquez-Sebrango
+- Eduardo Anitua
+- Iván Macı́a
+- Ignacio Arganda-Carreras
 date: '2025-01-01'
 publishDate: '2025-05-30T15:30:24.031074Z'
 publication_types:

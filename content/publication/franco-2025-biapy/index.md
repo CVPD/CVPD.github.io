@@ -11,13 +11,15 @@ authors:
 - Pedro Gómez-Gálvez
 - Luis M Escudero
 - Donglai Wei
-- ' others'
+- Arrate Muñoz-Barrutia
+- Ignacio Arganda-Carreras
 date: '2025-01-01'
 publishDate: '2025-05-30T15:30:24.002533Z'
 publication_types:
 - article-journal
 publication: '*Nature Methods*'
 doi: 10.1038/s41592-025-02699-y
+preprint: https://www.biorxiv.org/content/10.1101/2024.02.03.576026v3
 abstract: BiaPy is an open-source library and application that streamlines the use
   of common deep learning approaches for bioimage analysis. Designed to simplify technical
   complexities, it offers an intuitive interface, zero-code notebooks, and Docker
