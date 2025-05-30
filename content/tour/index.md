@@ -51,4 +51,12 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./members/" cta_text="Meet the team →" %}{% cta cta_link="./publications/" cta_text="See publications →" %}}
+    design:
+      columns: '1'  
 ---
