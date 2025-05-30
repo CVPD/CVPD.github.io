@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Aitor González-Marfil
+title: Aitor Gonzalez-Marfil
 
 # Full Name (for SEO)
 first_name: Aitor  
