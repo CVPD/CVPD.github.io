@@ -10,13 +10,13 @@ sections:
       title: Contact
       text: |-
         We’re always happy to hear from curious minds!
-        Whether you're a student looking for a Bachelor’s or Master’s thesis project, or a researcher interested in PhD or Postdoc opportunities, we’d love to connect.
+        Whether you're a student looking for a **Bachelor’s or Master’s thesis project**, or a researcher interested in **PhD or Postdoc opportunities**, we’d love to connect.
 
-        At the Computer Vision and Pattern Discovery (CVPD) group, we work at the intersection of computer vision, machine learning, and real-world applications — from biomedical imaging to human-computer interaction.
+        At the **Computer Vision and Pattern Discovery (CVPD)** group, we work at the intersection of computer vision, machine learning, and real-world applications — from biomedical imaging to human-computer interaction.
 
-        We regularly host students from local and international universities, and we welcome PhD and Postdoc candidates who want to apply for competitive fellowships or funding schemes with us.
+        We regularly host students from local and international universities, and we welcome **PhD and Postdoc candidates** who want to apply for competitive fellowships or funding schemes with us.
 
-        📩 Get in touch to learn more about our current projects, available supervision opportunities, and how we can support your application.
+        📩 **Get in touch** to learn more about our current projects, available supervision opportunities, and how we can support your application.
       email: ignacio.arganda@ehu.eus, fadi.dornaika@ehu.eus
       phone: 0034 943 01 73 25
       address:
