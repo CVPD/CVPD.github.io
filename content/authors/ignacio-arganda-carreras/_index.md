@@ -47,10 +47,6 @@ social:
   #- icon: bluesky-brands
   #  icon_pack: custom
   #  link: 'https://bsky.app/profile/iarganda.bsky.social'
-  - name: Unicorns
-    description: I have a pet unicorn.
-    icon: 🦄
-    icon_pack: emoji
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=XYZ123'
