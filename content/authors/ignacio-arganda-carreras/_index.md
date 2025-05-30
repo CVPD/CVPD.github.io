@@ -14,7 +14,7 @@ role: Ikerbasque Research Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: University of the Basque Country
+  - name: University of the Basque Country (UPV/EHU)
     url: 'https://www.ehu.eus'
   - name: Donostia International Physics Center (DIPC)
     url: 'https://www.dipc.org'

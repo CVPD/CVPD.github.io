@@ -14,7 +14,7 @@ role: Assistant PhD Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: University of the Basque Country
+  - name: University of the Basque Country (UPV/EHU)
     url: 'https://www.ehu.eus'
 
 # Short bio (displayed in user profile at end of posts)

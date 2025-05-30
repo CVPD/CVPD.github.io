@@ -14,7 +14,7 @@ role: Lecturer & Researcher at UPV-EHU
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad del País Vasco
+  - name: University of the Basque Country (UPV/EHU)
     url: 'https://www.ehu.eus'
 
 # Short bio (displayed in user profile at end of posts)
