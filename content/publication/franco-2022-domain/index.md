@@ -3,7 +3,7 @@ title: Deep learning based domain adaptation for mitochondria segmentation on EM
 authors:
 - Daniel Franco-Barranco
 - Julio Pastor-Tronch
-- Aitor González-Marfil
+- Aitor Gonzalez-Marfil
 - Arrate Muñoz-Barrutia
 - Ignacio Arganda-Carreras
 date: '2022-01-01'
