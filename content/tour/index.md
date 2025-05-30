@@ -9,27 +9,27 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the CVPD group
-        content: We're interested in image processing, geometric modeling, machine learning...
+        content: From pixels to patterns — we blend vision, geometry, and AI
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: code-vision.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: And more... ☕️
-        content: Pattern recognition, graph-based embedding, human-computer interaction...
+      - title: And beyond... ☕️
+        content: From embedding spaces to interactive systems — we keep exploring
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: gpu-cluster.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: Real-world applications 
-        content: Face image analysis, biomedical image analysis...
+      - title: Real-world impact 
+        content: From facial recognition to biomedical imaging — we turn theory into practice
         align: right
         background:
           image:
