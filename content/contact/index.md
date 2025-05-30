@@ -9,24 +9,31 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        We’re always happy to hear from curious minds!
+        Whether you're a student looking for a Bachelor’s or Master’s thesis project, or a researcher interested in PhD or Postdoc opportunities, we’d love to connect.
+
+        At the Computer Vision and Pattern Discovery (CVPD) group, we work at the intersection of computer vision, machine learning, and real-world applications — from biomedical imaging to human-computer interaction.
+
+        We regularly host students from local and international universities, and we welcome PhD and Postdoc candidates who want to apply for competitive fellowships or funding schemes with us.
+
+        📩 Get in touch to learn more about our current projects, available supervision opportunities, and how we can support your application.
+      email: ignacio.arganda@ehu.eus, fadi.dornaika@ehu.eus
+      phone: 0034 943 01 73 25
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Paseo de Manuel Lardizabal, 1 
+        city: San Sebastian
+        region: Gipuzkoa
+        postcode: '20018'
+        country: Spain
+        country_code: SP
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+        latitude: '43.3060928'
+        longitude: '-2.0110165'
+      directions: Enter the Computer Science building and take the stairs to Office 330 on Floor 3
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
+      #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -37,13 +44,13 @@ sections:
       autolink: true
     
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
+      #    # Enable CAPTCHA challenge to reduce spam?
+      #    captcha: false
     design:
       columns: '1'
 
