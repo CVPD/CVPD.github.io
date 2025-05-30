@@ -10,7 +10,7 @@ sections:
       slides:
       - title: 👋 Welcome to the CVPD group
         content: From pixels to patterns — we blend vision, geometry, and AI
-        align: center
+        align: left
         background:
           image:
             filename: code-vision.jpg
@@ -18,7 +18,7 @@ sections:
               brightness: 0.5
           position: right
           color: '#666'
-      - title: And beyond... ☕️
+      - title: And beyond... ⚙️
         content: From embedding spaces to interactive systems — we keep exploring
         align: left
         background:
@@ -28,7 +28,7 @@ sections:
               brightness: 0.5
           position: center
           color: '#555'
-      - title: Real-world impact 
+      - title: Real-world impact 🌐
         content: From facial recognition to biomedical imaging — we turn theory into practice
         align: right
         background:
