@@ -1,17 +1,16 @@
 ---
-title: 2 members of our CVPD department are included in the Stanford ranking of most influential researcher
+title: Two CVPD Members Featured in Stanford’s List of Most Influential Researchers
 date: 2022-11-10
 ---
 
-Congratulations Nacho and Fadi
+🎉 Congratulations, Nacho and Fadi! 🎉
 
 <!--more-->
 
-2 members of our CVPD department in the Stanford ranking of most influential researchers (11/10/2022)
+We’re proud to share that two members of our group have been included in Stanford University’s prestigious ["Ranking of the World Scientists: World’s Top 2% Scientists,"](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/5) released on November 3, 2022.
 
-Stanford University has published the list "Ranking of the World Scientists: World’s Top 2% Scientists," which identifies the most influential researchers in the world of science. The senior list and the list for the last year include 2 members of our department: Ignacio Arganda and  Fadi Dornaika.
+Both the **career-long impact** list and the **single-year impact** list feature **Ignacio Arganda-Carreras** and **Fadi Dornaika** among the world’s most influential researchers.
 
-The ranking highlights the researchers most cited in scientific publications.
+This ranking is based on standardized citation metrics and highlights those with the highest impact in scientific publications across all disciplines.
 
-
-
+👏 A big congratulations to Nacho and Fadi for this well-deserved recognition!
