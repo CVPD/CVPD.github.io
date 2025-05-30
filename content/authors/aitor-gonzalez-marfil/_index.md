@@ -4,7 +4,7 @@ title: Aitor Gonzalez-Marfil
 
 # Full Name (for SEO)
 first_name: Aitor  
-last_name: González-Marfil
+last_name: Gonzalez-Marfil
 
 # Is this the primary user of the site?
 superuser: true
