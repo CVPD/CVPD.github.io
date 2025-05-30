@@ -44,8 +44,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ignacio.arganda@ehu.es'
-  - icon: bluesky
-    icon_pack: fab
+  - icon: bluesky-brands
+    icon_pack: custom
     link: 'https://bsky.app/profile/iarganda.bsky.social'
   - icon: google-scholar
     icon_pack: ai
