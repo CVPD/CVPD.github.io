@@ -5,26 +5,52 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: slider
     content:
-      title: |
-        CVPD
-      image:
-         filename: logos_ehu_ikerbasque.jpeg
-      text: |
-        <br>
-        Welcome to the Computer Vision and Pattern Discovery group! We are a group of researchers interested in:
-        <ul>
-          <li>Image Processing </li>
-          <li>Geometric Modeling </li>
-          <li>Machine Learning </li>
-          <li>Pattern Recognition </li>
-          <li>Graph-based Embedding </li>
-          <li>Face Image Analysis </li>
-          <li>Human-Computer Interaction </li>
-          <li>Remote Sensing </li>
-          <li>Bio-medical Image Analysis </li></ul>
-  
+      slides:
+      - title: 👋 Welcome to the CVPD group
+        content: From pixels to patterns — we blend vision, geometry, and AI
+        align: left
+        background:
+          image:
+            filename: code-vision.jpg
+            filters:
+              brightness: 0.5
+          position: right
+          color: '#666'
+      - title: And beyond... ⚙️
+        content: From embedding spaces to interactive systems — we keep exploring
+        align: left
+        background:
+          image:
+            filename: gpu-cluster.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#555'
+      - title: Real-world impact 🌐
+        content: From facial recognition to biomedical imaging — we turn theory into practice
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
   - block: collection
     content:
       title: Latest News
