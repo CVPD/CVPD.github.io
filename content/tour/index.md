@@ -15,7 +15,7 @@ sections:
           image:
             filename: code-vision.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: right
           color: '#666'
       - title: And beyond... ☕️
@@ -25,7 +25,7 @@ sections:
           image:
             filename: gpu-cluster.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.5
           position: center
           color: '#555'
       - title: Real-world impact 
