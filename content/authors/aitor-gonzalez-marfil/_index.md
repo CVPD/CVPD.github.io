@@ -10,7 +10,7 @@ last_name: González-Marfil
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Students
 
 # Organizations/Affiliations
 organizations:
