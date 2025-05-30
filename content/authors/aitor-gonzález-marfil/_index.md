@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Aitor Gonzalez-Marfil
+title: Aitor González-Marfil
 
 # Full Name (for SEO)
 first_name: Aitor  
-last_name: Gonzalez-Marfil
+last_name: González-Marfil
 
 # Is this the primary user of the site?
 superuser: true
