@@ -31,4 +31,10 @@ abstract: BiaPy is an open-source library and application that streamlines the u
 links:
 - name: Preprint
   url: https://www.biorxiv.org/content/10.1101/2024.02.03.576026v3
+- name: Website
+  url: https://biapyx.github.io
+- name: Code
+  url: https://github.com/BiaPyX/BiaPy
+- name: Documentation
+  url: https://biapy.readthedocs.io/en/latest/
 ---
