@@ -19,7 +19,6 @@ publication_types:
 - article-journal
 publication: '*Nature Methods*'
 doi: 10.1038/s41592-025-02699-y
-preprint: https://www.biorxiv.org/content/10.1101/2024.02.03.576026v3
 abstract: BiaPy is an open-source library and application that streamlines the use
   of common deep learning approaches for bioimage analysis. Designed to simplify technical
   complexities, it offers an intuitive interface, zero-code notebooks, and Docker
@@ -29,4 +28,7 @@ abstract: BiaPy is an open-source library and application that streamlines the u
   encompass all aspects of bioimage analysis, such as visualization and manual annotation
   tools, it empowers researchers by providing a ready-to-use environment with customizable
   templates that facilitate sophisticated bioimage analysis workflows.
+links:
+- name: Preprint
+  url: https://www.biorxiv.org/content/10.1101/2024.02.03.576026v3
 ---
