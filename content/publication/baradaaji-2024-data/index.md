@@ -2,9 +2,9 @@
 title: 'Data and Label Graph Fusion for Semi-supervised Learning: Application to Image
   Categorization'
 authors:
-- A Baradaaji
-- F Dornaika
-- I Arganda-Carreras
+- Abdullah Baradaaji
+- Fadi Dornaika
+- Ignacio Arganda-Carreras
 date: '2024-01-01'
 publishDate: '2025-05-30T15:30:23.929154Z'
 publication_types:

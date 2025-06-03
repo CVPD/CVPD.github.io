@@ -1,9 +1,9 @@
 ---
 title: Transfer learning and feature fusion for kinship verification
 authors:
-- F Dornaika
-- I Arganda-Carreras
-- O Serradilla
+- Fadi Dornaika
+- Ignacio Arganda-Carreras
+- Oscar Serradilla
 date: '2019-01-01'
 publishDate: '2025-03-05T11:10:32.806947Z'
 publication_types:

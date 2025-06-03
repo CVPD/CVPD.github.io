@@ -1,9 +1,9 @@
 ---
 title: Evaluating Age Estimation Using Deep Convolutional Neural Nets
 authors:
-- C Belver
-- I Arganda-Carreras
-- F Dornaika
+- Carlos Belver
+- Ignacio Arganda-Carreras
+- Fadi Dornaika
 date: '2017-01-01'
 publishDate: '2025-03-05T11:10:32.881695Z'
 publication_types:
