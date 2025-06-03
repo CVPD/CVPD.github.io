@@ -31,10 +31,10 @@ interests:
 education:
   courses:
     - course: MSc in Computational Engineering and Intelligent Systems
-      institution: University of the Basque Country
+      institution: University of the Basque Country (UPV/EHU)
       year: 2022
     - course: BSc in Computer Science
-      institution: University of the Basque Country
+      institution: University of the Basque Country (UPV/EHU)
       year: 2021
 
 # Social/Academic Networking
