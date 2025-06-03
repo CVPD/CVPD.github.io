@@ -56,7 +56,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 **Ignacio Arganda-Carreras** is an [Ikerbasque Research Associate Professor](https://www.ikerbasque.net/en/ignacio-arganda-carreras) at the University of the Basque Country (UPV/EHU) and associated with the Donostia International Physics Center (DIPC) and the Biofisika Institute (Leioa, Spain). He earned his European PhD in Computer Engineering and Telecommunications by the Autonomous University of Madrid (Extraordinary Doctorate Award, 2009) and holds a BSc in Computer Engineering from the same university. He took postdoctoral studies at the department of Brain and Cognitive Sciences of the Massachusetts Institute of Technology (MIT) from 2009 to 2013 and at the Jean-Pierre Bourgin Institute of the Institut National de la Recherche Agronomique (INRA), Versailles, from 2013 to 2015.

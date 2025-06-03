@@ -51,7 +51,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 **Fadi Dornaika** is an Ikerbasque Research Professor at the Universidad del País Vasco, Departamento de Ciencias de la Computación e Inteligencia Artificial, Facultad de Informática, 20018 Donostia - San Sebastián, España.
