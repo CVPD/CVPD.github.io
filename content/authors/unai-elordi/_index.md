@@ -49,6 +49,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.es/citations?user=f8WBAnsAAAAJ&hl=en'
+  - icon: orcid
+    icon_pack: ai
+    link: 'https://orcid.org/0000-0002-6276-0123'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
