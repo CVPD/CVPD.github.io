@@ -1,307 +1,45 @@
-@article{gomez2023human,
-  title={The human remains found in 1967 in Axlor: Still not convincingly Neandertals: A reply to Gonz{\'a}lez-Urquijo et al},
-  author={G{\'o}mez-Olivencia, Asier and L{\'o}pez-Onaindia, Diego and Sala, Nohemi and Balzeau, Antoine and Pantoja-P{\'e}rez, Ana and Arganda-Carreras, Ignacio and Arlegi, Mikel and Rios-Garaizar, Joseba and G{\'o}mez-Robles, Aida},
-  journal={American Journal of Biological Anthropology},
-  volume={180},
-  number={2},
-  pages={245--251},
-  year={2023},
-  doi={10.1002/ajpa.24633}
+
+@Article{dalecka2021invadopodia,
+AUTHOR = {Dalecká, Markéta and Sabó, Ján and Backová, Lenka and Rösel, Daniel and Brábek, Jan and Benda, Aleš and Tolde, Ondřej},
+TITLE = {Invadopodia Structure in 3D Environment Resolved by Near-Infrared Branding Protocol Combining Correlative Confocal and FIB-SEM Microscopy},
+JOURNAL = {International Journal of Molecular Sciences},
+VOLUME = {22},
+YEAR = {2021},
+NUMBER = {15},
+ARTICLE-NUMBER = {7805},
+URL = {https://www.mdpi.com/1422-0067/22/15/7805},
+PubMedID = {34360570},
+ISSN = {1422-0067},
+ABSTRACT = {Cancer cell invasion through tissue barriers is the intrinsic feature of metastasis, the most life-threatening aspect of cancer. Detailed observation and analysis of cancer cell behaviour in a 3D environment is essential for a full understanding of the mechanisms of cancer cell invasion. The inherent limits of optical microscopy resolution do not allow to for in-depth observation of intracellular structures, such as invadopodia of invading cancer cells. The required resolution can be achieved using electron microscopy techniques such as FIB-SEM. However, visualising cells in a 3D matrix using FIB-SEM is challenging due to difficulties with localisation of a specific cell deep within the resin block. We have developed a new protocol based on the near-infrared branding (NIRB) procedure that extends the pattern from the surface grid deep inside the resin. This 3D burned pattern allows for precise trimming followed by targeted 3D FIB-SEM. Here we present detailed 3D CLEM results combining confocal and FIB-SEM imaging of cancer cell invadopodia that extend deep into the collagen meshwork.},
+DOI = {10.3390/ijms22157805}
 }
 
-@article{andres2023cartocell,
-  title={CartoCell, a high-content pipeline for 3D image analysis, unveils cell morphology patterns in epithelia},
-  author={Andres-San Roman, Jesus A and Gordillo-Vazquez, Carmen and Franco-Barranco, Daniel and Morato, Laura and Fernandez-Espartero, Cecilia H and Baonza, Gabriel and Tagua, Antonio and Vicente-Munuera, Pablo and Palacios, Ana M and Gavil{\'a}n, Mar{\'\i}a P and others},
-  journal={Cell Reports Methods},
-  volume={3},
-  number={10},
-  year={2023},
-  publisher={Elsevier},
-  abstract={Decades of research have not yet fully explained the mechanisms of epithelial self-organization and 3D packing. Single-cell analysis of large 3D epithelial libraries is crucial for understanding the assembly and function of whole tissues. Combining 3D epithelial imaging with advanced deep-learning segmentation methods is essential for enabling this high-content analysis. We introduce CartoCell, a deep-learning-based pipeline that uses small datasets to generate accurate labels for hundreds of whole 3D epithelial cysts. Our method detects the realistic morphology of epithelial cells and their contacts in the 3D structure of the tissue. CartoCell enables the quantification of geometric and packing features at the cellular level. Our single-cell cartography approach then maps the distribution of these features on 2D plots and 3D surface maps, revealing cell morphology patterns in epithelial cysts. Additionally, we show that CartoCell can be adapted to other types of epithelial tissues.},
-  doi={10.1016/j.crmeth.2023.100597}
-}
-
-@article{franco2023current,
-  title={Current progress and challenges in large-scale 3D mitochondria instance segmentation},
-  author={Franco-Barranco, Daniel and Lin, Zudi and Jang, Won-Dong and Wang, Xueying and Shen, Qijia and Yin, Wenjie and Fan, Yutian and Li, Mingxing and Chen, Chang and Xiong, Zhiwei and others},
-  journal={IEEE transactions on medical imaging},
-  volume={42},
-  number={12},
-  pages={3956--3971},
-  year={2023},
-  publisher={IEEE},
-  abstract={In this paper, we present the results of the MitoEM challenge on mitochondria 3D instance segmentation from electron microscopy images, organized in conjunction with the IEEE-ISBI 2021 conference. Our benchmark dataset consists of two large-scale 3D volumes, one from human and one from rat cortex tissue, which are 1,986 times larger than previously used datasets. At the time of paper submission, 257 participants had registered for the challenge, 14 teams had submitted their results, and six teams participated in the challenge workshop. Here, we present eight top-performing approaches from the challenge participants, along with our own baseline strategies. Posterior to the challenge, annotation errors in the ground truth were corrected without altering the final ranking. Additionally, we present a retrospective evaluation of the scoring system which revealed that: 1) challenge metric was permissive with the false positive predictions; and 2) size-based grouping of instances did not correctly categorize mitochondria of interest. Thus, we propose a new scoring system that better reflects the correctness of the segmentation results. Although several of the top methods are compared favorably to our own baselines, substantial errors remain unsolved for mitochondria with challenging morphologies. Thus, the challenge remains open for submission and automatic evaluation, with all volumes available for download.},
-  doi={10.1109/TMI.2023.3320497}
-}
-
-@article{elordi2023optimizing,
-  title={Optimizing Video Analytics Deployment for In-Flight Cabin Readiness Verification},
-  author={Elordi, Unai and Aranjuelo, Nerea and Unzueta, Luis and Apellaniz, Jose Luis and Arganda-Carreras, Ignacio},
-  journal={IEEE Access},
-  volume={11},
-  pages={92985--92995},
-  year={2023},
-  publisher={IEEE},
-  abstract={This paper proposes an approach to optimize the deployment of on-board video analytics for checking the correct positioning of luggage in aircraft cabins. The system consists of embedded cameras installed on top of the cabin and a heterogeneous embedded processor. Each camera covers multiple regions of interest (i.e., multiple seats or aisle sections) to minimize the number of cameras required. Each image region is processed by a separate image classification algorithm trained with the expected kind of visual appearance considering the effect of perspective and lens distortion. They classify these regions as correct or incorrect for cabin readiness by exploiting the hierarchical structure of classes composed of different configurations of passengers’ and objects’ presence or absence and the objects’ location. Our approach leverages semantic distances between classes to guide prototypical neural networks for multi-tasking between the main classification (i.e., correct or incorrect status) and auxiliary attributes (i.e., scene configurations), learning robust features from different data domains (i.e., various cabins, real or synthetic). The processing pipeline optimizes response delay and power consumption by leveraging embedded processors’ computing capabilities. We carried out experiments in a cabin mockup with a Jetson AGX Xavier, efficiently obtaining better-quality descriptive information from the scene to improve the system’s accuracy compared to alternative state-of-the-art methods.},
-  doi={10.1109/ACCESS.2023.3309050}
-}
-
-@inproceedings{franco2023biapy,
-  title={BiaPy: A ready-to-use library for bioimage analysis pipelines},
-  author={Franco-Barranco, Daniel and Andr{\'e}s-San Rom{\'a}n, Jes{\'u}s A and G{\'o}mez-G{\'a}lvez, Pedro and Escudero, Luis M and Mu{\~n}oz-Barrutia, Arrate and Arganda-Carreras, Ignacio},
-  booktitle={2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)},
-  pages={1--5},
-  year={2023},
-  organization={IEEE},
-  abstract={In recent years, technological advances in microscopy have made available large amounts of data to biomedical researchers in the form of images. By learning from such large datasets, deep learning-based methods have successfully addressed previously inaccessible bioimage analysis tasks. However, most available solutions target a particular subset of problems, forcing users to be familiarized with different applications to complete their data analysis. On top of that, other issues, such as reproducibility, lack of documentation, or access to the code, arise. For these reasons, we introduce BiaPy, an open-source ready-to-use all-in-one library that provides deep-learning workflows for a large variety of bioimage analysis tasks, including 2D and 3D semantic and instance segmentation, object detection, super-resolution, denoising, self-supervised learning, and classification. All code and documentation are publicly available at https://github.com/danifranco/BiaPy.},
-  doi={10.1109/ISBI53787.2023.10230593}
-}
-
-@inproceedings{backova2023modeling,
-  title={Modeling Wound Healing Using Vector Quantized Variational Autoencoders and Transformers},
-  author={Backov{\'a}, Lenka and Bengoetxea, Guillermo and Rogalla, Svana and Franco-Barranco, Daniel and Solon, J{\'e}r{\^o}me and Arganda-Carreras, Ignacio},
-  booktitle={2023 IEEE 20th International Symposium on Biomedical Imaging (ISBI)},
-  pages={1--5},
-  year={2023},
-  organization={IEEE},
-  abstract={Wound healing is a fundamental mechanism for living animals. Understanding the process is crucial for numerous medical applications ranging from scarless healing to faster tissue regeneration and safer post-surgery recovery. In this work, we collect a dataset of time-lapse sequences of Drosophila embryos recovering from a laser-incised wound. We model the wound healing process as a video prediction task for which we utilize a two-stage approach with a vector quantized variational autoencoder and an autoregressive transformer. We show our trained model is able to generate realistic videos conditioned on the initial frames of the healing. We evaluate the model predictions using distortion measures and perceptual quality metrics based on segmented wound masks. Our results show that the predictions keep pixel-level error low while behaving in a realistic manner, thus suggesting the neural network is able to model the wound-closing process.},
-  doi={10.1109/ISBI53787.2023.10230571}
-}
-
-@article{abou2023white,
-  title={White blood cell classification: Convolutional Neural Network (CNN) and Vision Transformer (ViT) under medical microscope},
-  author={Abou Ali, Mohamad and Dornaika, Fadi and Arganda-Carreras, Ignacio},
-  journal={Algorithms},
+@article{godeau2025transient,
+  title={A transient contractile seam promotes epithelial sealing and sequential assembly of body segments},
+  author={Godeau, Amélie L and Marin-Riera, Miquel and Trubuil, Elise and Rogalla, Svana and Bengoetxea, Guillermo and Backová, Lenka and Pujol, Thomas and Colombelli, Julien and Sharpe, James and Martin-Blanco, Enrique and Solon, Jérôme},
+  journal={Nature Communications},
   volume={16},
-  number={11},
-  pages={525},
-  year={2023},
-  publisher={MDPI},
-  abstract={Deep learning (DL) has made significant advances in computer vision with the advent of vision transformers (ViTs). Unlike convolutional neural networks (CNNs), ViTs use self-attention to extract both local and global features from image data, and then apply residual connections to feed these features directly into a fully networked multilayer perceptron head. In hospitals, hematologists prepare peripheral blood smears (PBSs) and read them under a medical microscope to detect abnormalities in blood counts such as leukemia. However, this task is time-consuming and prone to human error. This study investigated the transfer learning process of the Google ViT and ImageNet CNNs to automate the reading of PBSs. The study used two online PBS datasets, PBC and BCCD, and transferred them into balanced datasets to investigate the influence of data amount and noise immunity on both neural networks. The PBC results showed that the Google ViT is an excellent DL neural solution for data scarcity. The BCCD results showed that the Google ViT is superior to ImageNet CNNs in dealing with unclean, noisy image data because it is able to extract both global and local features and use residual connections, despite the additional time and computational overhead.},
-  doi={10.3390/a16110525}
-}
-
-@article{hidalgo2024dl4miceverywhere,
-  title={DL4MicEverywhere: deep learning for microscopy made flexible, shareable and reproducible},
-  author={Hidalgo-Cenalmor, Iv{\'a}n and Pylv{\"a}n{\"a}inen, Joanna W and G. Ferreira, Mariana and Russell, Craig T and Saguy, Alon and Arganda-Carreras, Ignacio and Shechtman, Yoav and Jacquemet, Guillaume and Henriques, Ricardo and others},
-  journal={Nature methods},
-  volume={21},
-  number={6},
-  pages={925--927},
-  year={2024},
-  publisher={Nature Publishing Group US New York},
-  abstract={DL4MicEverywhere is a platform that lets users train and implement their models in different computational environments. These environments include Google Colab, personal computational resources such as a desktop or laptop, and HPC systems. This flexibility is achieved by encapsulating each deep learning technique in an interactive Jupyter Notebook within a Docker container, enabling others to replicate analyses consistently across multiple platforms. DL4MicEverywhere (https://github.com/HenriquesLab/DL4MicEverywhere) enables users to install and interact with a large offering of standardized, user-friendly deep learning workflows, away from the limitations of proprietary platforms such as Google Colab and in a secure computational environment with controlled data privacy and resources. DL4MicEverywhere can be launched graphically, via X11 forwarding, or directly through a command line (headless mode), supporting HPC usage. This cross-platform containerization technology boosts the long-term platform’s sustainability and reproducibility, enhancing user convenience.},
-  doi={10.1038/s41592-024-02295-6}
-}
-
-@article{abou2023blood,
-  title={Blood cell revolution: Unveiling 11 distinct types with ‘Naturalize’ augmentation},
-  author={Abou Ali, Mohamad and Dornaika, Fadi and Arganda-Carreras, Ignacio},
-  journal={Algorithms},
-  volume={16},
-  number={12},
-  pages={562},
-  year={2023},
-  publisher={MDPI},
-  abstract={Artificial intelligence (AI) has emerged as a cutting-edge tool, simultaneously accelerating, securing, and enhancing the diagnosis and treatment of patients. An exemplification of this capability is evident in the analysis of peripheral blood smears (PBS). In university medical centers, hematologists routinely examine hundreds of PBS slides daily to validate or correct outcomes produced by advanced hematology analyzers assessing samples from potentially problematic patients. This process may logically lead to erroneous PBC readings, posing risks to patient health. AI functions as a transformative tool, significantly improving the accuracy and precision of readings and diagnoses. This study reshapes the parameters of blood cell classification, harnessing the capabilities of AI and broadening the scope from 5 to 11 specific blood cell categories with the challenging 11-class PBC dataset. This transformation facilitates a more profound exploration of blood cell diversity, surpassing prior constraints in medical image analysis. Our approach combines state-of-the-art deep learning techniques, including pre-trained ConvNets, ViTb16 models, and custom CNN architectures. We employ transfer learning, fine-tuning, and ensemble strategies, such as CBAM and Averaging ensembles, to achieve unprecedented accuracy and interpretability. Our fully fine-tuned EfficientNetV2 B0 model sets a new standard, with a macro-average precision, recall, and F1-score of 91%, 90%, and 90%, respectively, and an average accuracy of 93%. This breakthrough underscores the transformative potential of 11-class blood cell classification for more precise medical diagnoses. Moreover, our groundbreaking “Naturalize” augmentation technique produces remarkable results. The 2K-PBC dataset generated with “Naturalize” boasts a macro-average precision, recall, and F1-score of 97%, along with an average accuracy of 96% when leveraging the fully fine-tuned EfficientNetV2 B0 model. This innovation not only elevates classification performance but also addresses data scarcity and bias in medical deep learning. Our research marks a paradigm shift in blood cell classification, enabling more nuanced and insightful medical analyses. The “Naturalize” technique’s impact extends beyond blood cell classification, emphasizing the vital role of diverse and comprehensive datasets in advancing healthcare applications through deep learning.},
-  doi={10.3390/a16120562}
-}
-
-@article{lekunberri2024automatic,
-  title={Automatic mapping of aquaculture activity in the Atlantic Ocean},
-  author={Lekunberri, Xabier and Ballester-Berman, J David and Arganda-Carreras, Ignacio and Fernandes-Salvador, Jose A},
-  journal={International Journal of Applied Earth Observation and Geoinformation},
-  volume={132},
-  pages={104061},
-  year={2024},
-  publisher={Elsevier},
-  abstract={The production of wild fish has remained relatively stable in the last two decades, whereas aquaculture organism production has increased to the point where it has exceeded wild catches. In this context, accurate and up-to-date information about the current usage of marine areas for aquaculture is crucial for the planning of marine activities. However, this data is often limited to national authorities, and discrepancies between planned and real practices can arise in available data. In this study, a novel methodology to automatically map and verify the current activity of aquaculture crops across European regions based on freely available satellite data is proposed. The European Space Agency’s (ESA) Sentinel-1 mission provides Synthetic Aperture Radar (SAR) images, which serve as the basis for the analysis. Multiple SAR images of the same locations are processed using ESA Sentinel Application Platform (SNAP) software and merged to remove temporal noise-like artifacts caused by factors such as ships and waves. Next, the iDPolRAD algorithm is employed to detect potential aquaculture sites, which initially include noise from coastal zones and unwanted human and natural structures that pass through the filter. The aquaculture sites are classified using a ResNet18 model with 93% of the sites correctly classified. This implies that it is feasible to monitor marine areas using satellite radar data to track aquaculture areas. However, generalization power across regions is poor likely due to the diversity of types of structures used and species cultivated. Further studies are needed to investigate factors influencing the detectability of different aquaculture sites such as cage geometry or SAR image resolution in order to enhance the accuracy and comprehensiveness of the mapping process. This study highlights the potential of SAR data, coupled with image processing and classification techniques, as a viable means to map large marine areas dedicated to aquaculture.},
-  doi={10.1016/j.jag.2024.10406}
-}
-
-@article{abou2024naturalize,
-  title={Naturalize revolution: unprecedented ai-driven precision in skin cancer classification using deep learning},
-  author={Abou Ali, Mohamad and Dornaika, Fadi and Arganda-Carreras, Ignacio and Ali, Hussein and Karaouni, Malak},
-  journal={BioMedInformatics},
-  volume={4},
   number={1},
-  pages={638--660},
-  year={2024},
-  publisher={MDPI},
-  abstract={Background: In response to the escalating global concerns surrounding skin cancer, this study aims to address the imperative for precise and efficient diagnostic methodologies. Focusing on the intricate task of eight-class skin cancer classification, the research delves into the limitations of conventional diagnostic approaches, often hindered by subjectivity and resource constraints. The transformative potential of Artificial Intelligence (AI) in revolutionizing diagnostic paradigms is underscored, emphasizing significant improvements in accuracy and accessibility. Methods: Utilizing cutting-edge deep learning models on the ISIC2019 dataset, a comprehensive analysis is conducted, employing a diverse array of pre-trained ImageNet architectures and Vision Transformer models. To counteract the inherent class imbalance in skin cancer datasets, a pioneering “Naturalize” augmentation technique is introduced. This technique leads to the creation of two indispensable datasets—the Naturalized 2.4K ISIC2019 and groundbreaking Naturalized 7.2K ISIC2019 datasets—catalyzing advancements in classification accuracy. The “Naturalize” augmentation technique involves the segmentation of skin cancer images using the Segment Anything Model (SAM) and the systematic addition of segmented cancer images to a background image to generate new composite images. Results: The research showcases the pivotal role of AI in mitigating the risks of misdiagnosis and under-diagnosis in skin cancer. The proficiency of AI in analyzing vast datasets and discerning subtle patterns significantly augments the diagnostic prowess of dermatologists. Quantitative measures such as confusion matrices, classification reports, and visual analyses using Score-CAM across diverse dataset variations are meticulously evaluated. The culmination of these endeavors resulted in an unprecedented achievement—100% average accuracy, precision, recall, and F1-score—within the groundbreaking Naturalized 7.2K ISIC2019 dataset. Conclusion: This groundbreaking exploration highlights the transformative capabilities of AI-driven methodologies in reshaping the landscape of skin cancer diagnosis and patient care. The research represents a pivotal stride towards redefining dermatological diagnosis, showcasing the remarkable impact of AI-powered solutions in surmounting the challenges inherent in skin cancer diagnosis. The attainment of 100% across crucial metrics within the Naturalized 7.2K ISIC2019 dataset serves as a testament to the transformative capabilities of AI-driven approaches in reshaping the trajectory of skin cancer diagnosis and patient care. This pioneering work paves the way for a new era in dermatological diagnostics, heralding the dawn of unprecedented precision and efficacy in the identification and classification of skin cancers.},
-  doi={10.3390/biomedinformatics4010035}
-}
-
-@article{baradaaji2024data,
-  title={Data and Label Graph Fusion for Semi-supervised Learning: Application to Image Categorization},
-  author={Baradaaji, A and Dornaika, F and Arganda-Carreras, I},
-  journal={Electronic Imaging},
-  volume={36},
-  pages={1--6},
-  year={2024},
-  publisher={Society for Imaging Science and Technology},
-  abstract={In this paper, a novel framework for semi-supervised learning based on graphs is introduced. We present an innovative approach for concurrently estimating label inference and performing a linear transformation. This specific linear transformation is directed towards achieving a discriminant subspace, which effectively reduces the dimensionality of the data. To enhance the semisupervised learning process, our framework places a strong emphasis on leveraging the inherent data structure and incorporating the information provided by soft labels from the available unlabeled samples. The method we propose ultimately results in an improved discriminative linear transformation. The effectiveness of our approach is verified through a series of experiments conducted on real image datasets. These experiments not only confirm the efficacy of our proposed method but also demonstrate its superior performance when compared to semi-supervised methods that simultaneously incorporate integration and label inference.},
-  doi={10.2352/EI.2024.36.10.IPAS-253}
-}
-
-@article{nunez2024transformer,
-  title={Transformer-based fall detection in videos},
-  author={N{\'u}{\~n}ez-Marcos, Adri{\'a}n and Arganda-Carreras, Ignacio},
-  journal={Engineering Applications of Artificial Intelligence},
-  volume={132},
-  pages={107937},
-  year={2024},
-  publisher={Pergamon},
-  abstract={Falls pose a major threat for the elderly as they result in severe consequences for their physical and mental health or even death in the worst-case scenario. Nonetheless, the impact of falls can be alleviated with appropriate technological solutions. Fall detection is the task of recognising a fall, i.e. detecting when a person has fallen in a video. Such an algorithm can be implemented in lightweight devices which can then cater to the users’ needs, e.g. alerting emergency services or caregivers. At the core of those systems, a model capable of promptly recognising falls is crucial for reducing the time until help comes. In this paper we propose a fall detection solution based on transformers, i.e. state-of-the-art neural networks for computer vision tasks. Our model takes a video clip and decides if a fall has occurred or not. In a video stream, it would be applied in a sliding-window fashion to trigger an alarm as soon as it detects a fall. We evaluate our fall detection backbone model on the large UP-Fall dataset, as well as on the UR fall dataset, and compare our results with existing literature using the former dataset.},
-  doi={10.1016/j.engappai.2024.107937}
-}
-
-@article{aranjuelo2024learning,
-  title={Learning Gaze-aware Compositional GAN from Limited Annotations},
-  author={Aranjuelo, Nerea and Huang, Siyu and Arganda-Carreras, Ignacio and Unzueta, Luis and Otaegui, Oihana and Pfister, Hanspeter and Wei, Donglai},
-  journal={Proceedings of the ACM on Computer Graphics and Interactive Techniques},
-  volume={7},
-  number={2},
-  pages={1--17},
-  year={2024},
-  publisher={ACM New York, NY, USA},
-  abstract={Gaze-annotated facial data is crucial for training deep neural networks (DNNs) for gaze estimation. However, obtaining these data is labor-intensive and requires specialized equipment due to the challenge of accurately annotating the gaze direction of a subject. In this work, we present a generative framework to create annotated gaze data by leveraging the benefits of labeled and unlabeled data sources. We propose a Gaze-aware Compositional GAN that learns to generate annotated facial images from a limited labeled dataset. Then we transfer this model to an unlabeled data domain to take advantage of the diversity it provides. Experiments demonstrate our approach's effectiveness in generating within-domain image augmentations in the ETH-XGaze dataset and cross-domain augmentations in the CelebAMask-HQ dataset domain for gaze estimation DNN training. We also show additional applications of our work, which include facial image editing and gaze redirection.},
-  doi={10.1145/3654706}
-}
-
-@inproceedings{franco2024self,
-  title={Self-supervised Vision Transformers for image-to-image labeling: a BiaPy solution to the LightMyCells Challenge},
-  author={Franco-Barranco, Daniel and Gonz{\'a}lez-Marfil, Aitor and Arganda-Carreras, Ignacio},
-  booktitle={2024 IEEE International Symposium on Biomedical Imaging (ISBI)},
-  pages={1--5},
-  year={2024},
-  organization={IEEE},
-  abstract={Fluorescence microscopy plays a crucial role in cellular analysis but is often hindered by phototoxicity and limited spectral channels. Label-free transmitted light microscopy presents an attractive alternative, yet recovering fluorescence images from such inputs remains difficult. In this work, we address the Cell Painting problem within the LightMyCells challenge at the International Symposium on Biomedical Imaging (ISBI) 2024, aiming to predict optimally focused fluorescence images from label-free transmitted light inputs. Leveraging advancements self-supervised Vision Transformers, our method overcomes the constraints of scarce annotated biomedical data and fluorescence microscopy’s drawbacks. Four specialized models, each targeting a different organelle, are pretrained in a self-supervised manner to enhance model generalization. Our method, integrated within the open-source BiaPy library, contributes to the advancement of image-to-image deep-learning techniques in cellular analysis, offering a promising solution for robust and accurate fluorescence image prediction from label-free transmitted light inputs. Code and documentation can be found at https://github.com/danifranco/BiaPy and a custom tutorial to reproduce all results is available at https://biapy.readthedocs.io/en/latest/tutorials/image-to-image/lightmycells.html.},
-  doi={10.1109/ISBI56570.2024.10635818}
-}
-
-@article{carnevali2024deep,
-  title={A deep learning method that identifies cellular heterogeneity using nanoscale nuclear features},
-  author={Carnevali, Davide and Zhong, Limei and Gonz{\'a}lez-Almela, Esther and Viana, Carlotta and Rotkevich, Mikhail and Wang, Aiping and Franco-Barranco, Daniel and Gonzalez-Marfil, Aitor and Neguembor, Maria Victoria and Castells-Garcia, Alvaro and others},
-  journal={Nature Machine Intelligence},
-  volume={6},
-  number={9},
-  pages={1021--1033},
-  year={2024},
+  pages={4010},
+  year={2025},
   publisher={Nature Publishing Group UK London},
-  abstract={Cellular phenotypic heterogeneity is an important hallmark of many biological processes and understanding its origins remains a substantial challenge. This heterogeneity often reflects variations in the chromatin structure, influenced by factors such as viral infections and cancer, which dramatically reshape the cellular landscape. To address the challenge of identifying distinct cell states, we developed artificial intelligence of the nucleus (AINU), a deep learning method that can identify specific nuclear signatures at the nanoscale resolution. AINU can distinguish different cell states based on the spatial arrangement of core histone H3, RNA polymerase II or DNA from super-resolution microscopy images. With only a small number of images as the training data, AINU correctly identifies human somatic cells, human-induced pluripotent stem cells, very early stage infected cells transduced with DNA herpes simplex virus type 1 and even cancer cells after appropriate retraining. Finally, using AI interpretability methods, we find that the RNA polymerase II localizations in the nucleoli aid in distinguishing human-induced pluripotent stem cells from their somatic cells. Overall, AINU coupled with super-resolution microscopy of nuclear structures provides a robust tool for the precise detection of cellular heterogeneity, with considerable potential for advancing diagnostics and therapies in regenerative medicine, virology and cancer biology.},
-  doi={10.1038/s42256-024-00883-x}
+  doi={10.1038/s41467-025-58566-z},
+  abstract={In embryos, epithelial sealing proceeds with progressive zipping eventually leading to a scar-free epithelium and ensuring the assembly of body segments in insects and neural tube in mammals. How zipping is mechanically controlled to promote tissue fusion on long distances, remains unclear. Combining physical modeling with genetic and mechanical perturbations, we reveal the existence of a transient contractile seam that generates forces to reduce the zipping angle by force balance, consequently promoting epidermal sealing during Drosophila embryogenesis. The seam is formed by the adhesion of two tissues, the epidermis and amnioserosa, and is stabilized by the tensions generated by the segment boundaries. Once a segment is zipped, the seam disassembles concurrently with the inactivation of the Jun kinase pathway. Thus, we show that epithelial sealing is promoted by a transient actomyosin contractile seam allowing sequential segment assembly.}
 }
 
-@inproceedings{iriarte2024multi,
-  title={Multi-Level XAI-Driven MLOps Pipeline for the Adjustment of Fruit and Vegetable Classifiers},
-  author={Iriarte, Francisco J and Ortiz, Miguel E and Unzueta, Luis and Mart{\'\i}nez, Javier and Zaldivar, Javier and Arganda-Carreras, Ignacio},
-  booktitle={2024 IEEE 12th International Conference on Intelligent Systems (IS)},
-  pages={1--6},
-  year={2024},
-  organization={IEEE},
-  abstract={In this paper, we present a machine learning operations (MLOps) pipeline that exploits explainable artificial intelligence (XAI) to adjust deep neural network (DNN)-based fruit and vegetable image classifiers to data observed at super-market self-checkouts. DNNs are currently the most successful AI models for several automation tasks, including fruit and vegetable classification. However, adjusting them to on-site observations to avoid model drift is challenging, as they work as black boxes that take inputs and return results without showing the processes that lead to their responses. State-of-the-art XAI techniques could help mitigate this problem, but integrating them in MLOps pipelines is also challenging due to their high computational cost. We propose multi-task B-cos (MTBC) DNNs integrated at different pipeline levels to obtain automated information about the system's on-site performance. MTBC DNNs allow indentification of fruit and vegetable types with contextual attributes in real time and generation of contribution maps that highlight task-relevant features for enhanced model adjustment. Experimental results show that MTBC DNNs obtain similar accuracy and performance to the equivalent baseline DNNs for fruit and vegetable classification but with the added benefit of explainability, supporting MLOps processes such as drift detection and exploratory data analysis.},
-  doi={10.1109/IS61756.2024.10705202}
-}
-
-@article{abou2024towards,
-  title={Towards Self-Conscious AI Using Deep ImageNet Models: Application for Blood Cell Classification},
-  author={Abou Ali, Mohamad and Dornaika, Fadi and Arganda-Carreras, Ignacio},
-  journal={Machine Learning and Knowledge Extraction},
-  volume={6},
-  number={4},
-  pages={2400--2421},
-  year={2024},
-  publisher={MDPI},
-  abstract={The exceptional performance of ImageNet competition winners in image classification has led AI researchers to repurpose these models for a whole range of tasks using transfer learning (TL). TL has been hailed for boosting performance, shortening learning time and reducing computational effort. Despite these benefits, issues such as data sparsity and the misrepresentation of classes can diminish these gains, occasionally leading to misleading TL accuracy scores. This research explores the innovative concept of endowing ImageNet models with a self-awareness that enables them to recognize their own accumulated knowledge and experience. Such self-awareness is expected to improve their adaptability in various domains. We conduct a case study using two different datasets, PBC and BCCD, which focus on blood cell classification. The PBC dataset provides high-resolution images with abundant data, while the BCCD dataset is hindered by limited data and inferior image quality. To compensate for these discrepancies, we use data augmentation for BCCD and undersampling for both datasets to achieve balance. Subsequent pre-processing generates datasets of different size and quality, all geared towards blood cell classification. We extend conventional evaluation tools with novel metrics—“accuracy difference” and “loss difference”—to detect overfitting or underfitting and evaluate their utility as potential indicators for learning behavior and promoting the self-confidence of ImageNet models. Our results show that these metrics effectively track learning progress and improve the reliability and overall performance of ImageNet models in new applications. This study highlights the transformative potential of turning ImageNet models into self-aware entities that significantly improve their robustness and efficiency in various AI tasks. This groundbreaking approach opens new perspectives for increasing the effectiveness of transfer learning in real-world AI implementations.},
-  doi={10.3390/make6040118}
-}
-
-@article{abou2024enhancing,
-  title={Enhancing MRI brain tumor classification: A comprehensive approach integrating real-life scenario simulation and augmentation techniques},
-  author={Abou Ali, Mohamad and Dornaika, Fadi and Arganda-Carreras, Ignacio and Chmouri, Rejdi and Shayeh, Hussien},
-  journal={Physica Medica},
-  volume={127},
-  pages={104841},
-  year={2024},
-  publisher={Elsevier},
-  abstract={Brain cancer poses a significant global health challenge, with mortality rates showing a concerning surge over recent decades. The incidence of brain cancer-related mortality has risen from 140,000 to 250,000, accompanied by a doubling in new diagnoses from 175,000 to 350,000. In response, magnetic resonance imaging (MRI) has emerged as a pivotal diagnostic tool, facilitating early detection and treatment planning. However, the translation of deep learning approaches to brain cancer diagnosis faces a critical obstacle: the scarcity of public clinical datasets reflecting real-world complexities. This study aims to bridge this gap through a comprehensive exploration and augmentation of training data. Initially, a battery of pre-trained deep models undergoes evaluation on a main brain cancer MRI “BT-MRI” dataset, yielding remarkable performance metrics, including 100% accuracy, precision, recall, and F1-Score, substantiated by the Score-CAM methodology. This initial success underscores the potential of deep learning in brain cancer diagnosis. Subsequently, the model’s efficacy undergoes further scrutiny using a supplementary brain cancer MRI “BCD-MRI” dataset, affirming its robustness and applicability across diverse datasets. However, the ultimate litmus test lies in confronting the model with synthetic testing datasets crafted to emulate real-world scenarios. The synthetic testing datasets, a BCD-MRI testing sub-dataset enriched with noise, blur, and simulated patient motion, reveal a sobering reality: the model’s performance plummets, exposing inherent limitations in generalization. To address this issue, a diverse set of optimization strategies and augmentation techniques, ranging from diverse optimizers to sophisticated data augmentation methods, are exhaustively explored. Despite these efforts, the problem of generalization persists. The breakthrough emerges with the integration of noise and blur as augmentation techniques during the training process. Leveraging Gaussian noise and Gaussian blur kernels, the model undergoes a transformative evolution, exhibiting newfound robustness and resilience. Retesting the refined model against the challenging synthetic datasets reveals a remarkable transformation, with performance metrics witnessing a notable ascent. This achievement underscores the important role of correct selection of data augmentation in fortifying the generalization of deep learning models for brain cancer diagnosis. This study not only advances the frontiers of diagnostic precision in brain cancer but also underscores the paramount importance of methodological rigor and innovation in confronting the complexities of real-world clinical scenarios.},
-  doi={10.1016/j.ejmp.2024.104841}
-}
-
-@inproceedings{abou2024revolutionizing,
-  title={Revolutionizing Skin Cancer Diagnosis: Unleashing AI Precision Through Deep Learning},
-  author={Abou Ali, Mohamad and Dornaika, Fadi and Arganda-Carreras, Ignacio and Ali, Hussein and Karaouni, Malak},
-  booktitle={International Conference on Smart Applications and Data Analysis},
-  pages={121--138},
-  year={2024},
-  organization={Springer Nature Switzerland Cham},
-  abstract={Accurate detection methods are desperately needed, as skin cancer concerns around the world continue to rise. Conventional methods, which depend on dermatologists’ subjective visual evaluation, face difficulties that highlight the critical role of artificial intelligence (AI). This study leverages the ISIC2019 dataset and advanced deep learning models to tackle the challenging job of 8-class skin cancer classification. Multiple pre-trained Vision Transformer models and ImageNet topologies are used in an extensive examination. An unique “Naturalize” augmentation technique is presented to resolve intrinsic class imbalances, which result in the construction of the pioneering Naturalized 7.2K ISIC2019 and the groundbreaking 2.4K ISIC2019 datasets, improving classification accuracy. The study emphasizes how important AI is in reducing the possibility of an incorrect or underdiagnosed case of skin cancer. The ability of AI to analyze large datasets and identify subtle trends greatly enhances diagnostic skills. Early detection and better patient outcomes are promised by the integration of AI-powered technologies. Within the Naturalized 7.2K ISIC2019 dataset, quantitative measurements such as confusion matrices and visual assessments utilizing Score-CAM demonstrate an unparalleled success: 100% accuracy, precision, recall, and F1-Score. In conclusion, this study shows how AI-powered systems can significantly improve skin cancer diagnosis, marking a noteworthy development in the area of dermatological diagnostics. The Naturalized 7.2K ISIC2019 dataset demonstrated 100 performance across crucial parameters, demonstrating the revolutionary power of AI-driven techniques that are changing the face of skin cancer detection and patient treatment.},
-  doi={10.1007/978-3-031-77040-1_9}
-}
-
-@article{abou2025enhancing,
-  title={Enhancing Generalization and Mitigating Overfitting in Deep Learning for Brain Cancer Diagnosis from MRI},
-  author={Abou Ali, Mohamad and Charafeddine, Jinan and Dornaika, Fadi and Arganda-Carreras, Ignacio},
-  journal={Applied Magnetic Resonance},
-  pages={1--36},
+@article{kusari2025label,
+  title={Label-free metabolic fingerprinting of motile mammalian spermatozoa with subcellular resolution},
+  author={Kusari, Fitore and Backová, Lenka and Panek, Dalibor and Benda, Ales and Trachtulec, Zdenek},
+  journal={BMC biology},
+  volume={23},
+  number={1},
+  pages={85},
   year={2025},
-  publisher={Springer Vienna},
-  abstract={Brain cancer represents a significant global health challenge with increasing incidence and mortality rates. Magnetic Resonance Imaging (MRI) plays a pivotal role in early detection and treatment planning. This study adopts a systematic approach across four phases: (1) Optimal Model Selection using the Adam optimizer, emphasizing accuracy metrics, weight computation, early stopping, and ReduceLROnPlateau techniques. (2) Real-world Scenario Simulation through synthetic perturbed datasets created by applying noise, blur (to simulate various magnetic field strengths: 1T, 1.5T, 3T), and patient motion artifacts (mimicking MRI scanning motion effects) to the testing data from the BT-MRI dataset, an online published brain tumor MRI dataset. (3) Optimization involving a range of optimizers (Adam, Adagrad, Nadam, RMSprop, SGD) and online augmentation techniques (AutoMix, CutMix, LGCOAMix, PatchUp). (4) Solution Exploration integrating Gaussian Noise and Blur as augmentation strategies during training to enhance model generalization under diverse conditions. Initial evaluations achieved strong performance, consistently reaching 99.45% accuracy on the BT-MRI dataset. However, testing against synthetic perturbed datasets mimicking real-world conditions revealed challenges in maintaining robust model performance. Despite employing diverse optimization methods and advanced augmentation techniques, this study identifies persistent challenges in ensuring model robustness with synthetic perturbed datasets. Notably, the integration of Gaussian Noise and Blur during training significantly improved model resilience. This research underscores the critical role of methodological rigor and innovative augmentation strategies in advancing deep learning applications for precise brain cancer diagnosis using MRI.},
-  doi={10.1007/s00723-024-01743-y}
+  publisher={Springer},
+  doi={10.1186/s12915-025-02167-1},
+  abstract={Background: Sperm metabolic pathways that generate energy for motility are compartmentalized within the flagellum. Dysfunctions in metabolic compartments, namely mitochondrial respiration and glycolysis, can compromise motility and male fertility. Studying these compartments is thus required for fertility treatment. However, it is very challenging to capture images of metabolic compartments in motile spermatozoa because the fast beating of the flagellum introduces motion blur. Therefore, most approaches immobilize spermatozoa prior to imaging. Results: Our findings indicate that immobilizing sperm alters their metabolic profile, highlighting the necessity for measuring metabolism in spermatozoa during movement. We achieved this by encapsulating mouse epididymis in a hydrogel followed by two-photon fluorescence lifetime imaging microscopy for imaging motile sperm in situ. The autofluorescence of endogenous metabolites—FAD, NADH, and NADPH—enabled us to visualize sperm metabolic compartments without staining. We trained machine learning for automated image segmentation and generated metabolic fingerprints using object-based phasor analysis. We show that metabolic fingerprints of spermatozoa and the mitochondrial compartment (1) can distinguish individual males by genetic background, age, or fecundity status, (2) correlate with fertility, and (3) change with age likely due to increased oxidative metabolism. Conclusions: Our approach eliminates the need for sperm immobilization and labeling and captures the native state of sperm metabolism. This technique could be adapted for metabolism-based sperm selection for assisted reproduction.}
+}
 }
 
-@article{franco2025biapy,
-  title={BiaPy: Accessible deep learning on bioimages},
-  author={Franco-Barranco, Daniel and Andr{\'e}s-San Rom{\'a}n, Jes{\'u}s A and Hidalgo-Cenalmor, Ivan and Backov{\'a}, Lenka and Gonz{\'a}lez-Marfil, Aitor and Caporal, Cl{\'e}ment and Chessel, Anatole and G{\'o}mez-G{\'a}lvez, Pedro and Escudero, Luis M and Wei, Donglai and others},
-  journal={Nature Methods},
-  pages={1--3},
-  year={2025},
-  publisher={Nature Publishing Group US New York},
-  abstract={BiaPy is an open-source library and application that streamlines the use of common deep learning approaches for bioimage analysis. Designed to simplify technical complexities, it offers an intuitive interface, zero-code notebooks, and Docker integration, catering to both users and developers. While focused on deep learning workflows for 2D and 3D image data, it enhances performance with multi-GPU capabilities, memory optimization, and scalability for large datasets. Although BiaPy does not encompass all aspects of bioimage analysis, such as visualization and manual annotation tools, it empowers researchers by providing a ready-to-use environment with customizable templates that facilitate sophisticated bioimage analysis workflows.},
-  doi={10.1038/s41592-025-02699-y}
-}
 
-@article{narasimhan2025complexity,
-  title={Complexity shapes uniqueness: Neuropil volumes and synaptic clusters shape behavioural plasticity under challenging environments in the invasive Argentine ants},
-  author={Narasimhan, Srikrishna and Villar, Mar{\'\i}a Eugenia and Chiara, Violette and Arganda-Carreras, Ignacio and Arganda, Sara and Witek, Magdalena and Sanmart{\'\i}n-Villar, Iago},
-  journal={bioRxiv},
-  pages={2025--03},
-  year={2025},
-  publisher={Cold Spring Harbor Laboratory},
-  abstract={Adaptation to new environments is key for organisms’ survival, but also for their invasiveness in their introduced areas. Behaviour is considered the fastest phenotype allowing adaptation, but its plasticity can involve costs as neural development. Although individuals’ investment in cognition was pointed out as unnecessary for colony behaviour in eusocial insects, recent studies are highlighting the behavioural dependence on neural traits in eusocial insects. The costs of producing behavioural and neural plastic offspring could exceed the investments of eusocial insects, in which one or certain reproductives must produce multiple offspring. Thus, we wanted to analyse the link between the neuroanatomy and the behavioural variability of Linepithema humile, an invasive species organised in supercolony units containing millions of individuals, to understand its adaptive mechanisms. We repeatedly tested same aged callow workers of L. humile in behavioural tests of increasing environmental complexity and analysed the volume of their brain functional areas (neuropils) and the synaptic clusters abundance in the mushroom body calices (information processing). Given the potential large cost of plasticity, we expected to find homogeneous interindividual neuronal structures and behavioural responses. Although L. humile is considered a monomorphic species, body size conditioned behavioural and neural traits and determined individuals efficiency in exploring simple environments. Contrary to our expectations, the increase in environmental complexity revealed the behavioural plasticity of Linepithema humile workers as well as its correlation with neuropil volumes and synaptic clusters. Our results highlight the relevance of the central complex and the mushroom bodies on exploration efficiency rather than optic and olfactory lobes. Behavioural plasticity under complex environments relied on the synaptic connections of the olfactory processing area (dense lip), while individuals with higher number of synaptic connections on the visual processing area (collar) explored complex environments less efficiently. Our results suggest that behavioural differences that correlate with morphological traits might promote adaptive mechanisms in simple environments, whereas neurologically based plastic behavior may be necessary to adapt in complex environments.},
-  doi={10.1101/2025.03.10.642356}
-}
-
-@article{gonzalez2025dinosim,
-  title={DINOSim: Zero-Shot Object Detection and Semantic Segmentation on Electron Microscopy Images},
-  author={Gonz{\'a}lez-Marfil, Aitor and G{\'o}mez-de-Mariscal, Estibaliz and Arganda-Carreras, Ignacio},
-  journal={bioRxiv},
-  pages={2025--03},
-  year={2025},
-  publisher={Cold Spring Harbor Laboratory},
-  abstract={We present DINOSim, a novel approach leveraging the DINOv2 pretrained encoder for zero-shot object detection and segmentation in electron microscopy datasets. By exploiting semantic embeddings, DINOSim generates pseudo-labels from patch distances to a user-selected reference, which are subsequently employed in a k-nearest neighbors framework for inference. Our method effectively detects and segments previously unseen objects in electron microscopy images without additional finetuning or prompt engineering. We also investigate the impact of prompt selection and model size on accuracy and generalization. To promote accessibility, we developed an open-source Napari plugin, enabling streamlined application in scientific research. DINOSim offers a flexible and efficient solution for object detection in resource-constrained settings, addressing a critical gap in bioimage analysis.},
-  doi={10.1101/2025.03.09.642092}
-}
-
-@inproceedings{franco2025super,
-  title={Super-Resolution Benchmarking for 3D Image-to-Image Fusion Problem},
-  author={Franco-Barranco, Daniel and Gonz{\'a}lez-Marfil, Aitor and Cardona, Albert and Mu{\~n}oz-Barrutia, Arrate and Arganda-Carreras, Ignacio},
-  booktitle={2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)},
-  pages={1--5},
-  year={2025},
-  organization={IEEE},
-  abstract={Fluorescence microscopy faces challenges in resolution, phototoxicity, and anisotropic artifacts. The Fuse My Cells challenge, organized by France-BioImaging, aims to develop deep learning models that predict fused 3D volumes from single-view acquisitions, reducing phototoxic exposure while enhancing resolution. In this work, we benchmark state-of-the-art super-resolution models, including DFCAN, RCAN-3D, UNETR, and a 3D-adapted RCAN-it, evaluating their performance on the Fuse My Cells challenge dataset, which encompasses 802 3D light-sheet microscopy images. A novel training strategy prioritizing high-discrepancy regions optimizes efficiency and improves reconstruction accuracy. Our findings suggest that super-resolution models can not fully reconstruct the information on those image areas with minimum signal information. Code and documentation can be found at https://github.com/danifranco/BiaPy.},
-  doi={10.1109/ISBI60581.2025.10981218}
-}
-
-@article{vazquez2025role,
-  title={The role of artificial intelligence in implant dentistry: a systematic review},
-  author={V{\'a}zquez-Sebrango, G and Anitua, E and Mac{\'\i}a, I and Arganda-Carreras, I},
-  journal={International Journal of Oral and Maxillofacial Surgery},
-  year={2025},
-  publisher={Churchill Livingstone},
-  abstract={The aim of this systematic review was to comprehensively analyse recent studies on the application of artificial intelligence (AI) in dental implantology. The PRISMA guidelines were followed. Five databases were accessed: Scopus, Web of Science, MEDLINE/PubMed, IEEE Xplore, and JSTOR. Documents published between 2018 and October 15, 2024 relating to AI and implantology were considered. Exclusions encompassed reviews, opinion articles, books, conference references, studies using AI as a supplementary method, AI for teaching implant dentistry, and AI for implant fabrication, prothesis, or design. A total of 120 relevant papers were included. Risk of bias was assessed using PROBAST. Findings demonstrated extensive utilization of AI in various aspects of dental implantology: guided surgery, diagnosis, classification of oral structures, bone classification, classification of dental restorations, implant classification, implant planning, and implant prognosis. Deep learning algorithms were employed in 89.2% of studies, predominantly utilizing image data (72.0% two-dimensional images and 28.0% three-dimensional images). Publications doubled in 2022 compared to the previous year and have remained consistent since. Despite growth, the field remains relatively underdeveloped. However, with advancements in technology and data quality, substantial progress is anticipated in forthcoming years. Remarkably, 11 studies were found to have a high risk of bias.},
-  doi={10.1016/j.ijom.2025.04.005}
-}
 
