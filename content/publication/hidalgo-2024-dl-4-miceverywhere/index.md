@@ -11,7 +11,7 @@ authors:
 - Yoav Shechtman
 - Guillaume Jacquemet
 - Ricardo Henriques
-- ' others'
+- Estibaliz Gómez-de-Mariscal
 date: '2024-01-01'
 publishDate: '2025-05-30T15:30:23.898167Z'
 publication_types:

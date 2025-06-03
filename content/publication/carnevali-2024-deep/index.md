@@ -9,10 +9,11 @@ authors:
 - Mikhail Rotkevich
 - Aiping Wang
 - Daniel Franco-Barranco
-- Aitor Gonzalez-Marfil
+- Aitor González-Marfil
 - Maria Victoria Neguembor
 - Alvaro Castells-Garcia
-- ' others'
+- Ignacio Arganda-Carreras
+- Maria Pia Cosma
 date: '2024-01-01'
 publishDate: '2025-05-30T15:30:23.957062Z'
 publication_types:

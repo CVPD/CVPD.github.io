@@ -11,7 +11,23 @@ authors:
 - Mingxing Li
 - Chang Chen
 - Zhiwei Xiong
-- ' others'
+- Rui Xin
+- Hao Liu
+- Huai Chen
+- Zhili Li
+- Jie Zhao
+- Xuejin Chen
+- Constantin Pape
+- Ryan Conrad
+- Luke Nightingale
+- Joost de Folter
+- Martin L. Jones
+- Yanling Liu
+- Dorsa Ziaei
+- Stephan Huschauer
+- Ignacio Arganda-Carreras
+- Hanspeter Pfister
+- Donglai Wei
 date: '2023-01-01'
 publishDate: '2025-05-30T15:30:23.862132Z'
 publication_types:
