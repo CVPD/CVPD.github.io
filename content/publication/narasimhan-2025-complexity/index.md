@@ -13,7 +13,7 @@ authors:
 date: '2025-01-01'
 publishDate: '2025-05-30T15:30:24.009478Z'
 publication_types:
-- article-journal
+- article
 publication: '*bioRxiv*'
 doi: 10.1101/2025.03.10.642356
 abstract: Adaptation to new environments is key for organisms’ survival, but also
