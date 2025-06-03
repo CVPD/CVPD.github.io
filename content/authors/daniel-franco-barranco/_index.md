@@ -54,7 +54,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Former Members
+  - Alumni
 ---
 
 **Daniel Franco-Barranco** is a dedicated researcher specializing in biomedical image processing and computer vision, with a primary focus on the development of deep learning solutions for the segmentation of organelles in large-scale and multimodal electron microscopy images.
