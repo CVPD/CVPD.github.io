@@ -10,7 +10,7 @@ last_name: Elordi Hidalgo
 superuser: true
 
 # Role/position
-role: Assistant PhD Professor
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
