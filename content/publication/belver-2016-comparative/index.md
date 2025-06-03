@@ -11,4 +11,5 @@ publication_types:
 - chapter
 publication: '*Video Analytics. Face and Facial Expression Recognition and Audience
   Measurement*'
+doi: 10.1007/978-3-319-56687-0_9
 ---
