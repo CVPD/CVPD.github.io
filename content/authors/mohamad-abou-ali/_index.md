@@ -16,8 +16,6 @@ role: Postdoctoral Researcher
 organizations:
   - name: University of the Basque Country (UPV/EHU)
     url: 'https://www.ehu.eus'
-  - name: Donostia International Physics Center (DIPC)
-    url: 'https://www.dipc.org'
   - name: Lebanese International University (LIU)
     url: 'https://liu.edu.lb'  
 
