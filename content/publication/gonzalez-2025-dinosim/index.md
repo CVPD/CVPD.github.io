@@ -8,7 +8,7 @@ authors:
 date: '2025-01-01'
 publishDate: '2025-05-30T15:30:24.017577Z'
 publication_types:
-- article-journal
+- article
 publication: '*bioRxiv*'
 doi: 10.1101/2025.03.09.642092
 abstract: We present DINOSim, a novel approach leveraging the DINOv2 pretrained encoder
