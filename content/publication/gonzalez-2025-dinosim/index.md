@@ -22,4 +22,12 @@ abstract: We present DINOSim, a novel approach leveraging the DINOv2 pretrained 
   Napari plugin, enabling streamlined application in scientific research. DINOSim
   offers a flexible and efficient solution for object detection in resource-constrained
   settings, addressing a critical gap in bioimage analysis.
+url_code: https://github.com/AAitorG/napari-dinoSim
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'DINOSim enables zero-shot image segmentation by selecting reference points on an image.'
+  focal_point: ""
+  preview_only: false
 ---
