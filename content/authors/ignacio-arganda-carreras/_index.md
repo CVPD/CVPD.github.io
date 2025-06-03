@@ -50,6 +50,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=XYZ123'
+  - icon: orcid
+    icon_pack: ai
+    link: 'https://orcid.org/0000-0003-0229-5722'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
