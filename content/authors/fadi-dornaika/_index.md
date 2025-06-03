@@ -7,7 +7,7 @@ first_name: Fadi
 last_name: Dornaika
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Ikerbasque Research Professor
@@ -16,35 +16,40 @@ role: Ikerbasque Research Professor
 organizations:
   - name: University of the Basque Country (UPV/EHU)
     url: 'https://www.ehu.eus'
+  - name: Ikerbasque - Basque Foundation for Science
+    url: 'https://www.ikerbasque.net/en/fadi-dornaika'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computer Vision, Pattern Recognition, and Machine Learning.
+bio: Ikerbasque Research Professor with expertise in computer vision, machine learning, and pattern recognition.
 
 interests:
   - Computer Vision
   - Pattern Recognition
   - Machine Learning
+  - Multiview Clustering
+  - Semi-Supervised Learning
+  - Biomedical Image Analysis
 
 education:
   courses:
-    - course: PhD in Computer Vision
-      institution: University of Barcelona
-      year: 2000
-    - course: MSc in Artificial Intelligence
-      institution: University of Barcelona
+    - course: PhD in Computer Vision and Robotics
+      institution: Grenoble Institute of Technology, France
       year: 1995
-    - course: BSc in Computer Science
-      institution: University of Barcelona
-      year: 1993
+    - course: Diploma in Electromechanical Engineering
+      institution: Lebanese University, Lebanon
+      year: 1990
 
 # Social/Academic Networking
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:fadi.dornaika@ehu.es'
-  - icon: google-scholar
+    link: 'mailto:fadi.dornaika@ehu.eus'
+  - icon: link
+    icon_pack: fas
+    link: 'https://www.ikerbasque.net/en/fadi-dornaika'
+  - icon: orcid
     icon_pack: ai
-    link: 'https://scholar.google.com/citations?user=XYZ123'
+    link: 'https://orcid.org/0000-0001-6581-9680'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -53,54 +58,10 @@ highlight_name: true
 user_groups:
   - Principal Investigators
 ---
+**Fadi Dornaika** is an Ikerbasque Research Professor at the University of the Basque Country (UPV/EHU), where he leads the **Computer Vision and Pattern Discovery (CVPD)** group. He earned his PhD from the **Grenoble Institute of Technology (INRIA)**, France, with a thesis on geometric modeling for vision and robotics. Before joining UPV/EHU, he held research positions at leading institutions in France, Germany, Hong Kong, Sweden, Canada, and Spain.
 
-**Fadi Dornaika** is an Ikerbasque Research Professor at the Universidad del País Vasco, Departamento de Ciencias de la Computación e Inteligencia Artificial, Facultad de Informática, 20018 Donostia - San Sebastián, España.
+His work spans **computer vision**, **pattern recognition**, **machine learning**, and **image processing**, with a strong focus on **semi-supervised learning**, **multiview clustering**, and **deep learning for biomedical image analysis**. He has published over **440 scientific papers**, including more than **190 indexed journal articles** in IEEE Transactions, Information Fusion, Pattern Recognition, Medical Image Analysis, and Artificial Intelligence Review.
 
-## Research interests
+Fadi has been principal investigator on numerous national and international projects, including those funded by the Spanish MICINN, UPV/EHU, and Henan University (China). His h-index is 41, and he has been listed in the **Stanford Top 2% Most Influential Scientists** ranking.
 
-### Computer Vision, Pattern Recognition
-
-#### Geometric Modeling
-
-- 3D object pose from monocular images
-- Visual servoing for robotics tasks
-- Calibration and self-calibration of visual sensors
-- Image registration
-- Image-based 3D building modeling
-- On-board vision for Advanced Driver Assistance Systems
-
-#### Pattern Recognition and Machine Learning
-
-- Manifold learning for face recognition and modelless 3D head orientation
-- Graph-based embedding
-- Feature extraction
-- 3D tracking of faces and facial gestures
-- Facial expression recognition
-- Simultaneous tracking and recognition
-- Object detection and tracking
-
-## PhD supervision
-
-### Current PhD students
-
-- Fawzi Khattar, Universidad del País Vasco, Spain, and Université de Pau et des Pays de l'Adour
-- Jon Goenetxea, Universidad del País Vasco, Spain
-- Ihab Kamal Aldine, Universidad del País Vasco, Spain (Topic: Instance selection for visual data analysis)
-- Kunwei Wang, Universidad del País Vasco, Spain, and NPU, China
-
-## Professional Biography
-
-**Fadi Dornaika** is an Ikerbasque Research Professor with a distinguished academic and research career. He earned his Ph.D. from INRIA, France, in 1995, with a thesis focused on geometric modeling for vision and robotics integration. Prior to joining IKERBASQUE, he contributed to groundbreaking research at nine internationally renowned institutes, including INRIA (France), GMD (Germany), The Chinese University of Hong Kong (China), Linköping University (Sweden), the University of Alberta (Canada), York University (Canada), Heudiasyc Laboratory (CNRS, France), the Computer Vision Center (Spain), and the French Geographical Institute (France).
-
-Professor Dornaika has extensive expertise in computer vision and pattern recognition, with research interests spanning a wide range of topics, including computer vision, image processing, pattern recognition, and machine learning. His current focus areas encompass Multiview Clustering, Scalable Semi-Supervised Learning, Structured Semi-Supervised Learning, and Deep Learning, particularly in applications related to medical image analysis. His h-index is 41 (Google Scholar). According to Stanford University's current ranking (Published September 2024), he is in the top 2% of scholars (DOI:10.17632/btchxktzyw.7) based on his citations on career-long data updated to end-of-2023 and single year (2023) impact. He has published more than 400 papers in the field of computer vision, pattern recognition, and machine learning, including 190 indexed journal articles in (IEEE Trans. Robotics & Automation, IEEE Trans. Cybernetics, IEEE Trans. Neural Networks and Learning Systems, IEEE Trans. on Image Processing, IEEE Trans. CSVT, IEEE Trans. SMC, Information Fusion, Information Sciences, Neural Networks, Pattern Recognition, Artificial Intelligence Review, Knowledge-Based Systems, Int. Journal of Computer Vision, Int. Journal of Robotics Research, etc.).
-
-He has participated in two European research projects: (i) SECOND: Sensory Controlled Dextrous Robots (Third FWP), and (ii) MUHCI: Multimodal Human Computer Interaction (Fifth FWP). He was the PI of four Spanish National projects in the period 2005-2022. As of 2017, he is the leader of the Computer Vision and Pattern Discovery group at the University of the Basque Country. He participated in the following projects:
-- "Computer Vision Approaches in Low Annotation Regimes: Biomedical and facial image analysis. MICIN, Spain.
-- “Advanced machine learning tools”. Collaborative research with Henan University, China.
-- “New concepts for deep learning for structured data analysis”. Henan University, China.
-- “Novel mechanisms for situational awareness in non-controlled environments for the future AAL”, MICIN, Spain.
-- "Age estimation in face images". Lebanese University.
-- "Lightweight Human Machine Interaction algorithms for use with mobile devices". University of the Basque Country, UPV/EHU.
-- "Advanced Manifold Learning techniques for facial image analysis”. Lebanese University.
-- "Terra Numerica : Numérisation et valorisation des territoires et de leurs ressources". Ile de France.
-- “Construction of an omnidirectional foveated sensor”. York University, Canada.
+He currently supervises **10 PhD students** working on diverse topics including face analysis, biomedical imaging, structured deep learning, and undersea monitoring. His commitment to mentoring and interdisciplinary collaboration continues to shape both foundational theory and real-world applications in AI and computer vision.
