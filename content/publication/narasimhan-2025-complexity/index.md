@@ -9,7 +9,7 @@ authors:
 - Ignacio Arganda-Carreras
 - Sara Arganda
 - Magdalena Witek
-- Iago Sanmart\ń-Villar
+- Iago Sanmartín-Villar
 date: '2025-01-01'
 publishDate: '2025-05-30T15:30:24.009478Z'
 publication_types:
