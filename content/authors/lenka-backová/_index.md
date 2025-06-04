@@ -51,6 +51,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: 'https://orcid.org/0000-0002-3076-2618'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/lenkaback'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -50,6 +50,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: 'https://orcid.org/0009-0003-4939-2367'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/bouthainas'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
