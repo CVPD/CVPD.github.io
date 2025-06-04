@@ -20,6 +20,8 @@ organizations:
     url: 'https://www.dipc.org'
   - name: Biofisika Institute
     url: 'https://www.biofisika.org'
+  - name: Ikerbasque - Basque Foundation for Science
+    url: 'https://www.ikerbasque.net/en/ignacio-arganda-carreras'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include image processing, computer vision, and deep learning for biomedical applications.
