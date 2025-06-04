@@ -57,7 +57,7 @@ social:
     icon_pack: ai
     link: 'https://orcid.org/0000-0003-0229-5722'
   - icon: github
-    icon_pack: fas
+    icon_pack: fab
     link: 'https://github.com/iarganda'
 
 # Highlight the author in author lists? (true/false)
