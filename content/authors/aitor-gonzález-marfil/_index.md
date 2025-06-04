@@ -48,6 +48,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: 'https://orcid.org/0000-0003-1367-4154'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/AAitorG'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
