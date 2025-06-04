@@ -52,6 +52,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: 'https://orcid.org/0000-0002-2887-8232'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/Mohamad-AbouAli'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
