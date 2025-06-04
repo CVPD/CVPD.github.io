@@ -7,7 +7,7 @@ first_name: Israa
 last_name: Tartoussi
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: PhD Student
