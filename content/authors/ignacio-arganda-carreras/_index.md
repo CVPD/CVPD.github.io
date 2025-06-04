@@ -44,6 +44,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:ignacio.arganda@ehu.es'
+  - icon: link
+    icon_pack: fas
+    link: 'https://www.ikerbasque.net/en/ignacio-arganda-carreras'
   #- icon: bluesky-brands
   #  icon_pack: custom
   #  link: 'https://bsky.app/profile/iarganda.bsky.social'
@@ -53,6 +56,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: 'https://orcid.org/0000-0003-0229-5722'
+  - icon: github
+    icon_pack: ai
+    link: 'https://github.com/iarganda'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
