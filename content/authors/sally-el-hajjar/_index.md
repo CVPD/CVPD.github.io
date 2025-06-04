@@ -53,6 +53,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: 'https://orcid.org/0000-0001-9619-6746'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/SallyHajjar'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

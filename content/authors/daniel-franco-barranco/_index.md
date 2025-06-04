@@ -45,12 +45,18 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:daniel-franco@dipc.org'
+  - icon: link
+    icon_pack: fas
+    link: 'https://danifranco.github.io/'
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=jVEfpY4AAAAJ'
   - icon: orcid
     icon_pack: ai
     link: 'https://orcid.org/0000-0002-1109-110X'
+  - icon: github
+    icon_pack: fab
+    link: 'https://github.com/danifranco'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
