@@ -7,7 +7,6 @@
   number={},
   pages={1-8},
   abstract={Segmentation of medical images is crucial for accu-rate diagnosis, treatment planning and intervention. However, the scarcity of data and the variability of different imaging modalities, including MRI, CT, PET and ultrasound, pose a major challenge for deep learning models. This review discusses traditional and advanced data augmentation techniques used to improve segmentation performance. In addition to geometric transformations such as rotation and scaling, advanced approaches such as Generative Adversarial Networks (GANs) and superpixel-based augmentations are also evaluated. The review also highlights novel methods such as Local-and-Contour Aware Grid Mixing (LCAMix) and Hard and Soft Mixing (HSMix) that preserve anatomical boundaries and effectively augment datasets. The analysis concludes with practical insights for clinical applications and suggests integrating these techniques into data pipelines to increase the generalizability of models. Future research directions focus on DICOM-specific augmentation strategies and optimization of computational requirements to improve clinical applicability.},
-  keywords={Training;Deep learning;Image segmentation;Adaptation models;Reviews;Computational modeling;Data augmentation;Data models;Planning;Medical diagnostic imaging;Deep learning;data augmentation;medical image segmentation;medical imaging modalities},
   doi={10.1109/ICCA62237.2024.10927851},
   ISSN={},
   month={Dec}
@@ -22,24 +21,23 @@
   number={},
   pages={1-8},
   abstract={Effective classification of plant diseases is crucial for increasing agricultural productivity and ensuring global food se-curity. Deep learning, in particular convolutional neural networks (CNN s), has proven to be a revolutionary approach for plant disease classification using image data. This review examines prominent deep learning works that have been successfully applied to plant disease classification. The strengths of these works are highlighted, particularly their ability to accurately identify specific visual markers of disease, enabling precise differentiation in a wide range of plants. By utilizing extensive agricultural datasets, the deep models consistently achieve high accuracy and outperform traditional manual methods in terms of speed and reliability. However, challenges such as the variability of datasets, environmental influences on image quality and the computational cost of training and deploying CNN models are also addressed. This review highlights the potential of deep learning-based plant disease classification as a scalable and efficient solution for precision agriculture, enabling early detection and intervention to mitigate crop losses and improve agricultural sustainability.},
-  keywords={Deep learning;Training;Plant diseases;Visualization;Accuracy;Reviews;Computational modeling;Robustness;Convolutional neural networks;Sustainable development;Deep Learning;Plant Disease classification;Convolutional Neural Networks;Agricultural Sustainability;Image Classification;Automated Diagnosis},
   doi={10.1109/ICCA62237.2024.10927996},
   ISSN={},
   month={Dec}
 }
 
 @Article{slika2025parallel,
-AUTHOR = {Slika, Bouthaina and Dornaika, Fadi and Hammoudi, Karim},
-TITLE = {Parallel VMamba and Attention-Based Pneumonia Severity Prediction from CXRs: A Robust Model with Segmented Lung Replacement Augmentation},
-JOURNAL = {Diagnostics},
-VOLUME = {15},
-YEAR = {2025},
-NUMBER = {11},
-ARTICLE-NUMBER = {1301},
-URL = {https://www.mdpi.com/2075-4418/15/11/1301},
-ISSN = {2075-4418},
-ABSTRACT = {Background/Objectives: Rapid and accurate assessment of lung diseases, like pneumonia, is critical for effective clinical decision-making, particularly during pandemics when disease progression can be severe. Early diagnosis plays a crucial role in preventing complications, necessitating the development of fast and efficient AI-based models for automated severity assessment. Methods: In this study, we introduce a novel approach that leverages VMamba, a state-of-the-art vision model based on the VisualStateSpace (VSS) framework and 2D-Selective-Scan (SS2D) spatial scanning, to enhance lung severity prediction. Integrated in a parallel multi-image regions approach, VMamba effectively captures global and local contextual features through structured state-space modeling, improving feature representation and robustness in medical image analysis. Additionally, we integrate a segmented lung replacement augmentation strategy to enhance data diversity and improve model generalization. The proposed method is trained on the RALO and COVID-19 datasets and compared against state-of-the-art models. Results: Experimental results demonstrate that our approach achieves superior performance, outperforming existing techniques in prediction accuracy and robustness. Key evaluation metrics, including Mean Absolute Error (MAE) and Pearson Correlation (PC), confirm the model’s effectiveness, while the incorporation of segmented lung replacement augmentation further enhances adaptability to diverse lung conditions. Conclusions: These findings highlight the potential of our method for reliable and immediate clinical applications in lung infection assessment.},
-DOI = {10.3390/diagnostics15111301}
+  AUTHOR = {Slika, Bouthaina and Dornaika, Fadi and Hammoudi, Karim},
+  TITLE = {Parallel VMamba and Attention-Based Pneumonia Severity Prediction from CXRs: A Robust Model with Segmented Lung Replacement Augmentation},
+  JOURNAL = {Diagnostics},
+  VOLUME = {15},
+  YEAR = {2025},
+  NUMBER = {11},
+  ARTICLE-NUMBER = {1301},
+  URL = {https://www.mdpi.com/2075-4418/15/11/1301},
+  ISSN = {2075-4418},
+  ABSTRACT = {Background/Objectives: Rapid and accurate assessment of lung diseases, like pneumonia, is critical for effective clinical decision-making, particularly during pandemics when disease progression can be severe. Early diagnosis plays a crucial role in preventing complications, necessitating the development of fast and efficient AI-based models for automated severity assessment. Methods: In this study, we introduce a novel approach that leverages VMamba, a state-of-the-art vision model based on the VisualStateSpace (VSS) framework and 2D-Selective-Scan (SS2D) spatial scanning, to enhance lung severity prediction. Integrated in a parallel multi-image regions approach, VMamba effectively captures global and local contextual features through structured state-space modeling, improving feature representation and robustness in medical image analysis. Additionally, we integrate a segmented lung replacement augmentation strategy to enhance data diversity and improve model generalization. The proposed method is trained on the RALO and COVID-19 datasets and compared against state-of-the-art models. Results: Experimental results demonstrate that our approach achieves superior performance, outperforming existing techniques in prediction accuracy and robustness. Key evaluation metrics, including Mean Absolute Error (MAE) and Pearson Correlation (PC), confirm the model's effectiveness, while the incorporation of segmented lung replacement augmentation further enhances adaptability to diverse lung conditions. Conclusions: These findings highlight the potential of our method for reliable and immediate clinical applications in lung infection assessment.},
+  DOI = {10.3390/diagnostics15111301}
 }
 
 @ARTICLE{slika2025pvitgatt,
@@ -51,10 +49,8 @@ DOI = {10.3390/diagnostics15111301}
   number={},
   pages={1-13},
   abstract={The development of a robust and adaptive deep learning technique for the diagnosis of pneumonia and the assessment of its severity was a major challenge. Indeed, both chest X-rays (CXR) and CT scans have been widely studied for the diagnosis, detection and quantification of pneumonia. In this paper, a novel approach (PViTGAtt-IP) based on a parallel array of vision transformers is presented, in which the input image is divided into regions of interest. Each region is fed into an individual model and the collective output gives the severity score. Three parallel architectures were also derived and tested. The proposed models were subjected to rigorous tests on two different datasets: RALO CXRs and Per COVID-19 CT scans. The experimental results showed that the proposed models exhibited high performance in accurately predicting scores for both datasets. In particular, the parallel transformers with multi-gate attention proved to be the best performing model. Furthermore, a comparative analysis using state-of-the-art methods showed that our proposed approach consistently achieved competitive or even better performance in terms of the Mean Absolute Error (MAE) and the Pearson Correlation Coefficient (PC). This emphasizes the effectiveness and superiority of our models in the context of diagnosing and assessing the severity of pneumonia. The source codes used in our study are publicly available and can be found at https://github.com/bouthainas/PViTGAtt-IP.},
-  keywords={Transformers;Computed tomography;Lungs;COVID-19;X-ray imaging;Deep learning;Computer vision;Pneumonia;Training;Medical diagnostic imaging;Automatic prediction;Chest X-ray;CT Scans;Severity quantification;Vision Transformer},
   doi={10.1109/TBDATA.2025.3556612},
-  ISSN={2332-7790},
-  month={}
+  ISSN={2332-7790}
 }
 
 
