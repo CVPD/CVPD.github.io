@@ -29,8 +29,8 @@ interests:
 
 education:
   courses:
-    - course: PhD in Computer Engineering 
-	  institution: University of the Basque Country (UPV/EHU)
+    - course: PhD in Computer Engineering
+      institution: University of the Basque Country (UPV/EHU)
       year: 2023
     - course: MSc in Industrial Engineering
       institution: TECNUN (Universidad de Navarra)
