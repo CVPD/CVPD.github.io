@@ -47,12 +47,12 @@ social:
   - icon: link
     icon_pack: fas
     link: 'https://www.ikerbasque.net/en/fadi-dornaika'
-  - icon: orcid
-    icon_pack: ai
-    link: 'https://orcid.org/0000-0001-6581-9680'
   - icon: google-scholar
     icon_pack: ai
     link: 'https://scholar.google.com/citations?user=XqkCIQMAAAAJ&hl=en&oi=ao'
+  - icon: orcid
+    icon_pack: ai
+    link: 'https://orcid.org/0000-0001-6581-9680'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
