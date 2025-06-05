@@ -1,0 +1,29 @@
+---
+title: Deep Learning Image-Based Plant Disease Classification - A Review
+authors:
+- Israa Tartoussi
+- Fadi Dornaika
+- Pendar Alirezazadeh
+- Jihad El Jaam
+date: '2024-12-01'
+publishDate: '2025-06-05T07:08:12.458719Z'
+publication_types:
+- paper-conference
+publication: '*2024 International Conference on Computer and Applications (ICCA)*'
+doi: 10.1109/ICCA62237.2024.10927996
+abstract: Effective classification of plant diseases is crucial for increasing agricultural
+  productivity and ensuring global food se-curity. Deep learning, in particular convolutional
+  neural networks (CNN s), has proven to be a revolutionary approach for plant disease
+  classification using image data. This review examines prominent deep learning works
+  that have been successfully applied to plant disease classification. The strengths
+  of these works are highlighted, particularly their ability to accurately identify
+  specific visual markers of disease, enabling precise differentiation in a wide range
+  of plants. By utilizing extensive agricultural datasets, the deep models consistently
+  achieve high accuracy and outperform traditional manual methods in terms of speed
+  and reliability. However, challenges such as the variability of datasets, environmental
+  influences on image quality and the computational cost of training and deploying
+  CNN models are also addressed. This review highlights the potential of deep learning-based
+  plant disease classification as a scalable and efficient solution for precision
+  agriculture, enabling early detection and intervention to mitigate crop losses and
+  improve agricultural sustainability.
+---
