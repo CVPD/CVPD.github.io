@@ -1,58 +1,77 @@
-@INPROCEEDINGS{kozah2024data,
-  author={Kozah, Nancy and Dornaika, Fadi and Charafeddine, Jinan and El Jaam, Jihad},
-  booktitle={2024 International Conference on Computer and Applications (ICCA)}, 
-  title={Data Augmentation Techniques for Medical Image Segmentation - A Review}, 
+@article{slika2024lung,
+  title={Lung pneumonia severity scoring in chest X-ray images using transformers},
+  author={Slika, Bouthaina and Dornaika, Fadi and Merdji, Hamid and Hammoudi, Karim},
+  journal={Medical \& Biological Engineering \& Computing},
+  volume={62},
+  number={8},
+  pages={2389--2407},
   year={2024},
-  volume={},
-  number={},
-  pages={1-8},
-  abstract={Segmentation of medical images is crucial for accu-rate diagnosis, treatment planning and intervention. However, the scarcity of data and the variability of different imaging modalities, including MRI, CT, PET and ultrasound, pose a major challenge for deep learning models. This review discusses traditional and advanced data augmentation techniques used to improve segmentation performance. In addition to geometric transformations such as rotation and scaling, advanced approaches such as Generative Adversarial Networks (GANs) and superpixel-based augmentations are also evaluated. The review also highlights novel methods such as Local-and-Contour Aware Grid Mixing (LCAMix) and Hard and Soft Mixing (HSMix) that preserve anatomical boundaries and effectively augment datasets. The analysis concludes with practical insights for clinical applications and suggests integrating these techniques into data pipelines to increase the generalizability of models. Future research directions focus on DICOM-specific augmentation strategies and optimization of computational requirements to improve clinical applicability.},
-  doi={10.1109/ICCA62237.2024.10927851},
-  ISSN={},
-  month={Dec},
+  publisher={Springer},
+  doi={10.1007/s11517-024-03066-3},
+  url={https://doi.org/10.1007/s11517-024-03066-3},
+  abstract={To create robust and adaptable methods for lung pneumonia diagnosis and the assessment of its severity using chest X-rays (CXR), access to well-curated, extensive datasets is crucial. Many current severity quantification approaches require resource-intensive training for optimal results. Healthcare practitioners require efficient computational tools to swiftly identify COVID-19 cases and predict the severity of the condition. In this research, we introduce a novel image augmentation scheme as well as a neural network model founded on Vision Transformers (ViT) with a small number of trainable parameters for quantifying COVID-19 severity and other lung diseases. Our method, named Vision Transformer Regressor Infection Prediction (ViTReg-IP), leverages a ViT architecture and a regression head. To assess the model's adaptability, we evaluate its performance on diverse chest radiograph datasets from various open sources. We conduct a comparative analysis against several competing deep learning methods. Our results achieved a minimum Mean Absolute Error (MAE) of 0.569 and 0.512 and a maximum Pearson Correlation Coefficient (PC) of 0.923 and 0.855 for the geographic extent score and the lung opacity score, respectively, when the CXRs from the RALO dataset were used in training. The experimental results reveal that our model delivers exceptional performance in severity quantification while maintaining robust generalizability, all with relatively modest computational requirements. The source codes used in our work are publicly available at https://github.com/bouthainas/ViTReg-IP.}
 }
 
-@INPROCEEDINGS{tartoussi2024deep,
-  author={Tartoussi, Israa and Dornaika, Fadi and Alirezazadeh, Pendar and El Jaam, Jihad},
-  booktitle={2024 International Conference on Computer and Applications (ICCA)}, 
-  title={Deep Learning Image-Based Plant Disease Classification - A Review}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-8},
-  abstract={Effective classification of plant diseases is crucial for increasing agricultural productivity and ensuring global food se-curity. Deep learning, in particular convolutional neural networks (CNN s), has proven to be a revolutionary approach for plant disease classification using image data. This review examines prominent deep learning works that have been successfully applied to plant disease classification. The strengths of these works are highlighted, particularly their ability to accurately identify specific visual markers of disease, enabling precise differentiation in a wide range of plants. By utilizing extensive agricultural datasets, the deep models consistently achieve high accuracy and outperform traditional manual methods in terms of speed and reliability. However, challenges such as the variability of datasets, environmental influences on image quality and the computational cost of training and deploying CNN models are also addressed. This review highlights the potential of deep learning-based plant disease classification as a scalable and efficient solution for precision agriculture, enabling early detection and intervention to mitigate crop losses and improve agricultural sustainability.},
-  doi={10.1109/ICCA62237.2024.10927996},
-  ISSN={},
-  month={Dec}
+@InProceedings{slika2024predicting,
+  author="Slika, Bouthaina
+  and Dornaika, Fadi
+  and Hammoudi, Karim",
+  editor="Hamlich, Mohamed
+  and Dornaika, Fadi
+  and Ordonez, Carlos
+  and Bellatreche, Ladjel
+  and Moutachaouik, Hicham",
+  title="Predicting Lung Infection Severity in Chest X-Ray Images Through Multi-score Assessment",
+  booktitle="Smart Applications and Data Analysis",
+  year="2024",
+  publisher="Springer Nature Switzerland",
+  address="Cham",
+  pages="3--16",
+  abstract="Respiratory illnesses, such as COVID-19, pose a significant health challenge. The prompt and precise identification of pulmonary infections is essential for recognizing patients and deciding on suitable life-saving interventions. In our research, we introduce a multi-task deep learning algorithm crafted to swiftly and effectively evaluate the severity of pulmonary infections in individuals afflicted with COVID-19 or analogous respiratory ailments. Our key contributions entail suggesting a multi-task network utilizing a dual transformer encoder, accompanied by a feature fusion module that feeds two MLP regression heads. Additionally, an online amalgamation of region and score for image augmentation is employed. The consequent model quantifies chest radiographs (CXR) with two scores, characterizing the extent and opacity of infection in the lungs. Evaluation on the RALO dataset demonstrates that our multi-task approach outperforms existing prediction models, exhibiting the minimum mean absolute error and the maximum Pearson correlation coefficient during inference. These results emphasize the effectiveness of inducing two estimation scores in a multi-tasking approach for accurate lung severity diagnosis. The source code is publicly accessible at https://github.com/bouthainas/MViTReg-IP.",
+  isbn="978-3-031-77040-1",
+  url="https://doi.org/10.1007/978-3-031-77040-1_1",
+  doi="10.1007/978-3-031-77040-1_1"
 }
 
-@Article{slika2025parallel,
-  AUTHOR = {Slika, Bouthaina and Dornaika, Fadi and Hammoudi, Karim},
-  TITLE = {Parallel VMamba and Attention-Based Pneumonia Severity Prediction from CXRs: A Robust Model with Segmented Lung Replacement Augmentation},
-  JOURNAL = {Diagnostics},
-  VOLUME = {15},
-  YEAR = {2025},
-  NUMBER = {11},
-  ARTICLE-NUMBER = {1301},
-  URL = {https://www.mdpi.com/2075-4418/15/11/1301},
-  ISSN = {2075-4418},
-  ABSTRACT = {Background/Objectives: Rapid and accurate assessment of lung diseases, like pneumonia, is critical for effective clinical decision-making, particularly during pandemics when disease progression can be severe. Early diagnosis plays a crucial role in preventing complications, necessitating the development of fast and efficient AI-based models for automated severity assessment. Methods: In this study, we introduce a novel approach that leverages VMamba, a state-of-the-art vision model based on the VisualStateSpace (VSS) framework and 2D-Selective-Scan (SS2D) spatial scanning, to enhance lung severity prediction. Integrated in a parallel multi-image regions approach, VMamba effectively captures global and local contextual features through structured state-space modeling, improving feature representation and robustness in medical image analysis. Additionally, we integrate a segmented lung replacement augmentation strategy to enhance data diversity and improve model generalization. The proposed method is trained on the RALO and COVID-19 datasets and compared against state-of-the-art models. Results: Experimental results demonstrate that our approach achieves superior performance, outperforming existing techniques in prediction accuracy and robustness. Key evaluation metrics, including Mean Absolute Error (MAE) and Pearson Correlation (PC), confirm the model's effectiveness, while the incorporation of segmented lung replacement augmentation further enhances adaptability to diverse lung conditions. Conclusions: These findings highlight the potential of our method for reliable and immediate clinical applications in lung infection assessment.},
-  DOI = {10.3390/diagnostics15111301}
-}
-
-@ARTICLE{slika2025pvitgatt,
-  author={Slika, Bouthaina and Dornaika, Fadi and Bougourzi, Fares and Hammoudi, Karim},
-  journal={IEEE Transactions on Big Data}, 
-  title={PViTGAtt-IP: Severity Quantification of Lung Infections in Chest X-rays and CT Scans via Parallel and Cross-Attended Encoders}, 
+@ARTICLE{slika2025multiscore,
+  author={Slika, Bouthaina and Dornaika, Fadi and Hammoudi, Karim},
+  journal={IEEE Transactions on Emerging Topics in Computational Intelligence}, 
+  title={Multi-Score Prediction for Lung Infection Severity in Chest X-Ray Images}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-13},
-  abstract={The development of a robust and adaptive deep learning technique for the diagnosis of pneumonia and the assessment of its severity was a major challenge. Indeed, both chest X-rays (CXR) and CT scans have been widely studied for the diagnosis, detection and quantification of pneumonia. In this paper, a novel approach (PViTGAtt-IP) based on a parallel array of vision transformers is presented, in which the input image is divided into regions of interest. Each region is fed into an individual model and the collective output gives the severity score. Three parallel architectures were also derived and tested. The proposed models were subjected to rigorous tests on two different datasets: RALO CXRs and Per COVID-19 CT scans. The experimental results showed that the proposed models exhibited high performance in accurately predicting scores for both datasets. In particular, the parallel transformers with multi-gate attention proved to be the best performing model. Furthermore, a comparative analysis using state-of-the-art methods showed that our proposed approach consistently achieved competitive or even better performance in terms of the Mean Absolute Error (MAE) and the Pearson Correlation Coefficient (PC). This emphasizes the effectiveness and superiority of our models in the context of diagnosing and assessing the severity of pneumonia. The source codes used in our study are publicly available and can be found at https://github.com/bouthainas/PViTGAtt-IP.},
-  doi={10.1109/TBDATA.2025.3556612},
-  ISSN={2332-7790}
+  volume={9},
+  number={2},
+  pages={2052-2058},
+  abstract={Lung diseases, including COVID-19, can be considered a serious health problem. In order for patients to be identified to make better decisions and receive the appropriate treatment that can save their lives, rapid and accurate diagnosis of pulmonary infections is critical. In this study, we propose a multi-task deep learning algorithm to quickly and effectively determine the severity of pulmonary infection in patients with COVID-19 or similar pulmonary diseases. The main contributions are as follows. First, we propose a multi-task network based on a dual transformer encoder followed by a feature fusion module feeding two MLP regression heads. Second, we introduce an online combination of region and score for image augmentation. The resulting network quantifies CXR images with two scores that characterize two types of infection. One score is based on the spread of infection in the lung, while the other measures how opaque the infected sites are. The proposed approach is evaluated using chest radiographs (CXR) from the public RALO dataset. Compared to prediction models in the literature, our multi-task technique outperforms them. At the time of inference, the proposed model has the highest Pearson correlation coefficient and the lowest mean absolute error. Our results show that accurate diagnosis of lung severity can be achieved by generating two assessment scores in a multi-tasking model.},
+  doi={10.1109/TETCI.2024.3359082},
+  ISSN={2471-285X},
+  month={April},
 }
 
+@INPROCEEDINGS{slika2023automatic,
+  author={Slika, Bouthaina and Dornaika, Fadi and Hammoudi, Karim and Hoang, Vinh Truong},
+  booktitle={2023 IEEE Statistical Signal Processing Workshop (SSP)}, 
+  title={Automatic Quantification of Lung Infection Severity in Chest X-ray Images}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={418-422},
+  abstract={A large number of well-maintained datasets are needed for the diagnosis and assessment of the severity of the new disease (COVID-19) using chest radiographs (CXR). To achieve the best results, current methods for quantifying severity require complex methods and large datasets for training. Medical professionals must have access to systems that can quickly and automatically identify COVID-19 patients and predict severity. In this work, we measure the severity of COVID-19 using an efficient neural network consisting of a CNN backbone and a regression head to automatically predict lung infection scores. In addition, we investigate the efficiency of some augmentation methods to increase the potential of the deep model. A comparative study was conducted using several state-of-the-art deep learning methods on the public RALO dataset. The experimental results show that our model has the potential to perform best on severity quantification tasks and demonstrate the impact of lung segmentation on performance.},
+  doi={10.1109/SSP53291.2023.10207986},
+  ISSN={2693-3551},
+  month={July},
+}
 
-
+@article{hammoudi2022superpixelgridmasks,
+  title={Superpixelgridmasks data augmentation: Application to precision health and other real-world data},
+  author={Hammoudi, Karim and Cabani, Adnane and Slika, Bouthaina and Benhabiles, Halim and Dornaika, Fadi and Melkemi, Mahmoud},
+  journal={Journal of Healthcare Informatics Research},
+  volume={6},
+  number={4},
+  pages={442--460},
+  year={2022},
+  publisher={Springer},
+  doi={10.1007/s41666-022-00122-1},
+  url={https://doi.org/10.1007/s41666-022-00122-1},
+  abstract={A novel approach of data augmentation based on irregular superpixel decomposition is proposed. This approach called SuperpixelGridMasks permits to extend original image datasets that are required by training stages of machine learning-related analysis architectures towards increasing their performances. Three variants named SuperpixelGridCut, SuperpixelGridMean, and SuperpixelGridMix are presented. These grid-based methods produce a new style of image transformations using the dropping and fusing of information. Extensive experiments using various image classification models as well as precision health and surrounding real-world datasets show that baseline performances can be significantly outperformed using our methods. The comparative study also shows that our methods can overpass the performances of other data augmentations. SuperpixelGridCut, SuperpixelGridMean, and SuperpixelGridMix codes are publicly available at https://github.com/hammoudiproject/SuperpixelGridMasks.}
+}
 
