@@ -61,7 +61,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Researchers
+  - Faculty
 ---
 
 **Unai Elordi Hidalgo** is an Assistant Professor at the University of the Basque Country (UPV/EHU). He earned his degree in Computer Systems Engineering and Computer Science at the Mondragón University (MGEP) in 2010. In 2016, he completed a master’s in computational engineering and intelligent systems (KISA) at the University of the Basque Country (UPV/EHU). In 2023, he obtained his PhD in Computer Science from the Artificial Intelligence Department at UPV/EHU. From 2010 to 2024, he worked as a researcher at Vicomtech, focusing on various fields such as computer vision and artificial intelligence for intelligent video analytics. He has published more than 15 articles in international scientific journals and conference proceedings.

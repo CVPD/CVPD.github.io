@@ -57,7 +57,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Researchers
+  - Faculty
 ---
 
 **Nagore Barrena** is an Assistant Professor at the University of the Basque Country (UPV/EHU) and a researcher in the Computer Vision & Pattern Discovery (CVPD) group. She holds a PhD in Computer Engineering (Cum Laude, 2019), an MSc in Computational Engineering and Intelligent Systems, and a BSc in Computer Engineering, all from UPV/EHU.
