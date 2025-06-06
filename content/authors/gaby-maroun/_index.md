@@ -48,7 +48,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:gmaroun001@ikasle.ehu.eus'
-  - icon: research-gate
+  - icon: researchgate
     icon_pack: ai
     link: 'https://www.researchgate.net/profile/Gaby-Maroun'
   - icon: orcid
