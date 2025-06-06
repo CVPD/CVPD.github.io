@@ -2,7 +2,7 @@
 title: 'Robust regression with deep CNNs for facial age estimation: An empirical study'
 authors:
 - Fadi Dornaika
-- Salah E Bekhouche
+- Salah Eddine Bekhouche
 - Ignacio Arganda-Carreras
 date: '2020-01-01'
 publishDate: '2025-03-05T11:10:32.788748Z'
