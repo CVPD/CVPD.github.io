@@ -1,77 +1,14 @@
-@article{slika2024lung,
-  title={Lung pneumonia severity scoring in chest X-ray images using transformers},
-  author={Slika, Bouthaina and Dornaika, Fadi and Merdji, Hamid and Hammoudi, Karim},
-  journal={Medical \& Biological Engineering \& Computing},
-  volume={62},
-  number={8},
-  pages={2389--2407},
+@conference{iglesias2024analysis,
+  author={Iglesias, Aitor and García, Mikel and Aranjuelo, Nerea and Arganda-Carreras, Ignacio and Nieto, Marcos},
+  journal={Proceedings Copyright},
+  title = {Analysis of Point Cloud Domain Gap Effects for 3D Object Detection Evaluation},
+  abstract = {The development of autonomous driving systems heavily relies on high-quality LiDAR data, which is essential for robust object detection and scene understanding. Nevertheless, obtaining a substantial amount of such data for effective training and evaluation of autonomous driving algorithms is a major challenge. To overcome this limitation, recent studies are taking advantage of advancements in realistic simulation engines, such as CARLA, which have provided a breakthrough in generating synthetic LiDAR data that closely resembles realworld scenarios. However, these data are far from being identical to real data. In this study, we address the domain gap between real LiDAR data and synthetic data. We train deep-learning models for object detection using real data. Then, those models are rigorously evaluated using synthetic data generated in CARLA. By quantifying the discrepancies between the model's performance on real and synthetic data, the present study shows that there is indeed a domain gap between the two types of data and does not affect equal to different model architectures. Finally, we propose a method for synthetic data processing to reduce this domain gap. This research contributes to enhancing the use of synthetic data for autonomous driving systems.},
+  booktitle={Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 4: VISAPP},
   year={2024},
-  publisher={Springer},
-  doi={10.1007/s11517-024-03066-3},
-  url={https://doi.org/10.1007/s11517-024-03066-3},
-  abstract={To create robust and adaptable methods for lung pneumonia diagnosis and the assessment of its severity using chest X-rays (CXR), access to well-curated, extensive datasets is crucial. Many current severity quantification approaches require resource-intensive training for optimal results. Healthcare practitioners require efficient computational tools to swiftly identify COVID-19 cases and predict the severity of the condition. In this research, we introduce a novel image augmentation scheme as well as a neural network model founded on Vision Transformers (ViT) with a small number of trainable parameters for quantifying COVID-19 severity and other lung diseases. Our method, named Vision Transformer Regressor Infection Prediction (ViTReg-IP), leverages a ViT architecture and a regression head. To assess the model's adaptability, we evaluate its performance on diverse chest radiograph datasets from various open sources. We conduct a comparative analysis against several competing deep learning methods. Our results achieved a minimum Mean Absolute Error (MAE) of 0.569 and 0.512 and a maximum Pearson Correlation Coefficient (PC) of 0.923 and 0.855 for the geographic extent score and the lung opacity score, respectively, when the CXRs from the RALO dataset were used in training. The experimental results reveal that our model delivers exceptional performance in severity quantification while maintaining robust generalizability, all with relatively modest computational requirements. The source codes used in our work are publicly available at https://github.com/bouthainas/ViTReg-IP.}
+  pages={278-285},
+  publisher={SciTePress},
+  organization={INSTICC},
+  doi={10.5220/0012357200003660},
+  isbn={978-989-758-679-8},
+  issn={2184-4321},
 }
-
-@InProceedings{slika2024predicting,
-  author="Slika, Bouthaina
-  and Dornaika, Fadi
-  and Hammoudi, Karim",
-  editor="Hamlich, Mohamed
-  and Dornaika, Fadi
-  and Ordonez, Carlos
-  and Bellatreche, Ladjel
-  and Moutachaouik, Hicham",
-  title="Predicting Lung Infection Severity in Chest X-Ray Images Through Multi-score Assessment",
-  booktitle="Smart Applications and Data Analysis",
-  year="2024",
-  publisher="Springer Nature Switzerland",
-  address="Cham",
-  pages="3--16",
-  abstract="Respiratory illnesses, such as COVID-19, pose a significant health challenge. The prompt and precise identification of pulmonary infections is essential for recognizing patients and deciding on suitable life-saving interventions. In our research, we introduce a multi-task deep learning algorithm crafted to swiftly and effectively evaluate the severity of pulmonary infections in individuals afflicted with COVID-19 or analogous respiratory ailments. Our key contributions entail suggesting a multi-task network utilizing a dual transformer encoder, accompanied by a feature fusion module that feeds two MLP regression heads. Additionally, an online amalgamation of region and score for image augmentation is employed. The consequent model quantifies chest radiographs (CXR) with two scores, characterizing the extent and opacity of infection in the lungs. Evaluation on the RALO dataset demonstrates that our multi-task approach outperforms existing prediction models, exhibiting the minimum mean absolute error and the maximum Pearson correlation coefficient during inference. These results emphasize the effectiveness of inducing two estimation scores in a multi-tasking approach for accurate lung severity diagnosis. The source code is publicly accessible at https://github.com/bouthainas/MViTReg-IP.",
-  isbn="978-3-031-77040-1",
-  url="https://doi.org/10.1007/978-3-031-77040-1_1",
-  doi="10.1007/978-3-031-77040-1_1"
-}
-
-@ARTICLE{slika2025multiscore,
-  author={Slika, Bouthaina and Dornaika, Fadi and Hammoudi, Karim},
-  journal={IEEE Transactions on Emerging Topics in Computational Intelligence}, 
-  title={Multi-Score Prediction for Lung Infection Severity in Chest X-Ray Images}, 
-  year={2025},
-  volume={9},
-  number={2},
-  pages={2052-2058},
-  abstract={Lung diseases, including COVID-19, can be considered a serious health problem. In order for patients to be identified to make better decisions and receive the appropriate treatment that can save their lives, rapid and accurate diagnosis of pulmonary infections is critical. In this study, we propose a multi-task deep learning algorithm to quickly and effectively determine the severity of pulmonary infection in patients with COVID-19 or similar pulmonary diseases. The main contributions are as follows. First, we propose a multi-task network based on a dual transformer encoder followed by a feature fusion module feeding two MLP regression heads. Second, we introduce an online combination of region and score for image augmentation. The resulting network quantifies CXR images with two scores that characterize two types of infection. One score is based on the spread of infection in the lung, while the other measures how opaque the infected sites are. The proposed approach is evaluated using chest radiographs (CXR) from the public RALO dataset. Compared to prediction models in the literature, our multi-task technique outperforms them. At the time of inference, the proposed model has the highest Pearson correlation coefficient and the lowest mean absolute error. Our results show that accurate diagnosis of lung severity can be achieved by generating two assessment scores in a multi-tasking model.},
-  doi={10.1109/TETCI.2024.3359082},
-  ISSN={2471-285X},
-  month={April},
-}
-
-@INPROCEEDINGS{slika2023automatic,
-  author={Slika, Bouthaina and Dornaika, Fadi and Hammoudi, Karim and Hoang, Vinh Truong},
-  booktitle={2023 IEEE Statistical Signal Processing Workshop (SSP)}, 
-  title={Automatic Quantification of Lung Infection Severity in Chest X-ray Images}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={418-422},
-  abstract={A large number of well-maintained datasets are needed for the diagnosis and assessment of the severity of the new disease (COVID-19) using chest radiographs (CXR). To achieve the best results, current methods for quantifying severity require complex methods and large datasets for training. Medical professionals must have access to systems that can quickly and automatically identify COVID-19 patients and predict severity. In this work, we measure the severity of COVID-19 using an efficient neural network consisting of a CNN backbone and a regression head to automatically predict lung infection scores. In addition, we investigate the efficiency of some augmentation methods to increase the potential of the deep model. A comparative study was conducted using several state-of-the-art deep learning methods on the public RALO dataset. The experimental results show that our model has the potential to perform best on severity quantification tasks and demonstrate the impact of lung segmentation on performance.},
-  doi={10.1109/SSP53291.2023.10207986},
-  ISSN={2693-3551},
-  month={July},
-}
-
-@article{hammoudi2022superpixelgridmasks,
-  title={Superpixelgridmasks data augmentation: Application to precision health and other real-world data},
-  author={Hammoudi, Karim and Cabani, Adnane and Slika, Bouthaina and Benhabiles, Halim and Dornaika, Fadi and Melkemi, Mahmoud},
-  journal={Journal of Healthcare Informatics Research},
-  volume={6},
-  number={4},
-  pages={442--460},
-  year={2022},
-  publisher={Springer},
-  doi={10.1007/s41666-022-00122-1},
-  url={https://doi.org/10.1007/s41666-022-00122-1},
-  abstract={A novel approach of data augmentation based on irregular superpixel decomposition is proposed. This approach called SuperpixelGridMasks permits to extend original image datasets that are required by training stages of machine learning-related analysis architectures towards increasing their performances. Three variants named SuperpixelGridCut, SuperpixelGridMean, and SuperpixelGridMix are presented. These grid-based methods produce a new style of image transformations using the dropping and fusing of information. Extensive experiments using various image classification models as well as precision health and surrounding real-world datasets show that baseline performances can be significantly outperformed using our methods. The comparative study also shows that our methods can overpass the performances of other data augmentations. SuperpixelGridCut, SuperpixelGridMean, and SuperpixelGridMix codes are publicly available at https://github.com/hammoudiproject/SuperpixelGridMasks.}
-}
-
