@@ -16,7 +16,7 @@ role: PhD Student
 organizations:
   - name: University of the Basque Country (UPV/EHU)
     url: 'https://www.ehu.eus'
-  - name: Fundacion Centro De Tecnologias De Interaccion Visual Y Comunicaciones Vicomtech
+  - name: Vicomtech
     url: 'https://www.vicomtech.org/'
 
 # Short bio (displayed in user profile at end of posts)
