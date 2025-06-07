@@ -3,7 +3,7 @@
 title: Francisco Javier Iriarte
 
 # Full Name (for SEO)
-first_name: Francisco Javier  
+first_name: Francisco J  
 last_name: Iriarte
 
 # Is this the primary user of the site?
