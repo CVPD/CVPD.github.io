@@ -58,7 +58,7 @@ user_groups:
   - Postdocs
 ---
 
-**Dr. Pendar Alirezazadeh** is a postdoctoral research fellow at the University of the Basque Country (UPV/EHU), working in the Computer Vision and Pattern Discovery (CVPD) group. He earned his PhD in Computer Engineering (Excellent Cum Laude, 2024) under the supervision of Prof. Fadi Dornaika and Prof. Abdelmalik Moujahid.
+**Dr. Pendar Alirezazadeh** is a postdoctoral research fellow at the University of the Basque Country (UPV/EHU), working in the Computer Vision and Pattern Discovery (CVPD) group. He earned his PhD in Computer Engineering (Excellent Cum Laude, 2024) under the supervision of [Dr. Fadi Dornaika](https://cvpd.github.io/author/fadi-dornaika/) and Prof. Abdelmalik Moujahid.
 
 His research focuses on **Edge AI**, where he develops **lightweight deep learning models** that can operate efficiently on resource-constrained embedded systems. He specializes in **neural network quantization**, **discriminative learning**, and **attention mechanisms**, with the goal of bringing powerful AI capabilities to real-time edge applications.
 
