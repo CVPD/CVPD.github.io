@@ -2,7 +2,7 @@
 title: Multi-Level XAI-Driven MLOps Pipeline for the Adjustment of Fruit and Vegetable
   Classifiers
 authors:
-- Francisco J Iriarte
+- Francisco Javier Iriarte
 - Miguel E Ortiz
 - Luis Unzueta
 - Javier Martı́nez
