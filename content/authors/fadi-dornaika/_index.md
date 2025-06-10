@@ -35,7 +35,7 @@ education:
     - course: PhD in Computer Vision and Robotics
       institution: Grenoble Institute of Technology, France
       year: 1995
-    - course: Diploma in Electromechanical Engineering
+    - course: Diploma in Electrical and Electronics Engineering
       institution: Lebanese University, Lebanon
       year: 1990
 
