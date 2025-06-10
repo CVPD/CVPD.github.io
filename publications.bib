@@ -1,14 +1,103 @@
-@conference{iglesias2024analysis,
-  author={Iglesias, Aitor and García, Mikel and Aranjuelo, Nerea and Arganda-Carreras, Ignacio and Nieto, Marcos},
-  journal={Proceedings Copyright},
-  title = {Analysis of Point Cloud Domain Gap Effects for 3D Object Detection Evaluation},
-  abstract = {The development of autonomous driving systems heavily relies on high-quality LiDAR data, which is essential for robust object detection and scene understanding. Nevertheless, obtaining a substantial amount of such data for effective training and evaluation of autonomous driving algorithms is a major challenge. To overcome this limitation, recent studies are taking advantage of advancements in realistic simulation engines, such as CARLA, which have provided a breakthrough in generating synthetic LiDAR data that closely resembles realworld scenarios. However, these data are far from being identical to real data. In this study, we address the domain gap between real LiDAR data and synthetic data. We train deep-learning models for object detection using real data. Then, those models are rigorously evaluated using synthetic data generated in CARLA. By quantifying the discrepancies between the model's performance on real and synthetic data, the present study shows that there is indeed a domain gap between the two types of data and does not affect equal to different model architectures. Finally, we propose a method for synthetic data processing to reduce this domain gap. This research contributes to enhancing the use of synthetic data for autonomous driving systems.},
-  booktitle={Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications - Volume 4: VISAPP},
+@article{sun2025hsmix,
+  title = {HSMix: Hard and soft mixing data augmentation for medical image segmentation},
+  journal = {Information Fusion},
+  volume = {115},
+  pages = {102741},
+  year = {2025},
+  issn = {1566-2535},
+  doi = {10.1016/j.inffus.2024.102741},
+  url = {https://www.sciencedirect.com/science/article/pii/S1566253524005190},
+  author = {Danyang Sun and Fadi Dornaika and Nagore Barrena},
+  abstract = {Due to the high cost of annotation or the rarity of some diseases, medical image segmentation is often limited by data scarcity and the resulting overfitting problem. Self-supervised learning and semi-supervised learning can mitigate the data scarcity challenge to some extent. However, both of these paradigms are complex and require either hand-crafted pretexts or well-defined pseudo-labels. In contrast, data augmentation represents a relatively simple and straightforward approach to addressing data scarcity issues. It has led to significant improvements in image recognition tasks. However, the effectiveness of local image editing augmentation techniques in the context of segmentation has been less explored. Additionally, traditional data augmentation methods for local image editing augmentation methods generally utilize square regions, which cause a loss of contour information. We propose HSMix, a novel approach to local image editing data augmentation involving hard and soft mixing for medical semantic segmentation. In our approach, a hard-augmented image is created by combining homogeneous regions (superpixels) from two source images. A soft mixing method further adjusts the brightness of these composed regions with brightness mixing based on locally aggregated pixel-wise saliency coefficients. The ground-truth segmentation masks of the two source images undergo the same mixing operations to generate the associated masks for the augmented images. Our method fully exploits both the prior contour and saliency information, thus preserving local semantic information in the augmented images while enriching the augmentation space with more diversity. Our method is a plug-and-play solution that is model agnostic and applicable to a range of medical imaging modalities. Extensive experimental evidence has demonstrated its effectiveness in a variety of medical segmentation tasks. The source code is available in https://github.com/DanielaPlusPlus/HSMix.}
+}
+
+@INPROCEEDINGS{sun2024superpixel,
+  author={Sun, Danyang and Dornaika, Fadi and Hoang, Vinh Truong and Barrena, N.},
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Superpixel Mixing: A Data Augmentation Technique For Robust Deep Visual Recognition Models}, 
   year={2024},
-  pages={278-285},
-  publisher={SciTePress},
-  organization={INSTICC},
-  doi={10.5220/0012357200003660},
-  isbn={978-989-758-679-8},
-  issn={2184-4321},
+  volume={},
+  number={},
+  pages={624-630},
+  abstract={Data augmentation can mitigate overfitting problems in data exploration without increasing the size of the model. Existing cutmix-based data augmentation has been proven to significantly enhance deep learning performance. However, many existing methods overlook the discriminative local context of the image and rely on ad hoc regions consisting of square or rectangular local regions, resulting in the loss of complete semantic object parts. In this work, we propose a superpixelwise local-context-aware efficient image mixing approach for data augmentation, aiming to overcome the limitations previously mentioned. Our approach only requires one forward propagation using a superpixel attention-based label mixing with lower computational complexity. The model is trained using a combination of a global classification of the mixed (augmented) image loss, a superpixel-wise weighted local classification loss, and a superpixel-based weighted contrastive learning loss. The last two losses are based on the superpixel-aware attentive embeddings. Thus, the resulting deep encoder can learn both local and global features of the images, capturing object-part local context information. Experiments on diverse benchmarks, such as ImageNet-1K and CUB-200-2011, indicate that the proposed method out-performs many augmentation methods for visual recognition. We have not only demonstrated its effectiveness on CNN models, but also on transformer models.},
+  doi={10.1109/ICIP51287.2024.10648078},
+  ISSN={2381-8549},
+  month={Oct}
+}
+
+@Inbook{ziraki2024graph,
+  author="Ziraki, Najmeh
+  and Dornaika, Fadi
+  and Bosaghzadeh, Alireza
+  and Barrena, Nagore",
+  editor="Dornaika, Fadi
+  and Hamad, Denis
+  and Constantin, Joseph
+  and Hoang, Vinh Truong",
+  title="Graph-Based Semi-supervised Learning for Multi-view Data Analysis",
+  bookTitle="Advances in Data Clustering: Theory and Applications",
+  year="2024",
+  publisher="Springer Nature Singapore",
+  address="Singapore",
+  pages="181--200",
+  abstract="This chapter presents an innovative semi-supervised model that aims to improve data analysis by addressing the limitations of relying on single features. Instead, it advocates the simultaneous use of multiple features to improve performance and avoid misleading conclusions. This algorithm focuses on the joint construction of a consistent graph and label estimation. Key highlights of the proposed method include (1) multi-view data representation: the algorithm processes multi-view data, ensuring a richer and more comprehensive representation; (2) semi-supervised classification: by using both labeled and unlabeled data, the algorithm improves classification accuracy and generalization; and (3) improved visualization: in addition to classification, the method also focuses on improving data visualization to provide better insight and understanding. Experimental results on various image databases show the superiority of the fusion approach over single-feature methods or alternative fusion algorithms. These results underline the importance of leveraging multiple features while creating unified graphs to improve performance in semi-supervised data classification and visualization tasks.",
+  isbn="978-981-97-7679-5",
+  doi="10.1007/978-981-97-7679-5_10",
+  url="https://doi.org/10.1007/978-981-97-7679-5_10"
+}
+
+@INPROCEEDINGS{delafuente2024pixel,
+  author={De La Fuente, Mikel and Gonzalez, Paula and Azpiroz, Izar and Maiza, Mikel and Barrena, Nagore and Quartulli, Marco},
+  booktitle={IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium}, 
+  title={Pixel-Level Quality Indicator for Image Data Annotation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={7492-7496},
+  abstract={The creation of image classification and segmentation Machine Learning products requires the annotation of different classes by experts as well as the management of large volumes of data. This paper introduces a new methodology to optimize the computational execution and expert-user contribution by introducing a pixel quality indicator and, therefore reducing the number of annotated data used for model training, based on the geometric information of each pixel. The developed pixel-level quality indicator shows beneficial results, as a result of improving semantic segmentation and classification tasks' performance, validated through the IRIS 1 platform.},
+  keywords={Training;Annotations;Computational modeling;Semantic segmentation;Measurement uncertainty;Data models;Time measurement;Pixel Quality;Data Annotation Optimization;Remote Sensing Segmentation/Classification},
+  doi={10.1109/IGARSS53475.2024.10641772},
+  ISSN={2153-7003},
+  month={July},
+}
+
+@INPROCEEDINGS{dornaika2023scalable,
+  author={Dornaika, Fadi and Jaam, Jihad and Bosaghzadeh, Alireza and Ibrahim, Zoulfikar and Barrena, Nagore},
+  booktitle={2023 International Conference on Computer and Applications (ICCA)}, 
+  title={Scalable Semi-Supervised Learning through Combined Anchor-based Graph and Flexible Manifold Embedding}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-6},
+  abstract={This paper focuses on graph-based semi-supervised learning, specifically for large-scale graphs used in inductive multi-class classification. The proposed method aims to overcome limitations in current scalable graph-based semi-supervised learning techniques. The key innovation is integrating the anchor graph calculation into the learning model, rather than treating it as a separate, offline step. This approach involves several essential tasks, including simultaneously estimating unlabeled samples, mapping the feature space to the label space, creating an affinity matrix for the anchor graph, and using labels and features associated with anchor points to construct the graph. The experimental results, conducted with large datasets, demonstrate a positive trend, showing higher accuracy and greater stability compared to existing scalable graph-based semi-supervised learning methods.},
+  doi={10.1109/ICCA59364.2023.10401488},
+  ISSN={},
+  month={Nov},}
+
+@article{ziraki2023inductive,
+  title={Inductive multi-view semi-supervised learning with a consensus graph},
+  author={Ziraki, Najmeh and Bosaghzadeh, Alireza and Dornaika, Fadi and Ibrahim, Zoulfikar and Barrena, Nagore},
+  journal={Cognitive Computation},
+  volume={15},
+  number={3},
+  pages={904--913},
+  year={2023},
+  publisher={Springer},
+  doi={10.1007/s12559-023-10123-w},
+  url={https://doi.org/10.1007/s12559-023-10123-w},
+  abstract={Graphs have a crucial impact on the performance of any graph-based semi-supervised learning method, so their construction should be carefully considered. In this letter, and in the context of semi-supervised learning, we will address graph-based semi-supervised learning employing multiple views for the data. The notion of data smoothness is another missing concept in graph construction that should be considered when constructing graphs. Compared to a single feature, using multiple sources of information can increase the efficiency of the post-processing task that adopts the constructed graph. Therefore, we present an approach that merges the notions of data smoothness and label smoothness with label fitness and projection matrix calculation. Moreover, two or more views are merged to exploit the information hidden in different features. Experiments performed with image databases show the superiority of the proposed approach compared to single features and other competing fusion algorithms. Compared to recent fusion methods, the introduced scheme improved the semi-supervised classification performance. For example, on the MNIST dataset with 20 labeled images per class, the average improvement due to the proposed labeling inference was 4.4%. The proposed method is inductive and computes a linear mapping to obtain the label of unseen or test patterns.},
+}
+
+@article{bougourzi2023cnn,
+  title={CNN based facial aesthetics analysis through dynamic robust losses and ensemble regression},
+  author={Bougourzi, Fares and Dornaika, Fadi and Barrena, Nagore and Distante, Cosimo and Taleb-Ahmed, Abdelmalik},
+  journal={Applied Intelligence},
+  volume={53},
+  number={9},
+  pages={10825--10842},
+  year={2023},
+  publisher={Springer},
+  doi={10.1007/s10489-022-03943-0},
+  url={https://doi.org/10.1007/s10489-022-03943-0},
+  abstract={In recent years, estimating beauty of faces has attracted growing interest in the fields of computer vision and machine learning. This is due to the emergence of face beauty datasets (such as SCUT-FBP, SCUT-FBP5500 and KDEF-PT) and the prevalence of deep learning methods in many tasks. The goal of this work is to leverage the advances in Deep Learning architectures to provide stable and accurate face beauty estimation from static face images. To this end, our proposed approach has three main contributions. To deal with the complicated high-level features associated with the FBP problem by using more than one pre-trained Convolutional Neural Network (CNN) model, we propose an architecture with two backbones (2B-IncRex). In addition to 2B-IncRex, we introduce a parabolic dynamic law to control the behavior of the robust loss parameters during training. These robust losses are ParamSmoothL1, Huber, and Tukey. As a third contribution, we propose an ensemble regression based on five regressors, namely Resnext-50, Inception-v3 and three regressors based on our proposed 2B-IncRex architecture. These models are trained with the following dynamic loss functions: Dynamic ParamSmoothL1, Dynamic Tukey, Dynamic ParamSmoothL1, Dynamic Huber, and Dynamic Tukey, respectively. To evaluate the performance of our approach, we used two datasets: SCUT-FBP5500 and KDEF-PT. The dataset SCUT-FBP5500 contains two evaluation scenarios provided by the database developers: 60-40% split and five-fold cross-validation. Our approach outperforms state-of-the-art methods on several metrics in both evaluation scenarios of SCUT-FBP5500. Moreover, experiments on the KDEF-PT dataset demonstrate the efficiency of our approach for estimating facial beauty using transfer learning, despite the presence of facial expressions and limited data. These comparisons highlight the effectiveness of the proposed solutions for FBP. They also show that the proposed Dynamic robust losses lead to more flexible and accurate estimators.},
 }
