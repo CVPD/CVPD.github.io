@@ -1,103 +1,82 @@
-@article{sun2025hsmix,
-  title = {HSMix: Hard and soft mixing data augmentation for medical image segmentation},
-  journal = {Information Fusion},
-  volume = {115},
-  pages = {102741},
-  year = {2025},
-  issn = {1566-2535},
-  doi = {10.1016/j.inffus.2024.102741},
-  url = {https://www.sciencedirect.com/science/article/pii/S1566253524005190},
-  author = {Danyang Sun and Fadi Dornaika and Nagore Barrena},
-  abstract = {Due to the high cost of annotation or the rarity of some diseases, medical image segmentation is often limited by data scarcity and the resulting overfitting problem. Self-supervised learning and semi-supervised learning can mitigate the data scarcity challenge to some extent. However, both of these paradigms are complex and require either hand-crafted pretexts or well-defined pseudo-labels. In contrast, data augmentation represents a relatively simple and straightforward approach to addressing data scarcity issues. It has led to significant improvements in image recognition tasks. However, the effectiveness of local image editing augmentation techniques in the context of segmentation has been less explored. Additionally, traditional data augmentation methods for local image editing augmentation methods generally utilize square regions, which cause a loss of contour information. We propose HSMix, a novel approach to local image editing data augmentation involving hard and soft mixing for medical semantic segmentation. In our approach, a hard-augmented image is created by combining homogeneous regions (superpixels) from two source images. A soft mixing method further adjusts the brightness of these composed regions with brightness mixing based on locally aggregated pixel-wise saliency coefficients. The ground-truth segmentation masks of the two source images undergo the same mixing operations to generate the associated masks for the augmented images. Our method fully exploits both the prior contour and saliency information, thus preserving local semantic information in the augmented images while enriching the augmentation space with more diversity. Our method is a plug-and-play solution that is model agnostic and applicable to a range of medical imaging modalities. Extensive experimental evidence has demonstrated its effectiveness in a variety of medical segmentation tasks. The source code is available in https://github.com/DanielaPlusPlus/HSMix.}
-}
-
-@INPROCEEDINGS{sun2024superpixel,
-  author={Sun, Danyang and Dornaika, Fadi and Hoang, Vinh Truong and Barrena, N.},
-  booktitle={2024 IEEE International Conference on Image Processing (ICIP)}, 
-  title={Superpixel Mixing: A Data Augmentation Technique For Robust Deep Visual Recognition Models}, 
+@article{alirezazadeh2024mises,
+  title={Mises-Fisher similarity-based boosted additive angular margin loss for breast cancer classification},
+  author={Alirezazadeh, Pendar and Dornaika, Fadi and Charafeddine, Jinan},
+  journal={Artificial Intelligence Review},
+  volume={57},
+  number={12},
+  pages={326},
   year={2024},
-  volume={},
-  number={},
-  pages={624-630},
-  abstract={Data augmentation can mitigate overfitting problems in data exploration without increasing the size of the model. Existing cutmix-based data augmentation has been proven to significantly enhance deep learning performance. However, many existing methods overlook the discriminative local context of the image and rely on ad hoc regions consisting of square or rectangular local regions, resulting in the loss of complete semantic object parts. In this work, we propose a superpixelwise local-context-aware efficient image mixing approach for data augmentation, aiming to overcome the limitations previously mentioned. Our approach only requires one forward propagation using a superpixel attention-based label mixing with lower computational complexity. The model is trained using a combination of a global classification of the mixed (augmented) image loss, a superpixel-wise weighted local classification loss, and a superpixel-based weighted contrastive learning loss. The last two losses are based on the superpixel-aware attentive embeddings. Thus, the resulting deep encoder can learn both local and global features of the images, capturing object-part local context information. Experiments on diverse benchmarks, such as ImageNet-1K and CUB-200-2011, indicate that the proposed method out-performs many augmentation methods for visual recognition. We have not only demonstrated its effectiveness on CNN models, but also on transformer models.},
-  doi={10.1109/ICIP51287.2024.10648078},
-  ISSN={2381-8549},
-  month={Oct}
-}
-
-@Inbook{ziraki2024graph,
-  author="Ziraki, Najmeh
-  and Dornaika, Fadi
-  and Bosaghzadeh, Alireza
-  and Barrena, Nagore",
-  editor="Dornaika, Fadi
-  and Hamad, Denis
-  and Constantin, Joseph
-  and Hoang, Vinh Truong",
-  title="Graph-Based Semi-supervised Learning for Multi-view Data Analysis",
-  bookTitle="Advances in Data Clustering: Theory and Applications",
-  year="2024",
-  publisher="Springer Nature Singapore",
-  address="Singapore",
-  pages="181--200",
-  abstract="This chapter presents an innovative semi-supervised model that aims to improve data analysis by addressing the limitations of relying on single features. Instead, it advocates the simultaneous use of multiple features to improve performance and avoid misleading conclusions. This algorithm focuses on the joint construction of a consistent graph and label estimation. Key highlights of the proposed method include (1) multi-view data representation: the algorithm processes multi-view data, ensuring a richer and more comprehensive representation; (2) semi-supervised classification: by using both labeled and unlabeled data, the algorithm improves classification accuracy and generalization; and (3) improved visualization: in addition to classification, the method also focuses on improving data visualization to provide better insight and understanding. Experimental results on various image databases show the superiority of the fusion approach over single-feature methods or alternative fusion algorithms. These results underline the importance of leveraging multiple features while creating unified graphs to improve performance in semi-supervised data classification and visualization tasks.",
-  isbn="978-981-97-7679-5",
-  doi="10.1007/978-981-97-7679-5_10",
-  url="https://doi.org/10.1007/978-981-97-7679-5_10"
-}
-
-@INPROCEEDINGS{delafuente2024pixel,
-  author={De La Fuente, Mikel and Gonzalez, Paula and Azpiroz, Izar and Maiza, Mikel and Barrena, Nagore and Quartulli, Marco},
-  booktitle={IGARSS 2024 - 2024 IEEE International Geoscience and Remote Sensing Symposium}, 
-  title={Pixel-Level Quality Indicator for Image Data Annotation}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={7492-7496},
-  abstract={The creation of image classification and segmentation Machine Learning products requires the annotation of different classes by experts as well as the management of large volumes of data. This paper introduces a new methodology to optimize the computational execution and expert-user contribution by introducing a pixel quality indicator and, therefore reducing the number of annotated data used for model training, based on the geometric information of each pixel. The developed pixel-level quality indicator shows beneficial results, as a result of improving semantic segmentation and classification tasks' performance, validated through the IRIS 1 platform.},
-  keywords={Training;Annotations;Computational modeling;Semantic segmentation;Measurement uncertainty;Data models;Time measurement;Pixel Quality;Data Annotation Optimization;Remote Sensing Segmentation/Classification},
-  doi={10.1109/IGARSS53475.2024.10641772},
-  ISSN={2153-7003},
-  month={July},
-}
-
-@INPROCEEDINGS{dornaika2023scalable,
-  author={Dornaika, Fadi and Jaam, Jihad and Bosaghzadeh, Alireza and Ibrahim, Zoulfikar and Barrena, Nagore},
-  booktitle={2023 International Conference on Computer and Applications (ICCA)}, 
-  title={Scalable Semi-Supervised Learning through Combined Anchor-based Graph and Flexible Manifold Embedding}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-6},
-  abstract={This paper focuses on graph-based semi-supervised learning, specifically for large-scale graphs used in inductive multi-class classification. The proposed method aims to overcome limitations in current scalable graph-based semi-supervised learning techniques. The key innovation is integrating the anchor graph calculation into the learning model, rather than treating it as a separate, offline step. This approach involves several essential tasks, including simultaneously estimating unlabeled samples, mapping the feature space to the label space, creating an affinity matrix for the anchor graph, and using labels and features associated with anchor points to construct the graph. The experimental results, conducted with large datasets, demonstrate a positive trend, showing higher accuracy and greater stability compared to existing scalable graph-based semi-supervised learning methods.},
-  doi={10.1109/ICCA59364.2023.10401488},
-  ISSN={},
-  month={Nov},}
-
-@article{ziraki2023inductive,
-  title={Inductive multi-view semi-supervised learning with a consensus graph},
-  author={Ziraki, Najmeh and Bosaghzadeh, Alireza and Dornaika, Fadi and Ibrahim, Zoulfikar and Barrena, Nagore},
-  journal={Cognitive Computation},
-  volume={15},
-  number={3},
-  pages={904--913},
-  year={2023},
   publisher={Springer},
-  doi={10.1007/s12559-023-10123-w},
-  url={https://doi.org/10.1007/s12559-023-10123-w},
-  abstract={Graphs have a crucial impact on the performance of any graph-based semi-supervised learning method, so their construction should be carefully considered. In this letter, and in the context of semi-supervised learning, we will address graph-based semi-supervised learning employing multiple views for the data. The notion of data smoothness is another missing concept in graph construction that should be considered when constructing graphs. Compared to a single feature, using multiple sources of information can increase the efficiency of the post-processing task that adopts the constructed graph. Therefore, we present an approach that merges the notions of data smoothness and label smoothness with label fitness and projection matrix calculation. Moreover, two or more views are merged to exploit the information hidden in different features. Experiments performed with image databases show the superiority of the proposed approach compared to single features and other competing fusion algorithms. Compared to recent fusion methods, the introduced scheme improved the semi-supervised classification performance. For example, on the MNIST dataset with 20 labeled images per class, the average improvement due to the proposed labeling inference was 4.4%. The proposed method is inductive and computes a linear mapping to obtain the label of unseen or test patterns.},
+  doi={10.1007/s10462-024-10963-4},
+  url={https://link.springer.com/article/10.1007/s10462-024-10963-4},
+  abstract={To enhance the accuracy of breast cancer diagnosis, current practices rely on biopsies and microscopic examinations. However, this approach is known for being time-consuming, tedious, and costly. While convolutional neural networks (CNNs) have shown promise for their efficiency and high accuracy, training them effectively becomes challenging in real-world learning scenarios such as class imbalance, small-scale datasets, and label noises. Angular margin-based softmax losses, which concentrate on the angle between features and classifiers embedded in cosine similarity at the classification layer, aim to regulate feature representation learning. Nevertheless, the cosine similarity's lack of a heavy tail impedes its ability to compactly regulate intra-class feature distribution, limiting generalization performance. Moreover, these losses are constrained to target classes when margin penalties are applied, which may not always optimize effectiveness. Addressing these hurdles, we introduce an innovative approach termed MF-BAM (Mises-Fisher Similarity-based Boosted Additive Angular Margin Loss), which extends beyond traditional cosine similarity and is anchored in the von Mises-Fisher distribution. MF-BAM not only penalizes the angle between deep features and their corresponding target class weights but also considers angles between deep features and weights associated with non-target classes. Through extensive experimentation on the BreaKHis dataset, MF-BAM achieves outstanding accuracies of 99.92%, 99.96%, 100.00%, and 98.05% for magnification levels of x40, x100, x200, and x400, respectively. Furthermore, additional experiments conducted on the BACH dataset for breast cancer classification, as well as on the LFW and YTF datasets for face recognition, affirm the generalization capability of our proposed loss function.}
 }
 
-@article{bougourzi2023cnn,
-  title={CNN based facial aesthetics analysis through dynamic robust losses and ensemble regression},
-  author={Bougourzi, Fares and Dornaika, Fadi and Barrena, Nagore and Distante, Cosimo and Taleb-Ahmed, Abdelmalik},
-  journal={Applied Intelligence},
-  volume={53},
-  number={9},
-  pages={10825--10842},
-  year={2023},
-  publisher={Springer},
-  doi={10.1007/s10489-022-03943-0},
-  url={https://doi.org/10.1007/s10489-022-03943-0},
-  abstract={In recent years, estimating beauty of faces has attracted growing interest in the fields of computer vision and machine learning. This is due to the emergence of face beauty datasets (such as SCUT-FBP, SCUT-FBP5500 and KDEF-PT) and the prevalence of deep learning methods in many tasks. The goal of this work is to leverage the advances in Deep Learning architectures to provide stable and accurate face beauty estimation from static face images. To this end, our proposed approach has three main contributions. To deal with the complicated high-level features associated with the FBP problem by using more than one pre-trained Convolutional Neural Network (CNN) model, we propose an architecture with two backbones (2B-IncRex). In addition to 2B-IncRex, we introduce a parabolic dynamic law to control the behavior of the robust loss parameters during training. These robust losses are ParamSmoothL1, Huber, and Tukey. As a third contribution, we propose an ensemble regression based on five regressors, namely Resnext-50, Inception-v3 and three regressors based on our proposed 2B-IncRex architecture. These models are trained with the following dynamic loss functions: Dynamic ParamSmoothL1, Dynamic Tukey, Dynamic ParamSmoothL1, Dynamic Huber, and Dynamic Tukey, respectively. To evaluate the performance of our approach, we used two datasets: SCUT-FBP5500 and KDEF-PT. The dataset SCUT-FBP5500 contains two evaluation scenarios provided by the database developers: 60-40% split and five-fold cross-validation. Our approach outperforms state-of-the-art methods on several metrics in both evaluation scenarios of SCUT-FBP5500. Moreover, experiments on the KDEF-PT dataset demonstrate the efficiency of our approach for estimating facial beauty using transfer learning, despite the presence of facial expressions and limited data. These comparisons highlight the effectiveness of the proposed solutions for FBP. They also show that the proposed Dynamic robust losses lead to more flexible and accurate estimators.},
+@article{alirezazadeh2024discriminative,
+  author = {Alirezazadeh, Pendar and Dornaika, Fadi and Moujahid, Abdelmalik},
+  title = {Discriminative Feature Learning Through Angular Margin-Based Softmax Losses for Breast Cancer Classification},
+  journal = {Biophysical Reviews and Letters},
+  volume = {19},
+  number = {04},
+  pages = {291-311},
+  year = {2024},
+  doi = {10.1142/S1793048024400022},
+  URL = {https://doi.org/10.1142/S1793048024400022},
+  eprint = {https://doi.org/10.1142/S1793048024400022},
+  abstract = { When many histopathological breast images with different magnification levels need to be analyzed, diagnosing benign or malignant cancer from the images can be time-consuming. Automatic classification of histopathological images of breast cancer can support the diagnostic workflow in pathology, reducing analysis time. Recently, convolutional neural networks (CNNs) have been used for more accurate classification of breast cancer histopathological images. CNNs typically highlight semantic information to extract discriminative features. However, the traditional softmax loss used by CNNs usually lacks sufficient discriminative power. To address this problem, several angular margin-based softmax loss functions have been proposed, including Large Margin Softmax Loss (A-Softmax), Large Margin Cosine Loss (CosFace), Additive Angular Margin Loss (ArcFace), and Linear ArcFace (Li-ArcFace). All of these improved losses are based on the same concept: maximizing inter-class variance while minimizing intra-class distance. This paper focuses on these four losses and their effectiveness in extracting discriminative features and creating decision margins between classes. Extensive experimental evaluations were conducted on a public and well-known histopathological breast cancer image dataset (BreakHis). Further experiments with the BACH dataset for breast cancer classification and the SARS-CoV-2 CT-scan dataset for COVID-19 detection affirm the generalization capability of angular margin-based softmax losses in medical image classification.}
+}
+
+@article{alirezazadeh2023boosted,
+title = {Boosted Additive Angular Margin Loss for breast cancer diagnosis from histopathological images},
+journal = {Computers in Biology and Medicine},
+volume = {166},
+pages = {107528},
+year = {2023},
+issn = {0010-4825},
+doi = {10.1016/j.compbiomed.2023.107528},
+url = {https://www.sciencedirect.com/science/article/pii/S0010482523009939},
+author = {Pendar Alirezazadeh and Fadi Dornaika},
+abstract = {Pathologists use biopsies and microscopic examination to accurately diagnose breast cancer. This process is time-consuming, labor-intensive, and costly. Convolutional neural networks (CNNs) offer an efficient and highly accurate approach to reduce analysis time and automate the diagnostic workflow in pathology. However, the softmax loss commonly used in existing CNNs leads to noticeable ambiguity in decision boundaries and lacks a clear constraint for minimizing within-class variance. In response to this problem, a solution in the form of softmax losses based on angular margin was developed. These losses were introduced in the context of face recognition, with the goal of integrating an angular margin into the softmax loss. This integration improves discrimination features during CNN training by effectively increasing the distance between different classes while reducing the variance within each class. Despite significant progress, these losses are limited to target classes only when margin penalties are applied, which may not lead to optimal effectiveness. In this paper, we introduce Boosted Additive Angular Margin Loss (BAM) to obtain highly discriminative features for breast cancer diagnosis from histopathological images. BAM not only penalizes the angle between deep features and their target class weights, but also considers angles between deep features and non-target class weights. We performed extensive experiments on the publicly available BreaKHis dataset. BAM achieved remarkable accuracies of 99.79%, 99.86%, 99.96%, and 97.65% for magnification levels of 40X, 100X, 200X, and 400X, respectively. These results show an improvement in accuracy of 0.13%, 0.34%, and 0.21% for 40X, 100X, and 200X magnifications, respectively, compared to the baseline methods. Additional experiments were performed on the BACH dataset for breast cancer classification and on the widely accepted LFW and YTF datasets for face recognition to evaluate the generalization ability of the proposed loss function. The results show that BAM outperforms state-of-the-art methods by increasing the decision space between classes and minimizing intra-class variance, resulting in improved discriminability.}
+}
+
+@Article{alirezazadeh2023chasing,
+  AUTHOR = {Alirezazadeh, Pendar and Dornaika, Fadi and Moujahid, Abdelmalik},
+  TITLE = {Chasing a Better Decision Margin for Discriminative Histopathological Breast Cancer Image Classification},
+  JOURNAL = {Electronics},
+  VOLUME = {12},
+  YEAR = {2023},
+  NUMBER = {20},
+  ARTICLE-NUMBER = {4356},
+  URL = {https://www.mdpi.com/2079-9292/12/20/4356},
+  ISSN = {2079-9292},
+  ABSTRACT = {When considering a large dataset of histopathologic breast images captured at various magnification levels, the process of distinguishing between benign and malignant cancer from these images can be time-intensive. The automation of histopathological breast cancer image classification holds significant promise for expediting pathology diagnoses and reducing the analysis time. Convolutional neural networks (CNNs) have recently gained traction for their ability to more accurately classify histopathological breast cancer images. CNNs excel at extracting distinctive features that emphasize semantic information. However, traditional CNNs employing the softmax loss function often struggle to achieve the necessary discriminatory power for this task. To address this challenge, a set of angular margin-based softmax loss functions have emerged, including angular softmax (A-Softmax), large margin cosine loss (CosFace), and additive angular margin (ArcFace), each sharing a common objective: maximizing inter-class variation while minimizing intra-class variation. This study delves into these three loss functions and their potential to extract distinguishing features while expanding the decision boundary between classes. Rigorous experimentation on a well-established histopathological breast cancer image dataset, BreakHis, has been conducted. As per the results, it is evident that CosFace focuses on augmenting the differences between classes, while A-Softmax and ArcFace tend to emphasize augmenting within-class variations. These observations underscore the efficacy of margin penalties on angular softmax losses in enhancing feature discrimination within the embedding space. These loss functions consistently outperform softmax-based techniques, either by widening the gaps among classes or enhancing the compactness of individual classes.},
+  DOI = {10.3390/electronics12204356}
+}
+
+@article{alirezazadeh2022adeep,
+  title = {A deep learning loss based on additive cosine margin: Application to fashion style and face recognition},
+  journal = {Applied Soft Computing},
+  volume = {131},
+  pages = {109776},
+  year = {2022},
+  issn = {1568-4946},
+  doi = {10.1016/j.asoc.2022.109776},
+  url = {https://www.sciencedirect.com/science/article/pii/S1568494622008250},
+  author = {Pendar Alirezazadeh and Fadi Dornaika and Abdelmalik Moujahid},
+  abstract = {Recently, loss functions based on angular spans improved the performance of deep visual recognition. These losses converted Euclidean cross entropy to angular cross entropy loss. Fashion style recognition deals with the problem of assigning a person's outfit to a fashion style category. Due to the high similarity between different clothing items and the use of softmax-based loss functions, many of the current methods that address this problem show relatively poor performance and cannot guarantee sufficient inter-class margins in the fashion domain. In this work, we propose an end-to-end method for deep visual recognition by combining a standard CNN architecture with a novel loss function, which we call Additive Cosine Margin Loss (ACML). The proposed function not only projects feature vectors of different classes into different regions of the embedding, but also enforces compactness of the projections within each class. Our experiments were conducted on two public and well-known fashion style recognition datasets FashionStyle14 and HipsterWars, and on the face verification and identification datasets LFW, YTF, and MegaFace. These experiments demonstrate the superiority of the proposed loss function over: (1) existing angular margin-based loss functions (2) state-of-the-art methods for clothing style recognition as well as face analysis tasks.}
+}
+
+@Article{alirezazadeh2022deep,
+  AUTHOR = {Alirezazadeh, Pendar and Dornaika, Fadi and Moujahid, Abdelmalik},
+  TITLE = {Deep Learning with Discriminative Margin Loss for Cross-Domain Consumer-to-Shop Clothes Retrieval},
+  JOURNAL = {Sensors},
+  VOLUME = {22},
+  YEAR = {2022},
+  NUMBER = {7},
+  ARTICLE-NUMBER = {2660},
+  URL = {https://www.mdpi.com/1424-8220/22/7/2660},
+  PubMedID = {35408276},
+  ISSN = {1424-8220},
+  ABSTRACT = {Consumer-to-shop clothes retrieval refers to the problem of matching photos taken by customers with their counterparts in the shop. Due to some problems, such as a large number of clothing categories, different appearances of clothing items due to different camera angles and shooting conditions, different background environments, and different body postures, the retrieval accuracy of traditional consumer-to-shop models is always low. With advances in convolutional neural networks (CNNs), the accuracy of garment retrieval has been significantly improved. Most approaches addressing this problem use single CNNs in conjunction with a softmax loss function to extract discriminative features. In the fashion domain, negative pairs can have small or large visual differences that make it difficult to minimize intraclass variance and maximize interclass variance with softmax. Margin-based softmax losses such as Additive Margin-Softmax (aka CosFace) improve the discriminative power of the original softmax loss, but since they consider the same margin for the positive and negative pairs, they are not suitable for cross-domain fashion search. In this work, we introduce the cross-domain discriminative margin loss (DML) to deal with the large variability of negative pairs in fashion. DML learns two different margins for positive and negative pairs such that the negative margin is larger than the positive margin, which provides stronger intraclass reduction for negative pairs. The experiments conducted on publicly available fashion datasets DARN and two benchmarks of the DeepFashion dataset—(1) Consumer-to-Shop Clothes Retrieval and (2) InShop Clothes Retrieval—confirm that the proposed loss function not only outperforms the existing loss functions but also achieves the best performance.},
+  DOI = {10.3390/s22072660}
 }
