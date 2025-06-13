@@ -1,0 +1,34 @@
+---
+title: 'A deep learning loss based on additive cosine margin: Application to fashion
+  style and face recognition'
+authors:
+- Pendar Alirezazadeh
+- Fadi Dornaika
+- Abdelmalik Moujahid
+date: '2022-01-01'
+publishDate: '2025-06-13T10:28:35.706255Z'
+publication_types:
+- article-journal
+publication: '*Applied Soft Computing*'
+doi: 10.1016/j.asoc.2022.109776
+abstract: "Recently, loss functions based on angular spans improved the performance
+  of deep visual recognition. These losses converted Euclidean cross entropy to angular
+  cross entropy loss. Fashion style recognition deals with the problem of assigning
+  a person's outfit to a fashion style category. Due to the high similarity between
+  different clothing items and the use of softmax-based loss functions, many of the
+  current methods that address this problem show relatively poor performance and cannot
+  guarantee sufficient inter-class margins in the fashion domain. In this work, we
+  propose an end-to-end method for deep visual recognition by combining a standard
+  CNN architecture with a novel loss function, which we call Additive Cosine Margin
+  Loss (ACML). The proposed function not only projects feature vectors of different
+  classes into different regions of the embedding, but also enforces compactness of
+  the projections within each class. Our experiments were conducted on two public
+  and well-known fashion style recognition datasets FashionStyle14 and HipsterWars,
+  and on the face verification and identification datasets LFW, YTF, and MegaFace.
+  These experiments demonstrate the superiority of the proposed loss function over:
+  (1) existing angular margin-based loss functions (2) state-of-the-art methods for
+  clothing style recognition as well as face analysis tasks."
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S1568494622008250
+---

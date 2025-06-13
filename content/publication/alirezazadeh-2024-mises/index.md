@@ -1,0 +1,40 @@
+---
+title: Mises-Fisher similarity-based boosted additive angular margin loss for breast
+  cancer classification
+authors:
+- Pendar Alirezazadeh
+- Fadi Dornaika
+- Jinan Charafeddine
+date: '2024-01-01'
+publishDate: '2025-06-13T10:28:35.672710Z'
+publication_types:
+- article-journal
+publication: '*Artificial Intelligence Review*'
+doi: 10.1007/s10462-024-10963-4
+abstract: To enhance the accuracy of breast cancer diagnosis, current practices rely
+  on biopsies and microscopic examinations. However, this approach is known for being
+  time-consuming, tedious, and costly. While convolutional neural networks (CNNs)
+  have shown promise for their efficiency and high accuracy, training them effectively
+  becomes challenging in real-world learning scenarios such as class imbalance, small-scale
+  datasets, and label noises. Angular margin-based softmax losses, which concentrate
+  on the angle between features and classifiers embedded in cosine similarity at the
+  classification layer, aim to regulate feature representation learning. Nevertheless,
+  the cosine similarity's lack of a heavy tail impedes its ability to compactly regulate
+  intra-class feature distribution, limiting generalization performance. Moreover,
+  these losses are constrained to target classes when margin penalties are applied,
+  which may not always optimize effectiveness. Addressing these hurdles, we introduce
+  an innovative approach termed MF-BAM (Mises-Fisher Similarity-based Boosted Additive
+  Angular Margin Loss), which extends beyond traditional cosine similarity and is
+  anchored in the von Mises-Fisher distribution. MF-BAM not only penalizes the angle
+  between deep features and their corresponding target class weights but also considers
+  angles between deep features and weights associated with non-target classes. Through
+  extensive experimentation on the BreaKHis dataset, MF-BAM achieves outstanding accuracies
+  of 99.92%, 99.96%, 100.00%, and 98.05% for magnification levels of x40, x100, x200,
+  and x400, respectively. Furthermore, additional experiments conducted on the BACH
+  dataset for breast cancer classification, as well as on the LFW and YTF datasets
+  for face recognition, affirm the generalization capability of our proposed loss
+  function.
+links:
+- name: URL
+  url: https://link.springer.com/article/10.1007/s10462-024-10963-4
+---
