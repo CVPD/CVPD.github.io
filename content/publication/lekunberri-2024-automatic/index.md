@@ -7,10 +7,12 @@ authors:
 - Jose A Fernandes-Salvador
 date: '2024-01-01'
 publishDate: '2025-05-30T15:30:23.913338Z'
+projects:
+- carla-2021
 publication_types:
 - article-journal
 publication: '*International Journal of Applied Earth Observation and Geoinformation*'
-doi: 10.1016/j.jag.2024.10406
+doi: 10.1016/j.jag.2024.104061
 abstract: The production of wild fish has remained relatively stable in the last two
   decades, whereas aquaculture organism production has increased to the point where
   it has exceeded wild catches. In this context, accurate and up-to-date information
