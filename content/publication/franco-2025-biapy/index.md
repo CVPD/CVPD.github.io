@@ -56,6 +56,9 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
+projects:
+- carla-2021
+
 links:
 - name: Preprint
   url: https://www.biorxiv.org/content/10.1101/2024.02.03.576026v3
