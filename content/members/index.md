@@ -1,6 +1,7 @@
 ---
 title: People
-date: 2022-10-24
+date: 2025-02-04
+lastmod: 2025-06-13
 
 type: landing
 
