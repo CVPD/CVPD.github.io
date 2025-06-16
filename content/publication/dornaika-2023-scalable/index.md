@@ -9,6 +9,8 @@ authors:
 - Nagore Barrena
 date: '2023-11-01'
 publishDate: '2025-06-10T13:46:55.345443Z'
+projects:
+- carla-2021
 publication_types:
 - paper-conference
 publication: '*2023 International Conference on Computer and Applications (ICCA)*'
