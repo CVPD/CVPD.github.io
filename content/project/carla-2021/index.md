@@ -1,5 +1,5 @@
 ---
-title: CARLA – Visual Recognition in Low Annotation Environments
+title: "CARLA – Computer Vision Approaches in Low Annotation Regimes: biomedical and facial image analysis"
 summary: CARLA explores methods of computer vision and artificial intelligence in scenarios with limited annotated data, targeting biomedical and facial image analysis applications.
 date: 2022-09-01
 authors: ["Ignacio Arganda-Carreras", "Fadi Dornaika", "Nagore Barrena", "Daniel Franco-Barranco", "Lenka Backová", "Aitor González-Marfil", "Sally El Hajjar"]
