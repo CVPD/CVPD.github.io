@@ -23,7 +23,15 @@ abstract: The creation of image classification and segmentation Machine Learning
   indicator shows beneficial results, as a result of improving semantic segmentation
   and classification tasks' performance, validated through the IRIS 1 platform.
 tags:
-- Training;Annotations;Computational modeling;Semantic segmentation;Measurement uncertainty;Data
-  models;Time measurement;Pixel Quality;Data Annotation Optimization;Remote Sensing
-  Segmentation/Classification
+- Training
+- Annotations
+- Computational modeling
+- Semantic segmentation
+- Measurement uncertainty
+- Data models
+- Time measurement
+- Pixel Quality
+- Data Annotation Optimization
+- Remote Sensing
+- Segmentation/Classification
 ---
