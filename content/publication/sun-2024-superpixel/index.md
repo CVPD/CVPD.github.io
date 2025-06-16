@@ -5,7 +5,7 @@ authors:
 - Danyang Sun
 - Fadi Dornaika
 - Vinh Truong Hoang
-- N. Barrena
+- Nagore Barrena
 date: '2024-10-01'
 publishDate: '2025-06-10T13:46:55.323411Z'
 publication_types:
