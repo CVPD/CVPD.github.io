@@ -6,6 +6,8 @@ authors:
 - Nagore Barrena
 date: '2025-01-01'
 publishDate: '2025-06-10T13:46:55.312214Z'
+projects:
+- carla-2021
 publication_types:
 - article-journal
 publication: '*Information Fusion*'

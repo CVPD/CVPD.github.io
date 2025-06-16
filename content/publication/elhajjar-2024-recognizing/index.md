@@ -7,6 +7,8 @@ authors:
 - Fahed Abdallah
 date: '2024-01-01'
 publishDate: '2025-06-04T11:13:08.996878Z'
+projects:
+- carla-2021
 publication_types:
 - article-journal
 publication: '*Progress in Artificial Intelligence*'

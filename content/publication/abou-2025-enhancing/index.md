@@ -8,6 +8,8 @@ authors:
 - Ignacio Arganda-Carreras
 date: '2025-01-01'
 publishDate: '2025-05-30T15:30:23.995028Z'
+projects:
+- carla-2021
 publication_types:
 - article-journal
 publication: '*Applied Magnetic Resonance*'

@@ -8,6 +8,8 @@ authors:
 - Ignacio Arganda-Carreras
 date: '2025-01-01'
 publishDate: '2025-05-30T15:30:24.024257Z'
+projects:
+- carla-2021
 publication_types:
 - paper-conference
 publication: '*2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)*'
