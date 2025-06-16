@@ -1,6 +1,7 @@
 ---
 title: "BiaPy: An Open AI Platform for Accessible and Scalable Biomedical Image Analysis"
 date: 2025-04-29
+authors: ["Ignacio Arganda-Carreras","Aitor González-Marfil","Daniel Franco-Barranco", "Lenka Backová"]
 image:
   focal_point: 'top'
 ---

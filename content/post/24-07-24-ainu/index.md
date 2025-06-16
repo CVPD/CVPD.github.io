@@ -1,6 +1,7 @@
 ---
 title: New AI Tool Scans STORM Images to Distinguish Cancer Cells from Normal Cells
 date: 2024-08-24
+authors: ["Ignacio Arganda-Carreras","Aitor González-Marfil","Daniel Franco-Barranco"]
 image:
   focal_point: 'top'
 ---

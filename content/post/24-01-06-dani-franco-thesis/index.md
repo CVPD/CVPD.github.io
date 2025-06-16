@@ -1,6 +1,7 @@
 ---
 title: Daniel Franco-Barranco Defends His PhD on Deep Learning for Bioimage Analysis
 date: 2024-06-21
+authors: ["Ignacio Arganda-Carreras", "Daniel Franco-Barranco"]
 image:
   focal_point: 'top'
 ---

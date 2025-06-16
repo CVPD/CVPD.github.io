@@ -1,6 +1,7 @@
 ---
 title: Two CVPD Members Featured in Stanford’s List of Most Influential Researchers
 date: 2022-11-10
+authors: ["Unai Elordi"]
 ---
 
 🎉 Congratulations, Nacho and Fadi! 🎉
