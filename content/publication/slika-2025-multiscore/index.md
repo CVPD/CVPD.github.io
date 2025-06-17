@@ -6,6 +6,8 @@ authors:
 - Karim Hammoudi
 date: '2025-04-01'
 publishDate: '2025-06-05T09:02:01.007060Z'
+projects:
+  - carla-2021
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Emerging Topics in Computational Intelligence*'

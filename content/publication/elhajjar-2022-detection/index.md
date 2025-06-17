@@ -7,6 +7,8 @@ authors:
 - Fahed Abdallah
 date: '2022-01-01'
 publishDate: '2025-06-04T11:13:09.027348Z'
+projects:
+  - carla-2021
 publication_types:
 - paper-conference
 publication: '*Smart Applications and Data Analysis*'

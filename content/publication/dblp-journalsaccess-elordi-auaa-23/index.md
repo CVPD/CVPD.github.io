@@ -8,6 +8,8 @@ authors:
 - Ignacio Arganda-Carreras
 date: '2023-01-01'
 publishDate: '2025-02-05T09:06:52.045193Z'
+projects:
+  - carla-2021
 publication_types:
 - article-journal
 publication: '*IEEE Access*'
