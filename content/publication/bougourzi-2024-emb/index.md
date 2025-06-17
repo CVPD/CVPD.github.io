@@ -8,10 +8,13 @@ authors:
 - Abdelmalik Taleb-Ahmed
 date: '2024-01-01'
 publishDate: '2025-06-17T11:56:46.064782Z'
+projects:
+- carla-2021
 publication_types:
 - article-journal
 publication: '*Artificial Intelligence Review*'
 doi: 10.1007/s10462-024-10717-2
+url_code: https://github.com/faresbougourzi/EMB-TrAttUnet
 abstract: 'One of the primary challenges in applying deep learning approaches to medical
   imaging is the limited availability of data due to various factors. These factors
   include concerns about data privacy and the requirement for expert radiologists
