@@ -6,6 +6,8 @@ authors:
 - Sally El Hajjar
 date: '2023-01-01'
 publishDate: '2025-06-04T11:13:08.974919Z'
+projects:
+  - carla-2021
 publication_types:
 - article-journal
 publication: '*Artificial Intelligence Review*'

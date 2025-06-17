@@ -7,6 +7,8 @@ authors:
 - Abdelmalik Moujahid
 date: '2023-01-01'
 publishDate: '2025-06-13T10:28:35.698686Z'
+projects:
+  - carla-2021
 publication_types:
 - article-journal
 publication: '*Electronics*'
