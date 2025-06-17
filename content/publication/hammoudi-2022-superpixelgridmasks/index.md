@@ -1,5 +1,5 @@
 ---
-title: 'Superpixelgridmasks data augmentation: Application to precision health and
+title: 'SuperpixelGridMasks data augmentation: Application to precision health and
   other real-world data'
 authors:
 - Karim Hammoudi
@@ -26,6 +26,7 @@ abstract: A novel approach of data augmentation based on irregular superpixel de
   study also shows that our methods can overpass the performances of other data augmentations.
   SuperpixelGridCut, SuperpixelGridMean, and SuperpixelGridMix codes are publicly
   available at https://github.com/hammoudiproject/SuperpixelGridMasks.
+url_code: https://github.com/hammoudiproject/
 links:
 - name: URL
   url: https://doi.org/10.1007/s41666-022-00122-1
