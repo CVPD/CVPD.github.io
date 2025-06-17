@@ -9,8 +9,6 @@ image:
   #filename: "carla_visual_recognition.jpg"  # Replace with actual image file name
   focal_point: "center"
   preview_only: false
-projects:
-  - CARLA
 tags:
   - Computer Vision
   - Deep Learning
