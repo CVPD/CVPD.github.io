@@ -6,6 +6,8 @@ authors:
 - Danyang Sun
 date: '2024-01-01'
 publishDate: '2025-06-17T08:17:01.583660Z'
+projects:
+- carla-2021
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Image Processing*'
@@ -30,6 +32,7 @@ abstract: Cutmix-based data augmentation, which uses a cut-and-paste strategy, h
   tasks, and weakly supervised object location on CUB200-2011. We have demonstrated
   the effectiveness of LGCOAMix not only for CNN networks, but also for Transformer
   networks. Source codes are available at https://github.com/DanielaPlusPlus/LGCOAMix.
+url_code: https://github.com/DanielaPlusPlus/LGCOAMix
 tags:
 - Data augmentation
 - Training

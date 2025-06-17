@@ -6,6 +6,8 @@ authors:
 - Jinan Charafeddine
 date: '2023-11-01'
 publishDate: '2025-06-17T08:17:01.599164Z'
+projects:
+- carla-2021
 publication_types:
 - paper-conference
 publication: '*2023 International Conference on Computer and Applications (ICCA)*'

@@ -5,6 +5,8 @@ authors:
 - Fadi Dornaika
 date: '2024-01-01'
 publishDate: '2025-06-17T08:17:01.557965Z'
+projects:
+- carla-2021
 publication_types:
 - article-journal
 publication: '*Information Fusion*'
@@ -31,6 +33,7 @@ abstract: 'Research in semi-supervised learning on graphs has attracted more and
   on both fused graph construction and semi-supervised classification, and generally
   outperforms traditional GCNs and other multi-view semi-supervised multi-view classification
   methods.11Source code: https://github.com/BiJingjun/WFGSC.'
+url_code: https://github.com/BiJingjun/WFGSC
 tags:
 - Multi-view data
 - Semi-supervised classification

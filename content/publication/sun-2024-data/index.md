@@ -6,6 +6,8 @@ authors:
 - Fadi Dornaika
 date: '2024-01-01'
 publishDate: '2025-06-17T08:17:01.591339Z'
+projects:
+- carla-2021
 publication_types:
 - article-journal
 publication: '*Information Fusion*'
@@ -28,6 +30,7 @@ abstract: Data augmentation is an important paradigm for boosting the generaliza
   that the proposed method out-performs many region-based augmentation methods for
   visual recognition. We have demonstrated its effectiveness not only on CNN models
   but also on transformer models. The codes are accessible at https://github.com/DanielaPlusPlus/SAFuse.
+url_code: https://github.com/DanielaPlusPlus/SAFuse
 tags:
 - Superpixel
 - Image fusion

@@ -7,6 +7,8 @@ authors:
 - Alireza Bosaghzadeh
 date: '2024-01-01'
 publishDate: '2025-06-17T08:17:01.568947Z'
+projects:
+- carla-2021
 publication_types:
 - article-journal
 publication: '*Applied Soft Computing*'
