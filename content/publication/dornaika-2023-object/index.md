@@ -1,0 +1,45 @@
+---
+title: Object-centric Contour-aware Data Augmentation Using Superpixels of Varying
+  Granularity
+authors:
+- Fadi Dornaika
+- Danyang Sun
+- Karim Hammoudi
+- Jinan Charafeddine
+- Adnane Cabani
+- Chongsheng Zhang
+date: '2023-01-01'
+publishDate: '2025-06-17T12:13:50.336658Z'
+publication_types:
+- article-journal
+publication: '*Pattern Recognition*'
+doi: https://doi.org/10.1016/j.patcog.2023.109481
+abstract: 'Regional dropout strategies have demonstrated to be very effective in improving
+  both the performance and the generalization capability of deep learning models.
+  However, when such strategies are performed in a totally random manner, the background
+  noise and label mismatch problems arise. To tackle such problems, existing approaches
+  typically focus on regions with the highest distinctiveness. Yet, there are two
+  main drawbacks of existing approaches: (I) Many existing region-based augmentation
+  methods can only use rectangular regions, resulting in the loss of object contour
+  information; (II) Deterministic selection of the most discriminative regions leads
+  to poor diversification in data augmentation. In fact, a trade-off is needed between
+  diversification and concentration, which can decrease the undesirable noise. In
+  this paper, we propose a novel object-centric contour-aware CutMix data augmentation
+  strategy with arbitrary- shape and size superpixel supports, which is hereafter
+  referred to as OcCaMix for short. It not only captures the most discriminative regions,
+  but also effectively preserves the contour details of the objects. Moreover, it
+  enables the search of natural object parts of different sizes. Extensive experiments
+  on a large number of benchmark datasets show that OcCaMix significantly outperforms
+  state-of-the-art CutMix based data augmentation methods in classification tasks.
+  The source codes and trained models are available at https://github.com/DanielaPlusPlus/OcCaMix.'
+tags:
+- Data augmentation
+- Cutmix
+- Object-centric Contour-aware
+- Discriminative regions
+- Attention
+- Superpixels
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0031320323001814
+---
