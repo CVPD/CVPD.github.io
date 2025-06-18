@@ -16,6 +16,9 @@ superuser: false
 # Role/position
 role: Former PhD student
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Organizations/Affiliations
 organizations:
   - name: North China University of Water Resources and Electric Power (UCWU)
