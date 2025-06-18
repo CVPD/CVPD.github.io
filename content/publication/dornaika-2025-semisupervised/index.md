@@ -8,6 +8,8 @@ authors:
 - Huaiyuan Xiao
 date: '2025-01-01'
 publishDate: '2025-06-18T11:12:18.098782Z'
+projects:
+- carla-2021
 publication_types:
 - article-journal
 publication: '*Neural Networks*'
