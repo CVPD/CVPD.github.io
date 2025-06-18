@@ -1,27 +1,76 @@
-@article{sun2024lcamix,
-  title = {LCAMix: Local-and-contour aware grid mixing based data augmentation for medical image segmentation},
-  journal = {Information Fusion},
-  volume = {110},
-  pages = {102484},
-  year = {2024},
-  issn = {1566-2535},
-  doi = {https://doi.org/10.1016/j.inffus.2024.102484},
-  url = {https://www.sciencedirect.com/science/article/pii/S1566253524002628},
-  author = {Danyang Sun and Fadi Dornaika and Jinan Charafeddine},
-  keywords = {Data augmentation, Medical image segmentation, Superpixel, Focal and angular margin},
-  abstract = {Medical image segmentation often faces challenges related to overfitting, primarily due to the limited and complex training samples. This challenge often prompts the use of self-supervised learning and data augmentation. However, self-supervised learning requires well-defined hand-crafted tasks and multiple training stages. On the other hand, basic image augmentation techniques like cropping, rotation, and flipping, effective for natural scene images, have limited efficacy for medical images due to their isotropic nature. While regional dropout regularization data augmentation methods have proven effective in image recognition tasks, their application in image segmentation is not as extensively studied. Additionally, existing augmentation methods often operate on square regions, leading to the loss of crucial contour information. This is particularly problematic for medical image segmentation tasks dealing with regions of interest characterized by intricate shapes. In this work, we introduce LCAMix, a novel data augmentation approach designed for medical image segmentation. LCAMix operates by blending two images and their segmentation masks based on their superpixels, incorporating a local-and-contour-aware strategy. The training process on augmented images adopts two auxiliary pretext tasks: firstly, classifying local superpixels in augmented images using an adaptive focal margin, leveraging segmentation ground truth masks as prior knowledge; secondly, reconstructing the two source images using mixed superpixels as mutual masks, emphasizing spatial sensitivity. Our method stands out as a simple, one-stage, model-agnostic, and plug-and-play data augmentation solution applicable to various segmentation tasks. Notably, it requires no external data or additional models. Extensive experiments validate its superior performance across diverse medical segmentation datasets and tasks. The source codes are available at https://github.com/DanielaPlusPlus/DataAug4Medical.}
+@article{dornaika2025leveraging,
+  author       = {Fadi Dornaika and
+                  Jingjun Bi and
+                  Jinan Charafeddine},
+  title        = {Leveraging Graph Convolutional Networks for Semi-supervised Learning
+                  in Multi-view Non-graph Data},
+  journal      = {Cognitive Computation},
+  volume       = {17},
+  number       = {2},
+  pages        = {73},
+  year         = {2025},
+  url          = {https://doi.org/10.1007/s12559-025-10428-y},
+  doi          = {10.1007/S12559-025-10428-Y},
+  timestamp    = {Sat, 31 May 2025 23:14:06 +0200},
+  biburl       = {https://dblp.org/rec/journals/cogcom/DornaikaBC25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+  abstract     = {Semi-supervised learning with a graph-based approach has gained prominence in machine learning, particularly in scenarios where labeling data involves substantial costs. Graph convolution networks (GCNs) have found widespread application in semi-supervised learning, predominantly on graph-structured data such as citation and social networks. However, a noticeable gap exists in the application of these methods to non-graph multi-view data, such as collections of images. In an effort to address this gap, we introduce two innovative deep semi-supervised multi-view classification models specifically tailored for non-graph data. Both models share a common architecture, leveraging GCNs and integrating a label smoothing constraint. The primary distinction lies in the construction of the consensus similarity graph. The first model directly reconstructs the consensus graph from different views using a specialized objective function designed for flexible graph-based semi-supervised classification. In contrast, the second model independently reconstructs individual graphs and subsequently adaptively merges them into a unified consensus graph. Our experiments encompass various multiple-view image datasets. The results consistently demonstrate the superior performance of our proposed approach compared to traditional fusion methods with GCNs. In this research, we present two approaches for tackling semi-supervised classification challenges involving multiple views. One method is named Semi-supervised Classification with a Unified Graph (SCUG), and the other is referred to as Semi-supervised Classification with a Fused Graph (SC-Fused). Both methods share a common semi-supervised classification process, utilizing the GCN framework and incorporating label smoothing. However, the key distinction lies in the construction of the similarity graph. Unlike traditional ad hoc graph construction approaches, our proposed methods, SCUG and SC-Fused, estimate the unified graph or individual graphs, respectively, alongside the labels. This results in more optimized graphs that benefit from data smoothing and the semi-supervised context.}
 }
 
-@article{dornaika2023object,
-  title = {Object-centric Contour-aware Data Augmentation Using Superpixels of Varying Granularity},
-  journal = {Pattern Recognition},
-  volume = {139},
-  pages = {109481},
-  year = {2023},
-  issn = {0031-3203},
-  doi = {https://doi.org/10.1016/j.patcog.2023.109481},
-  url = {https://www.sciencedirect.com/science/article/pii/S0031320323001814},
-  author = {Fadi Dornaika and Danyang Sun and Karim Hammoudi and Jinan Charafeddine and Adnane Cabani and Chongsheng Zhang},
-  keywords = {Data augmentation, Cutmix, Object-centric Contour-aware, Discriminative regions, Attention, Superpixels},
-  abstract = {Regional dropout strategies have demonstrated to be very effective in improving both the performance and the generalization capability of deep learning models. However, when such strategies are performed in a totally random manner, the background noise and label mismatch problems arise. To tackle such problems, existing approaches typically focus on regions with the highest distinctiveness. Yet, there are two main drawbacks of existing approaches: (I) Many existing region-based augmentation methods can only use rectangular regions, resulting in the loss of object contour information; (II) Deterministic selection of the most discriminative regions leads to poor diversification in data augmentation. In fact, a trade-off is needed between diversification and concentration, which can decrease the undesirable noise. In this paper, we propose a novel object-centric contour-aware CutMix data augmentation strategy with arbitrary- shape and size superpixel supports, which is hereafter referred to as OcCaMix for short. It not only captures the most discriminative regions, but also effectively preserves the contour details of the objects. Moreover, it enables the search of natural object parts of different sizes. Extensive experiments on a large number of benchmark datasets show that OcCaMix significantly outperforms state-of-the-art CutMix based data augmentation methods in classification tasks. The source codes and trained models are available at https://github.com/DanielaPlusPlus/OcCaMix.}
+@article{dornaika2025semisupervised,
+  author       = {Fadi Dornaika and
+                  Jingjun Bi and
+                  Jinan Charafeddine and
+                  Huaiyuan Xiao},
+  title        = {Semi-supervised learning for multi-view and non-graph data using Graph
+                  Convolutional Networks},
+  journal      = {Neural Networks},
+  volume       = {185},
+  pages        = {107218},
+  year         = {2025},
+  url          = {https://doi.org/10.1016/j.neunet.2025.107218},
+  doi          = {10.1016/J.NEUNET.2025.107218},
+  timestamp    = {Thu, 01 May 2025 20:35:05 +0200},
+  biburl       = {https://dblp.org/rec/journals/nn/DornaikaBCX25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+  abstract = {Semi-supervised learning with a graph-based approach has become increasingly popular in machine learning, particularly when dealing with situations where labeling data is a costly process. Graph Convolution Networks (GCNs) have been widely employed in semi-supervised learning, primarily on graph-structured data like citations and social networks. However, there exists a significant gap in applying these methods to non-graph multi-view data, such as collections of images. To bridge this gap, we introduce a novel deep semi-supervised multi-view classification model tailored specifically for non-graph data. This model independently reconstructs individual graphs using a powerful semi-supervised approach and subsequently merges them adaptively into a unified consensus graph. The consensus graph feeds into a unified GCN framework incorporating a label smoothing constraint. To assess the efficacy of the proposed model, experiments were conducted across seven multi-view image datasets. Results demonstrate that this model excels in both the graph generation and semi-supervised classification phases, consistently outperforming classical GCNs and other existing semi-supervised multi-view classification approaches.}
+}
+
+
+
+@article{dornaika2023aunified,
+  author       = {Fadi Dornaika and
+                  Jingjun Bi and
+                  Chongsheng Zhang},
+  title        = {A unified deep semi-supervised graph learning scheme based on nodes
+                  re-weighting and manifold regularization},
+  journal      = {Neural Networks},
+  volume       = {158},
+  pages        = {188--196},
+  year         = {2023},
+  url          = {https://doi.org/10.1016/j.neunet.2022.11.017},
+  doi          = {10.1016/J.NEUNET.2022.11.017},
+  timestamp    = {Sat, 13 May 2023 01:06:28 +0200},
+  biburl       = {https://dblp.org/rec/journals/nn/DornaikaBZ23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+  abstract = {In recent years, semi-supervised learning on graphs has gained importance in many fields and applications. The goal is to use both partially labeled data (labeled examples) and a large amount of unlabeled data to build more effective predictive models. Deep Graph Neural Networks (GNNs) are very useful in both unsupervised and semi-supervised learning problems. As a special class of GNNs, Graph Convolutional Networks (GCNs) aim to obtain data representation through graph-based node smoothing and layer-wise neural network transformations. However, GCNs have some weaknesses when applied to semi-supervised graph learning: (1) it ignores the manifold structure implicitly encoded by the graph; (2) it uses a fixed neighborhood graph and focuses only on the convolution of a graph, but pays little attention to graph construction; (3) it rarely considers the problem of topological imbalance. To overcome the above shortcomings, in this paper, we propose a novel semi-supervised learning method called Re-weight Nodes and Graph Learning Convolutional Network with Manifold Regularization (ReNode-GLCNMR). Our proposed method simultaneously integrates graph learning and graph convolution into a unified network architecture, which also enforces label smoothing through an unsupervised loss term. At the same time, it addresses the problem of imbalance in graph topology by adaptively reweighting the influence of labeled nodes based on their distances to the class boundaries. Experiments on 8 benchmark datasets show that ReNode-GLCNMR significantly outperforms the state-of-the-art semi-supervised GNN methods.}
+}
+
+@inproceedings{bi2023acomprehensive,
+  author       = {Jingjun Bi and
+                  Fadi Dornaika},
+  title        = {A Comprehensive Deep Semi-supervised Graph Learning Approach Incorporating
+                  Node Re-weighting and Manifold Regularization},
+  booktitle    = {Proceedings of the 2023 International Conference on Advances in Artificial
+                  Intelligence and Applications, {AAIA} 2023, Wuhan, China, November
+                  18-20, 2023},
+  pages        = {336--342},
+  publisher    = {{ACM}},
+  year         = {2023},
+  url          = {https://doi.org/10.1145/3603273.3635233},
+  doi          = {10.1145/3603273.3635233},
+  timestamp    = {Sat, 13 Jan 2024 17:35:04 +0100},
+  biburl       = {https://dblp.org/rec/conf/aaia/BiD23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+  abstract = {Deep Graph Neural Networks (GNN) have gained increasing prominence across various fields and applications in recent years. In particular, Graph Convolutional Network (GCN), a specialized GNN, has emerged as a powerful tool for obtaining data representations through the processes of graph-based node smoothing and implementing transformations through neural networks layer by layer. Although GCN excels in the area of semi-supervised learning, it also has its weaknesses. In particular, it 1) tends to overlook the implicit manifold structure of graph data, 2) focuses primarily on graph convolutions, often neglects the graph construction, and 3) rarely addresses topological imbalances. In response to these limitations, we present a comprehensive deep semi-supervised Graph Learning approach incorporating Node Re-weighting and Manifold Regularization (ReNode-GLCNMR). This innovative approach corrects topological inconsistencies in the graph and adaptively reweights labeled nodes. It also seamlessly combines graph learning and graph convolution within one GCN architecture. Moreover, it imposes label smoothing by utilizing an unsupervised loss item. Our experiments on eight benchmark datasets demonstrate that our ReNode-GLCNMR model surpasses the performance of the most advanced semi-supervised GNN methods available.}
 }
