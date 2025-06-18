@@ -1,0 +1,43 @@
+---
+title: Leveraging Graph Convolutional Networks for Semi-supervised Learning in Multi-view
+  Non-graph Data
+authors:
+- Fadi Dornaika
+- Jingjun Bi
+- Jinan Charafeddine
+date: '2025-01-01'
+publishDate: '2025-06-18T11:12:18.087530Z'
+publication_types:
+- article-journal
+publication: '*Cognitive Computation*'
+doi: 10.1007/S12559-025-10428-Y
+abstract: Semi-supervised learning with a graph-based approach has gained prominence
+  in machine learning, particularly in scenarios where labeling data involves substantial
+  costs. Graph convolution networks (GCNs) have found widespread application in semi-supervised
+  learning, predominantly on graph-structured data such as citation and social networks.
+  However, a noticeable gap exists in the application of these methods to non-graph
+  multi-view data, such as collections of images. In an effort to address this gap,
+  we introduce two innovative deep semi-supervised multi-view classification models
+  specifically tailored for non-graph data. Both models share a common architecture,
+  leveraging GCNs and integrating a label smoothing constraint. The primary distinction
+  lies in the construction of the consensus similarity graph. The first model directly
+  reconstructs the consensus graph from different views using a specialized objective
+  function designed for flexible graph-based semi-supervised classification. In contrast,
+  the second model independently reconstructs individual graphs and subsequently adaptively
+  merges them into a unified consensus graph. Our experiments encompass various multiple-view
+  image datasets. The results consistently demonstrate the superior performance of
+  our proposed approach compared to traditional fusion methods with GCNs. In this
+  research, we present two approaches for tackling semi-supervised classification
+  challenges involving multiple views. One method is named Semi-supervised Classification
+  with a Unified Graph (SCUG), and the other is referred to as Semi-supervised Classification
+  with a Fused Graph (SC-Fused). Both methods share a common semi-supervised classification
+  process, utilizing the GCN framework and incorporating label smoothing. However,
+  the key distinction lies in the construction of the similarity graph. Unlike traditional
+  ad hoc graph construction approaches, our proposed methods, SCUG and SC-Fused, estimate
+  the unified graph or individual graphs, respectively, alongside the labels. This
+  results in more optimized graphs that benefit from data smoothing and the semi-supervised
+  context.
+links:
+- name: URL
+  url: https://doi.org/10.1007/s12559-025-10428-y
+---
