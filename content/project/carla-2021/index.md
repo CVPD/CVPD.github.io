@@ -49,11 +49,18 @@ The project combines theoretical research with practical experimentation using b
 ### 👥 Project Team
 
 - **Principal Investigators**:  
-  - Dr. **Fadi Dornaika** (CVPD, UPV/EHU)  
-  - Dr. **Ignacio Arganda-Carreras** (CVPD, UPV/EHU, DIPC, Biofisika Institute)
+  - Dr. **Fadi Dornaika** (Ikerbasque Research Professor, UPV/EHU)  
+  - Dr. **Ignacio Arganda-Carreras** (Ikerbasque Research Associate Professor, UPV/EHU, DIPC, Biofisika Institute)
 
-- **Collaborators**:  
-  Researchers from the CVPD group and affiliated centers in biomedical imaging and computer vision.
+- **Research Team**:
+  - Dr. **Nagore Barrena** (Assistant Professor, UPV/EHU)
+  - Dr. **Urtzi Ayesta** (Ikerbasque Research Professor, UPV/EHU)
+
+- **Work Team**:
+  - Dr. **Fares Bougourzi** (Researcher, University of Salento, Italy)
+  - Dr. **Alireza Bosaghzadeh** (Associate Professor, Shahid Rajaee Teacher Training University, Iran)
+  - Dr. **Donglai Wei** (Associate Professor, Boston College, USA)
+  - **Daniel Franco-Barranco** (PhD student, Donostia International Physics Center)
 
 ### 🕒 Timeline
 
