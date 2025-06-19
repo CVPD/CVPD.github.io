@@ -5,8 +5,13 @@ date: 2024-01-01
 end_date: 2025-12-31
 funding: €18,924
 funding_agency: UPV/EHU - 2023 Call for Research Group Grants
+draft: false
 featured: true
 authors: ["Ignacio Arganda-Carreras", "Fadi Dornaika", "Nagore Barrena", "Unai Elordi", "Lenka Backová"]
+image:
+  #filename: "carla_visual_recognition.jpg"  # Replace with actual image file name
+  focal_point: "center"
+  preview_only: false
 tags:
   - Computer Vision
   - Deep Learning
@@ -47,3 +52,4 @@ This project addresses current challenges in applying deep learning techniques t
 - Funded by the **University of the Basque Country (UPV/EHU)** under the **2023 Call for Research Group Grants** program.
 - **Total funding**: 18,924€
 - Reference code: **GIU23/0922**
+---
