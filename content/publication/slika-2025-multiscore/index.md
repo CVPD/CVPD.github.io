@@ -8,6 +8,7 @@ date: '2025-04-01'
 publishDate: '2025-06-05T09:02:01.007060Z'
 projects:
   - carla-2021
+  - giu23-022
 publication_types:
 - article-journal
 publication: '*IEEE Transactions on Emerging Topics in Computational Intelligence*'
