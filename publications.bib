@@ -1,76 +1,45 @@
-@article{dornaika2025leveraging,
-  author       = {Fadi Dornaika and
-                  Jingjun Bi and
-                  Jinan Charafeddine},
-  title        = {Leveraging Graph Convolutional Networks for Semi-supervised Learning
-                  in Multi-view Non-graph Data},
-  journal      = {Cognitive Computation},
-  volume       = {17},
-  number       = {2},
-  pages        = {73},
-  year         = {2025},
-  url          = {https://doi.org/10.1007/s12559-025-10428-y},
-  doi          = {10.1007/S12559-025-10428-Y},
-  timestamp    = {Sat, 31 May 2025 23:14:06 +0200},
-  biburl       = {https://dblp.org/rec/journals/cogcom/DornaikaBC25.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-  abstract     = {Semi-supervised learning with a graph-based approach has gained prominence in machine learning, particularly in scenarios where labeling data involves substantial costs. Graph convolution networks (GCNs) have found widespread application in semi-supervised learning, predominantly on graph-structured data such as citation and social networks. However, a noticeable gap exists in the application of these methods to non-graph multi-view data, such as collections of images. In an effort to address this gap, we introduce two innovative deep semi-supervised multi-view classification models specifically tailored for non-graph data. Both models share a common architecture, leveraging GCNs and integrating a label smoothing constraint. The primary distinction lies in the construction of the consensus similarity graph. The first model directly reconstructs the consensus graph from different views using a specialized objective function designed for flexible graph-based semi-supervised classification. In contrast, the second model independently reconstructs individual graphs and subsequently adaptively merges them into a unified consensus graph. Our experiments encompass various multiple-view image datasets. The results consistently demonstrate the superior performance of our proposed approach compared to traditional fusion methods with GCNs. In this research, we present two approaches for tackling semi-supervised classification challenges involving multiple views. One method is named Semi-supervised Classification with a Unified Graph (SCUG), and the other is referred to as Semi-supervised Classification with a Fused Graph (SC-Fused). Both methods share a common semi-supervised classification process, utilizing the GCN framework and incorporating label smoothing. However, the key distinction lies in the construction of the similarity graph. Unlike traditional ad hoc graph construction approaches, our proposed methods, SCUG and SC-Fused, estimate the unified graph or individual graphs, respectively, alongside the labels. This results in more optimized graphs that benefit from data smoothing and the semi-supervised context.}
+@article{ibrahim2023joint,
+  title={Joint graph and reduced flexible manifold embedding for scalable semi-supervised learning},
+  author={Ibrahim, Zoulfikar and Bosaghzadeh, Alireza and Dornaika, Fadi},
+  journal={Artificial Intelligence Review},
+  volume={56},
+  number={9},
+  pages={9471--9495},
+  year={2023},
+  publisher={Springer},
+  abstract={Recently, graph-based semi-supervised learning (GSSL) has received much attention. On the other hand, less attention has been paid to the problem of large-scale GSSL for inductive multi-class classification. Existing scalable GSSL methods rely on a hard linear constraint. They cannot predict the labelling of test samples, or use predefined graphs, which limits their applications and performance. In this paper, we propose an inductive algorithm that can handle large databases by using anchors. The main contribution compared to existing scalable semi-supervised models is the integration of the anchor graph computation into the learned model. We develop a criterion to jointly estimate the unlabeled sample labels, the mapping of the feature space to the label space, and the affinity matrix of the anchor graph. Furthermore, the fusion of labels and features of anchors is used to construct the graph. Using the projection matrix, it can also predict the labels of the test samples by linear transformation. Experimental results on the large datasets NORB, RCV1 and Covtype show the effectiveness, scalability and superiority of the proposed method. The code of the proposed method can be found at the following link https://github.com/ZoulfikarIB/SGRFME .},
+  doi={10.1007/s10462-023-10397-4},
+  url={https://link.springer.com/article/10.1007/s10462-023-10397-4}
 }
 
-@article{dornaika2025semisupervised,
-  author       = {Fadi Dornaika and
-                  Jingjun Bi and
-                  Jinan Charafeddine and
-                  Huaiyuan Xiao},
-  title        = {Semi-supervised learning for multi-view and non-graph data using Graph
-                  Convolutional Networks},
-  journal      = {Neural Networks},
-  volume       = {185},
-  pages        = {107218},
-  year         = {2025},
-  url          = {https://doi.org/10.1016/j.neunet.2025.107218},
-  doi          = {10.1016/J.NEUNET.2025.107218},
-  timestamp    = {Thu, 01 May 2025 20:35:05 +0200},
-  biburl       = {https://dblp.org/rec/journals/nn/DornaikaBCX25.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-  abstract = {Semi-supervised learning with a graph-based approach has become increasingly popular in machine learning, particularly when dealing with situations where labeling data is a costly process. Graph Convolution Networks (GCNs) have been widely employed in semi-supervised learning, primarily on graph-structured data like citations and social networks. However, there exists a significant gap in applying these methods to non-graph multi-view data, such as collections of images. To bridge this gap, we introduce a novel deep semi-supervised multi-view classification model tailored specifically for non-graph data. This model independently reconstructs individual graphs using a powerful semi-supervised approach and subsequently merges them adaptively into a unified consensus graph. The consensus graph feeds into a unified GCN framework incorporating a label smoothing constraint. To assess the efficacy of the proposed model, experiments were conducted across seven multi-view image datasets. Results demonstrate that this model excels in both the graph generation and semi-supervised classification phases, consistently outperforming classical GCNs and other existing semi-supervised multi-view classification approaches.}
+@article{dornaika2024scalable,
+author = {Dornaika, Fadi and Ibrahim, Zoulfikar and Bosaghzadeh, Alirezah},
+title = {Scalable and Inductive Semi-supervised Classifier with Sample Weighting Based on Graph Topology},
+year = {2024},
+issue_date = {June 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {18},
+number = {5},
+issn = {1556-4681},
+url = {https://doi.org/10.1145/3643645},
+doi = {10.1145/3643645},
+abstract = {Recently, graph-based semi-supervised learning (GSSL) has garnered significant interest in the realms of machine learning and pattern recognition. Although some of the proposed methods have made some progress, there are still some shortcomings that need to be overcome. There are three main limitations. First, the graphs used in these approaches are usually predefined regardless of the task at hand. Second, due to the use of graphs, almost all approaches are unable to process and consider data with a very large number of unlabeled samples. Thirdly, the imbalance of the topology of the samples is very often not taken into account. In particular, processing large datasets with GSSL might pose challenges in terms of computational resource feasibility. In this article, we present a scalable and inductive GSSL method. We broaden the scope of the graph topology imbalance paradigm to extensive databases. Second, we employ the calculated weights of the labeled sample for the label-matching term in the global objective function. This leads to a unified, scalable, semi-supervised learning model that allows simultaneous labeling of unlabeled data, projection of the feature space onto the labeling space, along with the graph matrix of anchors. In the proposed scheme, the integration of labels and features from anchors is applied for the adaptive construction of the anchor graph. Experimental results were performed on four large databases: NORB, RCV1, Covtype, and MNIST. These experiments demonstrate that the proposed method exhibits superior performance when compared to existing scalable semi-supervised learning models.},
+journal = {ACM Trans. Knowl. Discov. Data},
+month = {mar},
+articleno = {133},
+numpages = {18},
+keywords = {Scalable graph-based semi-supervised learning, topology imbalance, reduced flexible manifold embedding, graph structured data, inductive semi-supervised models}
 }
 
-
-
-@article{dornaika2023aunified,
-  author       = {Fadi Dornaika and
-                  Jingjun Bi and
-                  Chongsheng Zhang},
-  title        = {A unified deep semi-supervised graph learning scheme based on nodes
-                  re-weighting and manifold regularization},
-  journal      = {Neural Networks},
-  volume       = {158},
-  pages        = {188--196},
-  year         = {2023},
-  url          = {https://doi.org/10.1016/j.neunet.2022.11.017},
-  doi          = {10.1016/J.NEUNET.2022.11.017},
-  timestamp    = {Sat, 13 May 2023 01:06:28 +0200},
-  biburl       = {https://dblp.org/rec/journals/nn/DornaikaBZ23.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-  abstract = {In recent years, semi-supervised learning on graphs has gained importance in many fields and applications. The goal is to use both partially labeled data (labeled examples) and a large amount of unlabeled data to build more effective predictive models. Deep Graph Neural Networks (GNNs) are very useful in both unsupervised and semi-supervised learning problems. As a special class of GNNs, Graph Convolutional Networks (GCNs) aim to obtain data representation through graph-based node smoothing and layer-wise neural network transformations. However, GCNs have some weaknesses when applied to semi-supervised graph learning: (1) it ignores the manifold structure implicitly encoded by the graph; (2) it uses a fixed neighborhood graph and focuses only on the convolution of a graph, but pays little attention to graph construction; (3) it rarely considers the problem of topological imbalance. To overcome the above shortcomings, in this paper, we propose a novel semi-supervised learning method called Re-weight Nodes and Graph Learning Convolutional Network with Manifold Regularization (ReNode-GLCNMR). Our proposed method simultaneously integrates graph learning and graph convolution into a unified network architecture, which also enforces label smoothing through an unsupervised loss term. At the same time, it addresses the problem of imbalance in graph topology by adaptively reweighting the influence of labeled nodes based on their distances to the class boundaries. Experiments on 8 benchmark datasets show that ReNode-GLCNMR significantly outperforms the state-of-the-art semi-supervised GNN methods.}
-}
-
-@inproceedings{bi2023acomprehensive,
-  author       = {Jingjun Bi and
-                  Fadi Dornaika},
-  title        = {A Comprehensive Deep Semi-supervised Graph Learning Approach Incorporating
-                  Node Re-weighting and Manifold Regularization},
-  booktitle    = {Proceedings of the 2023 International Conference on Advances in Artificial
-                  Intelligence and Applications, {AAIA} 2023, Wuhan, China, November
-                  18-20, 2023},
-  pages        = {336--342},
-  publisher    = {{ACM}},
-  year         = {2023},
-  url          = {https://doi.org/10.1145/3603273.3635233},
-  doi          = {10.1145/3603273.3635233},
-  timestamp    = {Sat, 13 Jan 2024 17:35:04 +0100},
-  biburl       = {https://dblp.org/rec/conf/aaia/BiD23.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org},
-  abstract = {Deep Graph Neural Networks (GNN) have gained increasing prominence across various fields and applications in recent years. In particular, Graph Convolutional Network (GCN), a specialized GNN, has emerged as a powerful tool for obtaining data representations through the processes of graph-based node smoothing and implementing transformations through neural networks layer by layer. Although GCN excels in the area of semi-supervised learning, it also has its weaknesses. In particular, it 1) tends to overlook the implicit manifold structure of graph data, 2) focuses primarily on graph convolutions, often neglects the graph construction, and 3) rarely addresses topological imbalances. In response to these limitations, we present a comprehensive deep semi-supervised Graph Learning approach incorporating Node Re-weighting and Manifold Regularization (ReNode-GLCNMR). This innovative approach corrects topological inconsistencies in the graph and adaptively reweights labeled nodes. It also seamlessly combines graph learning and graph convolution within one GCN architecture. Moreover, it imposes label smoothing by utilizing an unsupervised loss item. Our experiments on eight benchmark datasets demonstrate that our ReNode-GLCNMR model surpasses the performance of the most advanced semi-supervised GNN methods available.}
+@inproceedings{ibrahim2024large,
+  title={Large Scale Graph Construction and Label Propagation},
+  author={Ibrahim, Zoulfikar and Bosaghzadeh, Alireza and Dornaika, Fadi},
+  booktitle={Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISIGRAPP 2024)},
+  volume={2},
+  pages={702--709},
+  year={2024},
+  doi={10.5220/0012430100003660},
+  url={https://www.scitepress.org/Papers/2024/124301/124301.pdf},
+  abstract={Despite the advances in semi-supervised learning methods, these algorithms face three limitations. The first is the assumption of pre-constructed graphs and the second is their inability to process large databases. The third limitation is that these methods ignore the topological imbalance of the data in a graph. In this paper, we address these limitations and propose a new approach called Weighted Simultaneous Graph Construction and Reduced Flexible Manifold Embedding (W-SGRFME). To overcome the first limitation, we construct the affinity graph using an automatic algorithm within the learning process. The second limitation concerns the ability of the model to handle a large number of unlabeled samples. To this end, the anchors are included in the algorithm as data representatives, and an inductive algorithm is used to estimate the labeling of a large number of unseen samples. To address the topological imbalance of the data samples, we introduced the Renode method to assign weights to the labeled samples. We evaluate the effectiveness of the proposed method through experimental results on two large datasets commonly used in semi-supervised learning: Covtype and MNIST. The results demonstrate the superiority of the W-SGRFME method over two recently proposed models and emphasize its effectiveness in dealing with large datasets.}
 }
