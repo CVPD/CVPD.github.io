@@ -9,6 +9,7 @@ date: '2024-01-01'
 publishDate: '2025-06-10T13:46:55.330926Z'
 projects:
 - carla-2021
+- giu23-022
 publication_types:
 - chapter
 publication: '*Advances in Data Clustering: Theory and Applications*'

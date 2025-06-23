@@ -9,6 +9,7 @@ date: '2024-01-01'
 publishDate: '2025-06-17T12:13:50.325549Z'
 projects:
 - carla-2021
+- giu23-022
 url_code: https://github.com/DanielaPlusPlus/DataAug4Medical
 publication_types:
 - article-journal

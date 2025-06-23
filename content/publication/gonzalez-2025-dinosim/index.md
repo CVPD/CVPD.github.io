@@ -9,6 +9,7 @@ date: '2025-01-01'
 publishDate: '2025-05-30T15:30:24.017577Z'
 projects:
 - carla-2021
+- giu23-022
 publication_types:
 - article
 publication: '*bioRxiv*'

@@ -12,6 +12,7 @@ date: '2024-01-01'
 publishDate: '2025-05-30T15:30:23.964492Z'
 projects:
 - carla-2021
+- giu23-022
 publication_types:
 - paper-conference
 publication: '*2024 IEEE 12th International Conference on Intelligent Systems (IS)*'

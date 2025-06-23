@@ -8,6 +8,7 @@ date: '2024-01-01'
 publishDate: '2025-06-17T08:17:01.591339Z'
 projects:
 - carla-2021
+- giu23-022
 publication_types:
 - article-journal
 publication: '*Information Fusion*'

@@ -9,6 +9,7 @@ projects:
 - carla-2021
 publication_types:
 - article-journal
+- giu23-022
 publication: '*Neural Networks*'
 doi: 10.1016/j.neunet.2024.106197
 abstract: 'Recently, clustering data collected from various sources has become a hot

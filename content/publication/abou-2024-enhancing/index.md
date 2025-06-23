@@ -11,6 +11,7 @@ date: '2024-01-01'
 publishDate: '2025-05-30T15:30:23.979221Z'
 projects:
 - carla-2021
+- giu23-022
 publication_types:
 - article-journal
 publication: '*Physica Medica*'

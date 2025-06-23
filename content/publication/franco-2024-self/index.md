@@ -9,6 +9,7 @@ date: '2024-01-01'
 publishDate: '2025-05-30T15:30:23.949883Z'
 projects:
 - carla-2021
+- giu23-022
 publication_types:
 - paper-conference
 publication: '*2024 IEEE International Symposium on Biomedical Imaging (ISBI)*'
@@ -30,4 +31,6 @@ abstract: Fluorescence microscopy plays a crucial role in cellular analysis but 
   https://github.com/danifranco/BiaPy and a custom tutorial to reproduce all results
   is available at 
   https://biapy.readthedocs.io/en/latest/tutorials/image-to-image/lightmycells.html.
+url_code: https://github.com/danifranco/BiaPy
+url_project: https://biapy.readthedocs.io/en/latest/tutorials/image-to-image/lightmycells.html
 ---

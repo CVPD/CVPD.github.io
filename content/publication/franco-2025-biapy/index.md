@@ -58,6 +58,7 @@ featured: true
 
 projects:
 - carla-2021
+- giu23-022
 
 links:
 - name: Preprint
