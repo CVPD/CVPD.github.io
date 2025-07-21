@@ -10,7 +10,7 @@ last_name: Bekhouche
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Former PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -60,10 +60,10 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
-**Salah Eddine Bekhouche** is a PhD student at the University of the Basque Country. He is currently pursuing a PhD under the supervision of [Dr. Fadi Dornaika](https://cvpd.github.io/author/fadi-dornaika/), with a focus on facial image analysis using recent machine learning tools. He earned his first PhD in Signals and Communications in 2017 and a Master's in Telecommunications in 2013, both from the University of Biskra, Algeria.
+**Salah Eddine Bekhouche** is a former PhD student at the University of the Basque Country. He pursued a PhD under the supervision of [Dr. Fadi Dornaika](https://cvpd.github.io/author/fadi-dornaika/), with a focus on facial image analysis using recent machine learning tools. He earned his first PhD in Signals and Communications in 2017 and a Master's in Telecommunications in 2013, both from the University of Biskra, Algeria.
 
 Concurrently with his studies, he works as a Senior Engineer at Huawei's R&D Center in Helsinki, focusing on computer vision research and development. His research background is in computer vision, pattern recognition, machine learning, biometrics, document understanding, and image/video generation. His work has centered on developing applied solutions, with key contributions in driver drowsiness detection using deep features , face presentation attack detection, and analyzing facial videos to screen job candidates and assess personality traits.
 
