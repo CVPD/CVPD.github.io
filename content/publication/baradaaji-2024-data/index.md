@@ -8,7 +8,7 @@ authors:
 date: '2024-01-01'
 publishDate: '2025-05-30T15:30:23.929154Z'
 publication_types:
-- article-journal
+- paper-conference
 publication: '*Electronic Imaging*'
 doi: 10.2352/EI.2024.36.10.IPAS-253
 abstract: In this paper, a novel framework for semi-supervised learning based on graphs
