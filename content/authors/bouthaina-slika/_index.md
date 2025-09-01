@@ -10,7 +10,7 @@ last_name: Slika
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Former PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -59,7 +59,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 **Bouthaina Slika** is a PhD student at the University of the Basque Country (UPV/EHU), affiliated with Ho Chi Minh City Open University. She is currently pursuing a PhD under the supervision of [Dr. Fadi Dornaika](https://cvpd.github.io/author/fadi-dornaika/). Her research focuses on deep learning methods for biomedical image analysis, with a particular emphasis on lung infection severity quantification using CXRs and CT scans. She is expected to defend her PhD by mid-2025.
 
