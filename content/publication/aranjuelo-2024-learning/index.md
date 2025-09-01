@@ -11,7 +11,7 @@ authors:
 date: '2024-01-01'
 publishDate: '2025-05-30T15:30:23.942954Z'
 publication_types:
-- conference-paper
+- paper-conference
 publication: '*Proceedings of the ACM on Computer Graphics and Interactive Techniques*'
 doi: 10.1145/3654706
 abstract: Gaze-annotated facial data is crucial for training deep neural networks
