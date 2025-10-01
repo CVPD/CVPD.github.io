@@ -16,7 +16,7 @@ The **Computer Vision and Pattern Discovery (CVPD) group** at the **University o
 
 The doctoral research will focus on the **development of new deep learning methodologies for biomedical image analysis**, aiming to overcome key limitations such as **scarcity of annotated data, computational scalability, and model generalization**.  
 
-The selected PhD student will investigate **partially supervised learning strategies** (self-/semi-supervised, few/zero-shot learning) and the **adaptation of foundation models** to bioimage analysis tasks, including **segmentation, classification, and object detection** of cellular and tissue structures. The work will combine **state-of-the-art AI methods** with validation on real biomedical data, contributing to the creation of **robust and accessible tools for the scientific community** through platforms such as **BiaPy**.  
+The selected PhD student will investigate **partially supervised learning strategies** (self-/semi-supervised, few/zero-shot learning) and the **adaptation of foundation models** to bioimage analysis tasks, including **segmentation, classification, and object detection** of cellular and tissue structures. The work will combine **state-of-the-art AI methods** with validation on real biomedical data, contributing to the creation of **robust and accessible tools for the scientific community** through platforms such as [**BiaPy**](https://biapyx.github.io/).  
 
 ---
 
