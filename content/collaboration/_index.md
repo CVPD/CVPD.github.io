@@ -6,7 +6,7 @@ The **Computer Vision and Pattern Discovery (CVPD)** group actively collaborates
 | | |
 |---|---|
 | <img src="https://www.cvc.uab.es/wp-content/uploads/2021/05/CVC-logo-color.png" width="120">  | **[Computer Vision Center](https://www.cvc.uab.es)**<br>Barcelona, Spain |
-| <img src="https://www.devinci.fr/wordpress/wp-content/themes/pulv/images/logo-pole-leonard-vinci-n.png" width="120">  | **[Dr. Jinan Charafeddine](https://www.devinci.fr/enseignant-chercheur/jinan-charafeddine/)**<br>De Vinci Higher Education, De Vinci Research Center, Paris, France. |
+| <img src="https://www.devinci.fr/wordpress/wp-content/themes/pulv/images/logo-pole-leonard-vinci-n.png" width="120">  | **[Dr. Jinan Charafeddine](https://www.devinci.fr/enseignant-chercheur/jinan-charafeddine/)**<br>De Vinci Higher Education, De Vinci Research Center, Paris, France |
 | <img src="https://www.vicomtech.org/dist/img/logo.svg" width="120"> | **[Vicomtech](https://www.vicomtech.org)**<br>San Sebastian, Spain |
 | <img src="https://www.utbm.fr/wp-content/uploads/2015/04/utbm_forword-2.jpg" width="120"> | **[University of Technology of Belfort-Montbeliard](https://www.utbm.fr)**<br>Belfort, France |
 | <img src="https://en.esigelec.fr/wp-content/uploads/2025/01/ESIGELEC-Logo-1.svg" width="120"> | **[ESIGELEC School of Engineering](https://www.esigelec.fr)**<br>Rouen, France |
