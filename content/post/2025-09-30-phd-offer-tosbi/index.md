@@ -35,7 +35,7 @@ Additional valued merits include prior experience in AI/bioimage projects, contr
 
 ### 📅 Timeline  
 
-- **Call opening:** October 6, 2025  
+- **Call opening:** Expected October 10, 2025  
 - **Deadline:** 3 weeks after call opening  
 
 ---
