@@ -12,6 +12,8 @@ The **Computer Vision and Pattern Discovery (CVPD) group** at the **University o
 
 ---
 
+<img src="MICIU_Cofinanciado_AEI_logo.jpg" alt="Spanish State Agency for Research (AEI) Logo" width="500">
+
 ### 🎯 About the PhD Project  
 
 The doctoral research will focus on the **development of new deep learning methodologies for biomedical image analysis**, aiming to overcome key limitations such as **scarcity of annotated data, computational scalability, and model generalization**.  
@@ -51,7 +53,7 @@ Applications and inquiries can be sent to:
 - [Dr. Ignacio Arganda-Carreras](mailto:ignacio.arganda@ehu.eus)  
 
 👉 More information on PhD admissions at UPV/EHU:  
-[Doctorate pre-enrolment at UPV/EHU](https://www.ehu.eus/en/web/doktorego-eskola/doctorate-pre-enrolment)  
+[Doctorate pre-enrolment at UPV/EHU](https://www.ehu.eus/en/web/doktorego-eskola/doctorate-pre-enrolment) 
 
 ---
 
