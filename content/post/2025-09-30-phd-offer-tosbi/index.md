@@ -49,7 +49,7 @@ Additional valued merits include prior experience in AI or bioimage projects, co
 ## 📝 Official Application Procedure  
 
 Applications must be submitted **through the official UPV/EHU FPI 2025 call**:  
-👉 [https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/fpi-2025](https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/fpi-2025)  
+👉 [https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/fpi-2025](https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/fpi-2025)
 
 ---
 
@@ -70,7 +70,7 @@ Applicants must:
 - Be **admitted or enrolled** in a UPV/EHU doctoral program (can be done after selection).  
 - Not already hold a PhD or have been employed under a Spanish predoctoral contract.  
 
-**Foreign candidates:** may apply from abroad and later obtain a student residence/work permit for Spain before starting the contract.  
+**Foreign candidates:** may apply from abroad and later obtain a residence/work permit for Spain before starting the contract.  
 
 ---
 
@@ -78,11 +78,11 @@ Applicants must:
 
 - **Duration:** Up to 4 years (extendable to 6 for candidates with ≥33% disability).  
 - **Employment type:** Full-time under Spanish Science Law (Ley 14/2011).  
-- **Salary:** Minimum 75% of the national M3 salary level (as per UPV/EHU regulations).  
+- **Salary:** Minimum 75% of the national M3 salary level (as per AEI and UPV/EHU regulations). Initial gross salary: 24,468.15 €/year (estimated taxes: 8,5%).
 - Includes funding for:  
-  - **PhD tuition fees** (reimbursed annually)  
-  - **Research stays** in other R&D institutions (up to €7,000 total)  
-  - **Social security coverage** and unemployment rights  
+  - **PhD tuition fees** (reimbursed annually).
+  - **Research stays** in other R&D institutions (up to €7,000 total minus tuition fees).
+  - **Social security coverage** and unemployment rights.
 
 ---
 
@@ -98,11 +98,47 @@ International applicants **not residing in Spain** may apply **via email** (exce
 - Applicants **residing in Spain** must apply through the UPV/EHU electronic portal:  
   👉 [https://egoitza.ehu.eus](https://egoitza.ehu.eus)  
 
+
 ---
 
-### ✉️ Contact  
+### 📚 Required Documents  
 
-For questions or assistance with the application process:  
+All applicants must submit the following:  
+1. **Application form** (named 'Solicitud', and available on the [UPV/EHU application website](https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/fpi-2025)).  
+  👉 [Access the form here](https://www.ehu.eus/documents/2921038/66444703/Formulario+Solicitud_es_eus_en.pdf/c81803ad-70d9-2371-332e-db763fbdb8db?t=1760098024457)
+2. **Official academic transcripts** – Bachelor’s and Master’s degrees.  
+   - If degrees were obtained abroad, include an **official GPA equivalence certificate** from the Spanish Ministry of Education:  
+     👉 [Apply here](https://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/gestion-titulos/estudios-universitarios/titulos-extranjeros/equivalencia-notas-medias.html)  
+3. **Short CV** in the Spanish **CVN format** (generated via [https://cvn.fecyt.es/editor/](https://cvn.fecyt.es/editor/)).  
+4. **Passport copy**.  
+5. **Two signed declarations** (templates available on the UPV/EHU website):  
+   - Not previously employed under a predoctoral contract.  
+     👉 [Access the form here](https://www.ehu.eus/documents/2921038/66444703/Declaracion+responsable+otras+ayudas_es_eus_en.pdf/a691a7fe-efd1-3e34-39c5-f087aa9b10c6?t=1760359413974)
+   - Not holding a PhD degree.  
+     👉 [Access the form here](https://www.ehu.eus/documents/2921038/66444703/Declaracion+responsable+no+doctor_es_eus_en.pdf/cdd8e325-4e1f-3bd7-aaeb-dd8de4171c98?t=1760359355314)  
+6. **Any specific additional documents** requested for the chosen project.  
+
+---
+
+### 🧩 Evaluation  
+
+Applications are evaluated by a specific committee linked to each project.  
+
+**Evaluation criteria:**  
+- Academic and research track record (up to **50 points**)  
+- Fit with the project’s objectives and research line (up to **50 points**)  
+
+Results will be published on the **UPV/EHU Research Vice-Rectorate website**, and selected candidates will be notified via email.  
+
+---
+
+### 📬 Contact  
+
+For general inquiries and submission:
+
+✉️ [pre-postdoc.dgi@ehu.eus​](mailto:pre-postdoc.dgi@ehu.eus​)
+
+For project-specific questions, contact the project supervisors:
 - [Prof. Fadi Dornaika](mailto:fadi.dornaika@ehu.eus)  
 - [Dr. Ignacio Arganda-Carreras](mailto:ignacio.arganda@ehu.eus)  
 
