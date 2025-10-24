@@ -109,7 +109,7 @@ All applicants must submit the following:
 2. **Official academic transcripts** – Bachelor’s and Master’s degrees.  
    - If degrees were obtained abroad, include an **official GPA equivalence certificate** from the Spanish Ministry of Education:  
      👉 [Apply here](https://sede.educacion.gob.es/sede/login/inicio.jjsp?idConvocatoria=818)  
-3. **Short CV** in the Spanish **CVN format** (generated via [https://cvn.fecyt.es/editor/](https://cvn.fecyt.es/editor/)).  
+3. **Short CV** in the Spanish **CVN format** (generated via [https://cvn.fecyt.es/editor/](https://cvn.fecyt.es/editor/index.html?locale=eng#INDEX)).  
 4. **Passport copy**.  
 5. **Two signed declarations** (templates available on the UPV/EHU website):  
    - Not previously employed under a predoctoral contract.  
