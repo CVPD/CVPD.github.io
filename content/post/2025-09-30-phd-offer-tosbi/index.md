@@ -108,7 +108,7 @@ All applicants must submit the following:
   👉 [Access the form here](https://www.ehu.eus/documents/2921038/66444703/Formulario+Solicitud_es_eus_en.pdf/c81803ad-70d9-2371-332e-db763fbdb8db?t=1760098024457)
 2. **Official academic transcripts** – Bachelor’s and Master’s degrees.  
    - If degrees were obtained abroad, include an **official GPA equivalence certificate** from the Spanish Ministry of Education:  
-     👉 [Apply here](https://www.educacionyfp.gob.es/servicios-al-ciudadano/catalogo/gestion-titulos/estudios-universitarios/titulos-extranjeros/equivalencia-notas-medias.html)  
+     👉 [Apply here](https://sede.educacion.gob.es/sede/login/inicio.jjsp?idConvocatoria=818)  
 3. **Short CV** in the Spanish **CVN format** (generated via [https://cvn.fecyt.es/editor/](https://cvn.fecyt.es/editor/)).  
 4. **Passport copy**.  
 5. **Two signed declarations** (templates available on the UPV/EHU website):  
