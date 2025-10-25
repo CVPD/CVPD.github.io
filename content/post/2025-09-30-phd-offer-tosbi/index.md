@@ -51,7 +51,7 @@ Additional valued merits include prior experience in AI or bioimage projects, co
 Applications must be submitted **through the official UPV/EHU FPI 2025 call**:  
 👉 [https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/fpi-2025](https://www.ehu.eus/es/web/ikerketaren-kudeaketa/-/fpi-2025)
 
-**Note:** The project code associated with this contract is **MCIU-024/PID2024-157485NB-I00**.
+**Note:** The project code associated with this contract is **MCIU-NO24/P36**.
 
 ---
 
@@ -120,7 +120,7 @@ All applicants must submit the following:
      👉 [Access the form here](https://www.ehu.eus/documents/2921038/66444703/Declaracion+responsable+no+doctor_es_eus_en.pdf/cdd8e325-4e1f-3bd7-aaeb-dd8de4171c98?t=1760359355314)  
 6. **Any specific additional documents** requested for the chosen project.  
 
-Remeber to specify the project code associated with this contract: **MCIU-024/PID2024-157485NB-I00**.
+Remeber to specify the project code associated with this contract: **MCIU-NO24/P36**.
 
 ---
 
