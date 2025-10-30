@@ -90,7 +90,7 @@ Since 2015, he has supervised over **25 Master's theses and four PhD dissertatio
 A **corresponding member of [Jakiunde, the Basque Academy of Sciences, Arts and Letters](https://www.jakiunde.eus/en/)**, Dr. Arganda-Carreras is also active in science communication, participating in local outreach programs on radio and television (*Lau Haizetara*[^1], *La Mecánica del Caracol*[^2]<sup>,</sup>[^3], *Faktoria*[^4], *Norteko Ferrokarrilla*[^5], and *Teknopolis*[^6]).
 
 
-In recognition of his research impact, Dr. Arganda-Carreras was included in Stanford University's **[Ranking of the World Scientists: World's Top 2% Scientists](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8)** in 2022, 2023, and 2024, which highlights influential scientists based on the citation impact of their publications.
+In recognition of his research impact, Dr. Arganda-Carreras has been included in Stanford University's **[Ranking of the World Scientists: World's Top 2% Scientists](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8)** since 2022, which highlights influential scientists based on the citation impact of their publications.
 
 [^1]: https://bizkaiairratia.eus/podcast/adimen-artifizialeko-tresna-sortu-dabe-minbizia-detektetako-faserik-goiztiarrenean/
 [^2]: https://www.ehu.eus/es/web/informatika-fakultatea/-/2020_01_08-mecanica-del-caracol
