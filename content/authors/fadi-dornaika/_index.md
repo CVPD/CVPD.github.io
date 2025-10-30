@@ -65,6 +65,6 @@ user_groups:
 
 His work spans **computer vision**, **pattern recognition**, **machine learning**, and **image processing**, with a strong focus on **semi-supervised learning**, **multiview clustering**, and **deep learning for biomedical image analysis**. He has published over **440 scientific papers**, including more than **190 indexed peer-reviewed articles** in journals such as IEEE Transactions, Information Fusion, Pattern Recognition, Medical Image Analysis, and Artificial Intelligence Review.
 
-Fadi has been principal investigator on numerous national and international projects, including those funded by the Spanish MICINN, UPV/EHU, and Henan University (China). His h-index is 41, and he has been listed in the **Stanford Top 2% Most Influential Scientists** ranking.
+Fadi has been principal investigator on numerous national and international projects, including those funded by the Spanish MICINN, UPV/EHU, and Henan University (China). His h-index is 43 (Google Scholar), and he has been listed in the Stanford University's **[Ranking of the World Scientists: World's Top 2% Scientists](https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/8)** ranking since 2022.
 
 He currently supervises **10 PhD students** working on diverse topics including face analysis, biomedical imaging, structured deep learning, and undersea monitoring. His commitment to mentoring and interdisciplinary collaboration continues to shape both foundational theory and real-world applications in AI and computer vision.
