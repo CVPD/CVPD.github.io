@@ -73,5 +73,7 @@ The project combines theoretical research with practical experimentation using b
 - **Total funding**: 101,640€ (including indirect costs)  
 - Reference code: **PID2022-137580OB-I00**
 
+<img src="/assets/media/MICIU_Cofinanciado_AEI_logo.jpg" alt="Spanish State Agency for Research (AEI) Logo" width="500">
+
 ---
 

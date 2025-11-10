@@ -23,7 +23,7 @@ The **Computer Vision and Pattern Discovery (CVPD) group** at the **University o
 
 ---
 
-<img src="MICIU_Cofinanciado_AEI_logo.jpg" alt="Spanish State Agency for Research (AEI) Logo" width="500">
+<img src="/assets/media/MICIU_Cofinanciado_AEI_logo.jpg" alt="Spanish State Agency for Research (AEI) Logo" width="500">
 
 ---
 
