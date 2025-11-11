@@ -6,12 +6,16 @@ image:
   focal_point: 'center'
 ---
 
-<div class="warning" style='padding:0.1em; background-color:#bcd4e6'>
-<span>
-⚡ <b>Update (October 11, 2025):</b>
-The official application for the 4-year PhD position is now <b>OPEN until October 31, 2025</b>!  
-International candidates can apply — see below for full English instructions. 
-</span>
+<div class="fpi-update" style="padding:12px 16px;margin:16px 0;background:#bcd4e6;">
+  <p><strong>🗓️ Update (11 November 2025):</strong></p>
+  <p>The <strong>provisional list of admitted and excluded applications</strong> for the <strong>FPI 2025</strong> call (associated with the project <strong>TOSBI – MCIU-NO24/P36</strong>) has been published by the University of the Basque Country (UPV/EHU).</p>
+  <p><strong>Check the list here:</strong><br>
+    <a href="https://www.ehu.eus/documents/2921038/66444703/ANEXO+I_Listado+provisional+admitidos-excluidos+FPI+2025_ES.pdf/9e667177-6de4-fdae-5340-03555844d35c?t=1762796150099" target="_blank" rel="noopener noreferrer">
+      Provisional List – Admitted and Excluded Applications (FPI 2025)
+    </a>
+  </p>
+  <p>Please <strong>look for the project ID <em>MCIU-NO24/P36</em></strong> and the <strong>national ID</strong> you used during submission to verify your status.</p>
+  <p style="margin:0;"><strong>Deadline for corrections / submitting missing documents:</strong> <em>24 November 2025 (inclusive)</em>. If your application appears as <em>excluded</em> or <em>requiring correction</em>, submit the required documents before that date.</p>
 </div>
 
 
