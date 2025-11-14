@@ -1,0 +1,31 @@
+---
+title: Multi-view learning with graph convolution networks adopting diverse graphs
+  and genuine deep feature fusion
+authors:
+- Guowen Peng
+- Fadi Dornaika
+- Jinan Charafeddine
+date: '2025-01-01'
+publishDate: '2025-11-14T09:23:28.703304Z'
+publication_types:
+- article-journal
+publication: '*Artificial Intelligence Review*'
+doi: 10.1007/s10462-025-11301-y
+abstract: 'Multi-view data significantly enhances the accuracy of machine learning
+  algorithms by providing a comprehensive representation of object features. Despite
+  their potential, research on the use of Graph Convolutional Networks (GCNs) for
+  processing node connectivity and data features remains limited. Existing methods
+  mainly focus on weighted summation of graph matrices, with only a few approaches
+  effectively integrating the feature information into the graph structures. To overcome
+  these limitations, this paper proposes a novel deep learning architecture: the Feature
+  Fusion and Multi-Graph Fusion Learning Framework (MGCN-FN). The framework consists
+  of two core modules: Feature Fusion Network (FFN): Designed to extract and consolidate
+  key features from multiple views. Multi-Graph Fusion Network (MGFN): Constructs
+  multiple graphs for each view and jointly optimizes both the graph weights and the
+  GCN model. Extensive experiments on various multi-view datasets show that MGCN-FN
+  achieves superior performance compared to state-of-the-art methods, especially on
+  semi-supervised multi-view classification tasks.'
+links:
+- name: URL
+  url: https://link.springer.com/article/10.1007/s10462-025-11301-y
+---
