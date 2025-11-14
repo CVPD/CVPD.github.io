@@ -9,6 +9,8 @@ date: '2025-01-01'
 publishDate: '2025-11-14T09:23:28.692100Z'
 publication_types:
 - article-journal
+projects:
+- carla-2021
 publication: '*Neurocomputing*'
 doi: 10.1016/j.neucom.2025.131223
 abstract: In the realm of graph-based semi-supervised learning (GSSL), traditional

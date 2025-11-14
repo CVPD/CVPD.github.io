@@ -8,6 +8,8 @@ date: '2025-01-01'
 publishDate: '2025-11-14T09:23:28.718522Z'
 publication_types:
 - article-journal
+projects:
+- carla-2021
 publication: '*Artificial Intelligence Review*'
 doi: 10.1007/s10462-025-11240-8
 abstract: 'Machine learning techniques face numerous challenges to achieve optimal

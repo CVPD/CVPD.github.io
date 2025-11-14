@@ -9,6 +9,9 @@ date: '2025-01-01'
 publishDate: '2025-11-14T09:23:28.703304Z'
 publication_types:
 - article-journal
+projects:
+- carla-2021
+- giu23-022
 publication: '*Artificial Intelligence Review*'
 doi: 10.1007/s10462-025-11301-y
 abstract: 'Multi-view data significantly enhances the accuracy of machine learning

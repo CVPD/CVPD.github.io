@@ -9,6 +9,8 @@ date: '2025-01-01'
 publishDate: '2025-11-14T09:23:28.710913Z'
 publication_types:
 - article-journal
+projects:
+- carla-2021
 publication: '*Computer Vision and Image Understanding*'
 doi: 10.1016/j.cviu.2025.104542
 abstract: Age estimation from facial images is a complex and multifaceted challenge
