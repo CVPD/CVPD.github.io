@@ -53,10 +53,7 @@ social:
     link: 'https://www.researchgate.net/profile/Gaby-Maroun'
   - icon: orcid
     icon_pack: ai
-    link: 'https://orcid.org/my-orcid?orcid=0009-0006-5608-1817'
-  - icon: google-scholar
-    icon_pack: ai
-    link: 'https://scholar.google.com/citations?view_op=new_profile&hl=en'
+    link: 'https://orcid.org/0009-0006-5608-1817'
   - icon: github
     icon_pack: fab
     link: 'https://github.com/gabymaroun'
