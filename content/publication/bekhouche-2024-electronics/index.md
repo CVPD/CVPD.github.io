@@ -10,6 +10,8 @@ date: '2024-01-01'
 publishDate: '2025-07-08T13:16:32.439991Z'
 publication_types:
 - article-journal
+projects:
+- carla-2021
 publication: '*Electronics*'
 doi: 10.3390/electronics13163259
 abstract: Over the last decade, the world has witnessed many breakthroughs in artificial
