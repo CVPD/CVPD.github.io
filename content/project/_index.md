@@ -11,7 +11,7 @@ sections:
     id: research_projects
     content:
       title: Projects
-      subtitle: A list of current research projects of the group
+      subtitle: A list of current and former research projects of the group
       # text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       # Display content from the `content/project/` folder
       filters:
