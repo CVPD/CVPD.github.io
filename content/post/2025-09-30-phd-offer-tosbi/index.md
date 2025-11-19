@@ -1,6 +1,7 @@
 ---
 title: 📢 Open 4-year PhD Position in Deep Learning for Bioimage Analysis!
 date: 2025-09-30
+lastmod: 2025-11-11
 authors: ["Fadi Dornaika", "Ignacio Arganda-Carreras"]
 image:
   focal_point: 'center'
