@@ -14,6 +14,7 @@ tags:
   - Scalability
   - Domain Generalization
   - Foundation Models
+  - Biomedical Imaging
 ---
 
 The **TOSBI** project — *Towards Scalable and Generalized Solutions in Biomedical Images* — aims to create deep learning methodologies that scale to large bioimage datasets and generalize across imaging modalities, laboratories and experimental settings. The project emphasizes annotation-efficient learning and the adaptation of foundation models to biomedical imaging tasks.
