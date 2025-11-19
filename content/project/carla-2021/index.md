@@ -6,7 +6,6 @@ authors: ["Ignacio Arganda-Carreras", "Fadi Dornaika", "Nagore Barrena", "Daniel
 draft: false
 featured: true
 image:
-  #filename: "carla_visual_recognition.jpg"  # Replace with actual image file name
   focal_point: "center"
   preview_only: false
 tags:
@@ -31,6 +30,10 @@ The CARLA project focuses on the development of advanced computer vision and mac
 - The **need for large amounts of annotated data** for training state-of-the-art models.
 - The **limited generalization capacity** of these models when applied to new but related domains.
 
+<figure>
+    <img src="mind-map.png" alt="Mind map of the objectives of the CARLA project" width="500">
+  <figcaption><b>Fig. 1:</b> Mind map of the objectives of the CARLA project</figcaption>
+</figure>
 Its specific goals are:
 
 - **Develop deep learning techniques** capable of operating in low-annotation settings by leveraging data characteristics, feature representations, and task-specific regularization strategies.
@@ -44,7 +47,6 @@ Its specific goals are:
 - **Deliver tools and pipelines** that can be integrated into open-source frameworks, promoting reproducibility, usability, and transfer of methods to real-world scenarios.
 
 The project combines theoretical research with practical experimentation using both synthetic datasets and real annotated collections in the biomedical and facial imaging domains.
-
 
 ### 👥 Project Team
 
