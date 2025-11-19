@@ -21,7 +21,7 @@ image:
 
 ---
 
-The **Computer Vision and Pattern Discovery (CVPD) group** at the **University of the Basque Country (UPV/EHU)** is offering a **fully funded 4-year PhD position** within the recently awarded project **TOSBI: Towards Scalable and Generalized Solutions in Biomedical Images**, supported by the **Spanish State Agency for Research (AEI)**.  
+The **Computer Vision and Pattern Discovery (CVPD) group** at the **University of the Basque Country (UPV/EHU)** is offering a **fully funded 4-year PhD position** within the recently awarded project [**TOSBI: Towards Scalable and Generalized Solutions in Biomedical Images**](/project/tosbi-2025/), supported by the **Spanish State Agency for Research (AEI)**.  
 
 <!--more-->
 
