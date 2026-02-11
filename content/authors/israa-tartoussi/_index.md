@@ -52,7 +52,7 @@ user_groups:
   - PhD Students
 ---
 
-**Israa Tartoussi** is a PhD student at the University of the Basque Country (UPV/EHU), supervised by [Dr. Pendar Alirezazadeh](https://cvpd.github.io/author/pendar-alirezazadeh) and [Dr. Fadi Dornaika](https://cvpd.github.io/author/fadi-dornaika), and is expected to defend by the end of 2026. Her research focuses on **Deep Learning Image-Based Plant Disease Classification**, with an emphasis on lightweight architectures and spatial attention mechanisms for PlantVillage agricultural datasets under occlusion scenarios.
+**Israa Tartoussi** is a PhD student at the University of the Basque Country (UPV/EHU), supervised by [Dr. Pendar Alirezazadeh](https://cvpd.github.io/author/pendar-alirezazadeh) and [Dr. Fadi Dornaika](https://cvpd.github.io/author/fadi-dornaika), and is expected to defend by the end of 2027. Her research focuses on **Deep Learning Image-Based Plant Disease Classification**, with an emphasis on lightweight architectures and spatial attention mechanisms for PlantVillage agricultural datasets under occlusion scenarios.
 
 She holds a Master 2 in Computer Science and a Bachelor's degree in Information Technology from the Lebanese University. In addition to her research, Israa is an experienced programming instructor in Python, Java, PHP, mobile/web development, and database systems. She has taught at Jinan University and conducted training in Python and Django.
 
