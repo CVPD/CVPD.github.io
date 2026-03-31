@@ -10,7 +10,7 @@ last_name: Lekunberri
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Former PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -58,14 +58,14 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - PhD Students
+  - Alumni
 ---
 
-**Xabier Lekunberri** is a PhD student at the University of the Basque Country (UPV/EHU), affiliated with AZTI. He is currently pursuing a PhD under the supervision of [Dr. Ignacio Arganda-Carreras](https://cvpd.github.io/author/ignacio-arganda-carreras/) and [Dr. Jose A. Fernandes-Salvador](https://www.researchgate.net/profile/Jose-Fernandes-35), with a focus on computer vision methods to improve fisheries management. He earned an MSc in Computational Engineering and Intelligent Systems (2019) and a BSc in Computer Science (2018), both from the University of the Basque Country. He expects to defend his thesis by the end of 2025.
+**Xabier Lekunberri** successfully defended his PhD at the University of the Basque Country (UPV/EHU) on February 27, 2026. His thesis, titled "Computer Vision for Sustainable Fisheries Management," was supervised by [Dr. Ignacio Arganda-Carreras](https://cvpd.github.io/author/ignacio-arganda-carreras/) (UPV/EHU) and [Dr. Jose A. Fernandes-Salvador](https://www.researchgate.net/profile/Jose-Fernandes-35) (AZTI). His research focused on computer vision methods to improve fisheries management. He earned an MSc in Computational Engineering and Intelligent Systems (2019) and a BSc in Computer Science (2018), both from the University of the Basque Country.
 
 <video class="img-fluid rounded shadow" controls>
   <source src="/assets/media/13_proa_muestra_left_processed.mp4" type="video/mp4">
 </video>
 
-Within the broader context of fisheries management, Xabier’s thesis has focused on the tropical tuna purse seine fishery and the detection of aquaculture compounds in Europe. The tuna purse seine fishery is distinguished by its high volume of fish captured in a relatively brief period. Xabier has developed a pipeline capable of automatically quantifying a vessel's catch based on video recorded by cameras on the boats. He has also developed a pipeline for the automatic detection of aquaculture zones in European waters based on satellite Synthetic Aperture Radar (SAR) images. Both industries are essential in the production of food for human consumption, and Xabier's thesis contributes to our understanding of their environmental impact. This understanding can serve as a foundation for developing mitigation strategies that do not adversely impact the individuals who depend on these industries for their livelihoods.
+Within the broader context of fisheries management, Xabier’s thesis focused on the tropical tuna purse seine fishery and the detection of aquaculture compounds in Europe. The tuna purse seine fishery is distinguished by its high volume of fish captured in a relatively brief period. Xabier has developed a pipeline capable of automatically quantifying a vessel's catch based on video recorded by cameras on the boats. He has also developed a pipeline for the automatic detection of aquaculture zones in European waters based on satellite Synthetic Aperture Radar (SAR) images. Both industries are essential in the production of food for human consumption, and Xabier's thesis contributes to our understanding of their environmental impact. This understanding can serve as a foundation for developing mitigation strategies that do not adversely impact the individuals who depend on these industries for their livelihoods.
 
