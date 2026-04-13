@@ -10,6 +10,8 @@ date: '2026-01-01'
 publishDate: '2026-04-13T10:35:42.274997Z'
 publication_types:
 - article-journal
+projects:
+  - tosbi-2025
 publication: '*Knowledge-Based Systems*'
 doi: https://doi.org/10.1016/j.knosys.2026.115586
 abstract: 'Multi-view semi-supervised classification (Mv-SSC) aims to leverage complementary
