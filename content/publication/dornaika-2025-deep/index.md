@@ -1,0 +1,40 @@
+---
+title: 'Deep feature disentanglement for supervised contrastive learning: Application
+  to image classification'
+authors:
+- Fadi Dornaika
+- Bin Wang
+- Jinan Charafeddine
+date: '2025-01-01'
+publishDate: '2026-04-14T13:10:00.966307Z'
+publication_types:
+- article-journal
+publication: '*Cognitive Computation*'
+doi: 10.1007/s12559-025-10430-4
+abstract: 'In machine learning, deep metric learning from original data is essential,
+  with supervised contrastive learning being a notable approach. This method aims
+  to form a deep feature space where similar samples from the same class are clustered
+  together, while dissimilar samples from different classes are separated. However,
+  a common limitation of contrastive learning methods is that they utilize the entire
+  feature space for data embedding and often neglect the within-class variability.
+  To overcome this limitation, we propose a novel supervised contrastive learning
+  method that decomposes deep features into two distinct components: common features,
+  which encapsulate the essential, class-defining characteristics, and style features,
+  which capture the within-class variability and nuanced differences. Additionally,
+  we enhance this approach by introducing an overlapping field that synergistically
+  integrates elements from both feature spaces, enabling a more comprehensive and
+  robust feature representation. Our experiments with different image datasets and
+  deep encoders, including CNNs and transformers, show that our approach outperforms
+  traditional single-feature contrastive methods. On the CIFAR100 and PASCAL VOC databases,
+  traditional supervised contrastive learning achieved accuracy rates of 75.5% and
+  51.41%, respectively, while our method improved them to 77.81% and 59.38%, respectively.
+  We present an algorithm for deep contrastive learning that utilizes two feature
+  spaces: one for encoding common class features and another for capturing within-class
+  variability. This is achieved by partitioning the features of the last layer of
+  the encoder into (i) a common field and (ii) a style field. Our loss function contrasts
+  the common features while summarizing the style features within the same class so
+  that the style field can capture the intra-class variability.'
+links:
+- name: URL
+  url: https://link.springer.com/article/10.1007/s12559-025-10430-4
+---
