@@ -1,5 +1,5 @@
 ---
-title: TOSBI Project Officially Funded by the Spanish Ministry of Science, Innovation and Universities
+title: TOSBI project officially funded by the Spanish Ministry of Science, Innovation and Universities
 date: 2025-11-05
 summary: The Ministry of Science confirms full funding for the TOSBI project, led by the CVPD group.
 tags:

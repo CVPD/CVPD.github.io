@@ -1,5 +1,5 @@
 ---
-title: Two CVPD Members Featured in Stanford’s List of Most Influential Researchers
+title: Two CVPD members featured in Stanford’s list of most influential researchers
 date: 2022-11-10
 authors: ["Unai Elordi"]
 ---

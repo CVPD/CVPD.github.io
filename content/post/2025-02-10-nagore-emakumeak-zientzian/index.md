@@ -1,5 +1,5 @@
 ---
-title: Nagore Barrena Participates in "Women in Science 2025" with a Tribute to Fei-Fei Li
+title: Nagore Barrena participates in "Women in Science 2025" with a tribute to Fei-Fei Li
 date: 2025-02-10
 authors: ["Nagore Barrena"]
 image:

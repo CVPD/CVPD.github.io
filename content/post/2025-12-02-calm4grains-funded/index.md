@@ -1,5 +1,5 @@
 ---
-title: CALM4GRAINS Subproject Officially Funded under the GRAINS Coordinated Project
+title: CALM4GRAINS subproject officially funded under the GRAINS coordinated project
 date: 2025-12-02
 authors: ["Ignacio Arganda-Carreras", "Fadi Dornaika", "Nagore Barrena", "Urtzi Ayesta"]
 summary: The Spanish Ministry of Science confirms funding for the CALM4GRAINS subproject, led by the CVPD group at UPV/EHU as part of GRAINS.

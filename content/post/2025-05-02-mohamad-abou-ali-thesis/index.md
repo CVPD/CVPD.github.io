@@ -1,5 +1,5 @@
 ---
-title: Mohamad Abou Ali Defends His PhD on Smarter, More Robust AI for Medical Imaging 🧠🤖
+title: Mohamad Abou Ali defends his PhD on smarter, more robust AI for Medical Imaging 🧠🤖
 date: 2025-05-02
 authors: ["Mohamad Abou Ali", "Fadi Dornaika", "Ignacio Arganda-Carreras"]
 image:
