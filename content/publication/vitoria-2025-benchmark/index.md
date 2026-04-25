@@ -1,0 +1,36 @@
+---
+title: A Benchmark of Foundation Model Encoders for Histopathological Image Segmentation
+authors:
+- Itsaso Vitoria
+- Cristina López
+- Cristina Penas
+- Rosa Izu
+- Ana Sánchez-Dı́ez
+- Goikoana Cancho-Galán
+- Maria Dolores Boyano
+- Ignacio Arganda-Carreras
+- Adrian Galdran
+date: '2025-01-01'
+publishDate: '2026-04-25T15:13:19.264797Z'
+publication_types:
+- paper-conference
+publication: '*MICCAI Workshop on Computational Pathology with Multimodal Data (COMPAYL)*'
+abstract: 'Whole-slide imaging has transformed histopathology into a data-intensive
+  field, requiring robust and generalisable computational tools. Foundation models
+  offer a promising approach for a range of downstream tasks with minimal labelled
+  data. While recent work has shown their effectiveness for slide-level classification
+  and retrieval, their potential for dense prediction tasks such as image segmentation
+  remains underexplored. In this study, we present a comprehensive benchmark of 15
+  pathology-specific foundation models for histopathological image segmentation, evaluated
+  across two distinct modalities: H&E-stained histology and Annexin A5-stained immunohistochemistry.
+  To ensure a fair and architecture-neutral comparison, we freeze each foundation
+  models encoder and pair it with a shared lightweight decoder, disentangling representation
+  quality from model size. Results show that foundation model encoders can sometimes
+  lead to strong segmentation performance without fine-tuning, but effectiveness varies
+  significantly by model and modality. Our findings reveal that compact encoders can
+  often outperform larger, more recent models, underscoring that model size and classification
+  accuracy are poor predictors of segmentation capabilities.'
+links:
+- name: URL
+  url: https://openreview.net/forum?id=VwGnY3YuMP
+---
