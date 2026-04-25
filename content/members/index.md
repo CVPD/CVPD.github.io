@@ -18,6 +18,7 @@ sections:
           - Postdocs
           - PhD Students
           - Grad Students
+          - Master Students
           - Administration
           - Visitors
           - Alumni
