@@ -82,9 +82,9 @@ Since 2015, he has supervised over **25 Master's theses and four PhD dissertatio
 
 - **[Lenka Backová](https://cvpd.github.io/author/lenka-backova/)** (PhD, full-time): *Deep Learning-Based Image Analysis and Cell Behavior Prediction of Multicellular Biological Systems* (defense expected in spring 2026).
 - **[Aitor González-Marfil](https://cvpd.github.io/author/aitor-gonzalez-marfil)** (PhD, full-time): *Deep Self-Supervised Learning Methods for Biomedical Image Analysis* (defense expected in 2026).
-- **[Francisco Javier Iriarte](https://cvpd.github.io/author/francisco-javier-iriarte/)** (PhD, part-time, industrial): *A Microservice-Based Approach for Efficient and Explainable AI Sensing on Multi-Sensor Robots* (defense expected in 2027).
-- **Gloria Vázquez Sebrango** (PhD, full-time, industrial): *AI for Atraumatic Reversibility of Implant Treatments* (defense expected in 2026).
-- **[Aitor Iglesias](https://cvpd.github.io/author/aitor-iglesias/)** (PhD, part-time, industrial): *LiDAR-based perception for reliable Automated Driving functions* (defense expected in 2028).
+- **[Francisco Javier Iriarte](https://cvpd.github.io/author/francisco-javier-iriarte/)** (PhD, part-time): *A Microservice-Based Approach for Efficient and Explainable AI Sensing on Multi-Sensor Robots* (defense expected in 2027).
+- **Gloria Vázquez Sebrango** (PhD, full-time): *AI for Atraumatic Reversibility of Implant Treatments* (defense expected in 2026).
+- **[Aitor Iglesias](https://cvpd.github.io/author/aitor-iglesias/)** (PhD, part-time): *LiDAR-based perception for reliable Automated Driving functions* (defense expected in 2028).
 
 A **corresponding member of [Jakiunde, the Basque Academy of Sciences, Arts and Letters](https://www.jakiunde.eus/en/)** from 2016 to 2026, Dr. Arganda-Carreras is also active in science communication, participating in local outreach programs on radio and television (*Lau Haizetara*[^1], *La Mecánica del Caracol*[^2]<sup>,</sup>[^3], *Faktoria*[^4], *Norteko Ferrokarrilla*[^5], and *Teknopolis*[^6]).
 
