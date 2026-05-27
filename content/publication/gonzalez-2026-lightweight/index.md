@@ -10,6 +10,10 @@ date: '2026-01-01'
 publishDate: '2026-05-27T09:44:26.379827Z'
 publication_types:
 - paper-conference
+projects:
+- tosbi-2025
+- giu23-022
+- calm4grains-2025
 publication: '*2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)*'
 doi: 10.1109/ISBI61048.2026.11515551
 abstract: While foundation models such as DINOv2 offer remarkable generalization for
