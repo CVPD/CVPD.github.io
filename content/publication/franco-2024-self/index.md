@@ -5,7 +5,7 @@ authors:
 - Daniel Franco-Barranco
 - Aitor González-Marfil
 - Ignacio Arganda-Carreras
-date: '2024-01-01'
+date: '2024-05-27'
 publishDate: '2025-05-30T15:30:23.949883Z'
 projects:
 - carla-2021
