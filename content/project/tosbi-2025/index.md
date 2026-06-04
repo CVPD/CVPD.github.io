@@ -2,7 +2,7 @@
 title: "TOSBI – Towards Scalable and Generalized Solutions in Biomedical Images (2025–2028)"
 summary: TOSBI develops scalable and generalizable deep learning methods for biomedical image analysis, with a focus on limited annotation, computational efficiency and robust transferability.
 date: 2025-09-01
-authors: ["Ignacio Arganda-Carreras", "Fadi Dornaika", "Nagore Barrena", "Unai Elordi", "Aitor González-Marfil", "Daniel Franco-Barranco"]
+authors: ["Ignacio Arganda-Carreras", "Fadi Dornaika", "Nagore Barrena", "Unai Elordi", "Aitor González-Marfil", "Daniel Franco-Barranco", "Fatemeh Keneshlou"]
 draft: false
 featured: true
 image:
