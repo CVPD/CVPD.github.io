@@ -1,11 +1,10 @@
-@inproceedings{gonzalez2026lightweight,
-  title={Lightweight Zero-Shot Segmentation of Mitochondria in Electron Microscopy Images},
-  author={Aitor Gonz{\'a}lez-Marfil and Mirja Granfors and Giovanni Volpe and Estibaliz G{\'o}mez-de-Mariscal and Ignacio Arganda-Carreras},
-  booktitle={2026 IEEE 23rd International Symposium on Biomedical Imaging (ISBI)},
-  pages={1--4},
+@inproceedings{moraza2026geometry,
+  title={Geometry-Based Differentiable Camera Placement for Optimal 3D Coverage.},
+  author={Ane Moraza and Xiao Lin and Daniel Mejia-Parra and Nagore Barrena},
+  booktitle={VISAPP (3)},
+  pages={473--483},
   year={2026},
-  organization={IEEE},
-  url={https://ieeexplore.ieee.org/abstract/document/11515551/},
-  doi={10.1109/ISBI61048.2026.11515551},
-  abstract={While foundation models such as DINOv2 offer remarkable generalization for zero-shot image segmentation, they are computationally demanding and often produce coarse, noisy embeddings. Here, we introduce a lightweight approach for zero-shot segmentation of mitochondria in electron microscopy (EM) images by distilling DINOv2 features into a compact convolutional network specialized for the target dataset. The distilled model reduces the number of parameters by over 99.4% and achieves a 27x faster inference than DINOv2, while preserving the semantic richness in the embeddings. When integrated into the DINOSim framework, the distilled features yield smoother embeddings and substantially improve segmentation accuracy on two popular public EM datasets. This strategy enables efficient and accurate zero-shot segmentation in microscopy, and paves the way for future exploration of high-resolution intermediate features for fine-grained structure analysis.}
+  doi={10.5220/0014335800004084},
+  url={https://www.scitepress.org/Papers/2026/143358/143358.pdf},
+  abstract={Optimal camera placement is fundamental for inspection and 3D reconstruction tasks. We address this traditionally discrete problem by reformulating it into a continuous optimization task using Differentiable Rendering (DR), a technique that enables gradient computation from 3D camera poses to a final loss value. Assuming a known scene, our pipeline treats camera poses as learnable parameters. We implement a novel differentiable visibility formulation that compares observed depths from the rendered scene, with the expected depth of the mesh vertices. Based on this, we define a geometry-based loss function using two specific coverage criteria: ”At-Least-Once” (ALO) and ”Exactly-Once” (EO), which find optimal placement configurations. Experiments conducted on diverse 3D objects and camera configurations demonstrate that our approach outperforms the SOTA baseline Neural Observation Field Guided Hybrid Optimization of Camera Placement (NeOF). Our methods yield superior quality, as demonstrated by our quantitative evaluation, and achieve lower computation times. Furthermore, the quality and efficiency of the generated poses show strong potential for future integration into trajectory planning systems.}
 }
