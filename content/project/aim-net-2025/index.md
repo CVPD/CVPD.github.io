@@ -46,6 +46,7 @@ The **Computer Vision and Pattern Discovery (CVPD)** group at **UPV/EHU** partic
 - **Funding body**: Ministerio de Ciencia, Innovacion y Universidades (MICIU) / Agencia Estatal de Investigacion (AEI)
 - **Grant reference**: **RED2024-153844-T**
 - **Funding label**: **MICIU/AEI/10.13039/501100011033**
+- **Total project funding**: 43,000 €
 
 <img src="/assets/media/MICIU_Cofinanciado_AEI_logo.jpg" alt="Spanish State Agency for Research (AEI) Logo" width="500">
 
