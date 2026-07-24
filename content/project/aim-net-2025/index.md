@@ -36,7 +36,7 @@ The **Computer Vision and Pattern Discovery (CVPD)** group at **UPV/EHU** partic
 ### 🕒 Timeline
 
 - **Network start date**: 1 September 2025
-- **Network end date**: 31 August 2027
+- **Network end date**: 31 August 2026
 
 ---
 
