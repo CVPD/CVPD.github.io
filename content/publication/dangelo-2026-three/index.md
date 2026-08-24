@@ -1,6 +1,6 @@
 ---
 title: Three-dimensional mapping of intact ovaries reveals the aging dynamics of the
-  ovarian reserve.
+  ovarian reserve
 authors:
 - Arturo D'Angelo
 - Daniel Franco-Barranco
@@ -14,6 +14,10 @@ date: '2026-01-01'
 publishDate: '2026-08-24T07:45:25.359518Z'
 publication_types:
 - article-journal
+projects:
+- tosbi-2025
+- aim-net-2025
+- calm4grains-2025
 publication: '*Nature Aging*'
 doi: 10.1038/s43587-026-01178-z
 abstract: Female fertility depends on a finite pool of oocytes that depletes during

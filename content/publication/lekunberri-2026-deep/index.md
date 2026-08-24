@@ -1,6 +1,6 @@
 ---
 title: Deep learning for accurate vision-based catch composition in tropical tuna
-  purse seiners.
+  purse seiners
 authors:
 - Xabier Lekunberri
 - Ahmad Kamal
@@ -14,6 +14,9 @@ date: '2026-01-01'
 publishDate: '2026-08-24T07:45:25.348071Z'
 publication_types:
 - article-journal
+projects:
+- carla-2021
+- giu23-022
 publication: '*ICES Journal of Marine Science*'
 doi: 10.1093/icesjms/fsag151
 abstract: "Purse seiners play a crucial role in tuna fishing, as approximately 69%
