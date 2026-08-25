@@ -1,5 +1,5 @@
 ---
-title: Geometry-Based Differentiable Camera Placement for Optimal 3D Coverage.
+title: Geometry-Based Differentiable Camera Placement for Optimal 3D Coverage
 authors:
 - Ane Moraza
 - Xiao Lin
