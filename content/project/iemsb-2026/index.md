@@ -63,7 +63,6 @@ The programme works in close coordination with the Basque imaging platforms **BR
 - Dr. [**Fadi Dornaika**](/author/fadi-dornaika/) (Ikerbasque Research Professor, UPV/EHU)
 - Dr. [**Nagore Barrena**](/author/nagore-barrena/) (Assistant Professor, UPV/EHU)  
 - Dr. [**Unai Elordi**](/author/unai-elordi) (Assistant Professor, UPV/EHU)
-- [**Aitor González-Marfil**](/author/aitor-gonzalez-marfil/) (PhD student, UPV/EHU; DIPC)
 
 The wider IEMSB group comprises 22 members, including 21 doctors and one predoctoral researcher, with expertise spanning physical chemistry, biochemistry, molecular biology, computer science and artificial intelligence.
 
