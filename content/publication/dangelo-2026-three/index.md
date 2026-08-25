@@ -10,7 +10,7 @@ authors:
 - Nicholas Stroustrup
 - Ignacio Arganda-Carreras
 - Elvan Böke
-date: '2026-01-01'
+date: '2026-08-12'
 publishDate: '2026-08-24T07:45:25.359518Z'
 publication_types:
 - article-journal
@@ -21,7 +21,7 @@ projects:
 publication: '*Nature Aging*'
 doi: 10.1038/s43587-026-01178-z
 abstract: Female fertility depends on a finite pool of oocytes that depletes during
-  aging1,2, yet the spatiotemporal dynamics of this depletion remain poorly understood.
+  aging, yet the spatiotemporal dynamics of this depletion remain poorly understood.
   Traditional methods obscure the three-dimensional architecture of the ovary, limiting
   quantitative insights. Here we combine light-sheet microscopy, artificial intelligence-driven
   segmentation and mathematical modeling to map over 85,000 oocytes in whole ovaries
