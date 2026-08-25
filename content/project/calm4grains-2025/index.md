@@ -80,7 +80,7 @@ CALM4GRAINS is **Subproject 2 (SP2)** within the coordinated project:
 - **Funding body**: State Research Agency (AEI), Spanish Ministry of Science, Innovation and Universities (MICIU)
 - **External reference code**: **AIA2025-164165-C42**
 - **Official subproject title**: **Cross-domain Adaptation and Learning for Microscopy**
-- **Total funding granted**: **328,500.00 EUR**
+- **Total funding granted**: **328,500.00 €**
 
 <img src="/assets/media/MICIU_Cofinanciado_AEI_logo.jpg" alt="Spanish State Agency for Research (AEI) Logo" width="500">
 
