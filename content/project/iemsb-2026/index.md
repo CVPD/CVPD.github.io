@@ -55,15 +55,15 @@ The programme works in close coordination with the Basque imaging platforms **BR
 
 #### Principal Investigators
 
-- Dr. **Virginia Martinez-Martinez** (Permanent Doctor Researcher, UPV/EHU)
-- Dr. **Ignacio Arganda-Carreras** (Ikerbasque Research Associate Professor, UPV/EHU; DIPC; Biofisika Institute)
+- Dr. [**Virginia Martinez-Martinez**](https://scholar.google.com/citations?hl=en&user=mnJjwCsAAAAJ) (Permanent Doctor Researcher, UPV/EHU)
+- Dr. [**Ignacio Arganda-Carreras**](/author/ignacio-arganda-carreras/) (Ikerbasque Research Associate Professor, UPV/EHU; DIPC; Biofisika Institute)
 
 #### CVPD Team
 
-- Dr. **Fadi Dornaika** (Ikerbasque Research Professor, UPV/EHU)
-- Dr. **Nagore Barrena** (Assistant Professor, UPV/EHU)  
-- Dr. **Unai Elordi** (Assistant Professor, UPV/EHU)
-- **Aitor González-Marfil** (PhD student, UPV/EHU; DIPC)
+- Dr. [**Fadi Dornaika**](/author/fadi-dornaika/) (Ikerbasque Research Professor, UPV/EHU)
+- Dr. [**Nagore Barrena**](/author/nagore-barrena/) (Assistant Professor, UPV/EHU)  
+- Dr. [**Unai Elordi**](/author/unai-elordi) (Assistant Professor, UPV/EHU)
+- [**Aitor González-Marfil**](/author/aitor-gonzalez-marfil/) (PhD student, UPV/EHU; DIPC)
 
 The wider IEMSB group comprises 22 members, including 21 doctors and one predoctoral researcher, with expertise spanning physical chemistry, biochemistry, molecular biology, computer science and artificial intelligence.
 
