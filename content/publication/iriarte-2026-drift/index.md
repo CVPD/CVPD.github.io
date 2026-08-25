@@ -8,7 +8,7 @@ authors:
 - Andrés Chica Linares
 - Luis Unzueta
 - Ignacio Arganda-Carreras
-date: '2026-01-01'
+date: '2026-01-02'
 publishDate: '2026-04-13T10:35:42.233807Z'
 publication_types:
 - article-journal

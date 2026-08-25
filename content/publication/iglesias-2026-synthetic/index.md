@@ -5,7 +5,7 @@ authors:
 - Nerea Aranjuelo
 - Ignacio Arganda-Carreras
 - Marcos Nieto
-date: '2026-01-01'
+date: '2026-02-03'
 publishDate: '2026-04-13T10:35:42.222429Z'
 publication_types:
 - article-journal

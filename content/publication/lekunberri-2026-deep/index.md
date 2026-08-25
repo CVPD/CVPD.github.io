@@ -10,7 +10,7 @@ authors:
 - Jaime Valls Miro
 - Ignacio Arganda-Carreras
 - Jose A Fernandes-Salvador
-date: '2026-01-01'
+date: '2026-08-05'
 publishDate: '2026-08-24T07:45:25.348071Z'
 publication_types:
 - article-journal
