@@ -13,6 +13,7 @@ publication_types:
 projects:
   - tosbi-2025
   - calm4grains-2025
+  - iemsb-2026
 publication: '*Knowledge-Based Systems*'
 doi: https://doi.org/10.1016/j.knosys.2026.115586
 abstract: 'Multi-view semi-supervised classification (Mv-SSC) aims to leverage complementary
@@ -44,5 +45,5 @@ tags:
 - Graph construction
 links:
 - name: URL
-  url: https://www.sciencedirect.com/science/article/pii/S0950705126003266
+  url: https://doi.org/10.1016/j.knosys.2026.115586
 ---
