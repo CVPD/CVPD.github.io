@@ -5,7 +5,7 @@ authors:
 - Fadi Dornaika
 - Alireza Bosaghzadeh
 - Nagore Barrena
-date: '2024-01-01'
+date: '2024-08-14'
 publishDate: '2025-06-10T13:46:55.330926Z'
 projects:
 - carla-2021

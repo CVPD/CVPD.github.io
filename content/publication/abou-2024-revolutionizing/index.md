@@ -7,7 +7,7 @@ authors:
 - Ignacio Arganda-Carreras
 - Hussein Ali
 - Malak Karaouni
-date: '2024-01-01'
+date: '2024-12-24'
 publishDate: '2025-05-30T15:30:23.987581Z'
 publication_types:
 - paper-conference

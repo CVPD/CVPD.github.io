@@ -11,7 +11,7 @@ authors:
 - Carmen Castillo
 - Elisa Garrido
 - Michael Unser
-date: '2008-01-01'
+date: '2007-12-19'
 publishDate: '2025-03-05T11:10:32.995958Z'
 publication_types:
 - article-journal

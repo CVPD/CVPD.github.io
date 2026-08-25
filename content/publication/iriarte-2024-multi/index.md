@@ -8,7 +8,7 @@ authors:
 - Javier Martı́nez
 - Javier Zaldivar
 - Ignacio Arganda-Carreras
-date: '2024-01-01'
+date: '2024-08-29'
 publishDate: '2025-05-30T15:30:23.964492Z'
 projects:
 - carla-2021

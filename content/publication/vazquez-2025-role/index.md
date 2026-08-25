@@ -5,7 +5,7 @@ authors:
 - Eduardo Anitua
 - Iván Macı́a
 - Ignacio Arganda-Carreras
-date: '2025-01-01'
+date: '2025-05-27'
 publishDate: '2025-05-30T15:30:24.031074Z'
 publication_types:
 - article-journal

@@ -7,7 +7,7 @@ authors:
 - Ignacio Arganda-Carreras
 - María C Hernandez
 - Yassine Ruichek
-date: '2019-01-01'
+date: '2019-01-19'
 publishDate: '2025-03-05T11:10:32.850262Z'
 publication_types:
 - paper-conference

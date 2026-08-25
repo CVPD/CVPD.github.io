@@ -9,7 +9,7 @@ authors:
 - Nerea Aranjuelo
 - Álvaro Bertelsen
 - Ignacio Arganda-Carreras
-date: '2021-01-01'
+date: '2021-12-20'
 publishDate: '2025-02-05T09:06:52.065695Z'
 publication_types:
 - article-journal

@@ -9,7 +9,7 @@ authors:
 - Ignacio Arganda-Carreras
 - Dominique Collard
 - Arnaud Scherpereel
-date: '2021-01-01'
+date: '2021-06-08'
 publishDate: '2025-03-05T11:10:32.750871Z'
 publication_types:
 - article-journal

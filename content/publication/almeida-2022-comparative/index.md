@@ -10,7 +10,7 @@ authors:
 - Mikel Emaldi
 - Fadi Dornaika
 - Ignacio Arganda-Carreras
-date: '2022-01-01'
+date: '2022-01-18'
 publishDate: '2025-03-05T11:10:32.716193Z'
 publication_types:
 - article-journal

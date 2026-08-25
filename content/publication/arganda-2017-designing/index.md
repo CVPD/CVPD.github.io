@@ -3,7 +3,7 @@ title: 'Designing Image Analysis Pipelines in Light Microscopy: A Rational Appro
 authors:
 - Ignacio Arganda-Carreras
 - Philippe Andrey
-date: '2017-01-01'
+date: '2017-03-22'
 publishDate: '2025-03-05T11:10:32.887775Z'
 publication_types:
 - book

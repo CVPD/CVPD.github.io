@@ -6,7 +6,7 @@ authors:
 - Luis Unzueta
 - Ignacio Arganda-Carreras
 - Oihana Otaegui
-date: '2018-01-01'
+date: '2018-06-17'
 publishDate: '2025-02-05T09:06:52.114470Z'
 publication_types:
 - paper-conference

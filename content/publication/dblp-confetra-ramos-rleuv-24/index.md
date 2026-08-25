@@ -8,7 +8,7 @@ authors:
 - Unai Elordi
 - Luis Unzueta
 - Arantxa Villanueva
-date: '2024-01-01'
+date: '2024-06-04'
 publishDate: '2025-02-05T09:06:52.034871Z'
 publication_types:
 - paper-conference

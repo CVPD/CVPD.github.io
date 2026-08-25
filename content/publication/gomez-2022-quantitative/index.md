@@ -19,7 +19,7 @@ authors:
 - Alberto Márquez
 - Javier Buceta
 - Luis M Escudero
-date: '2022-01-01'
+date: '2022-07-13'
 publishDate: '2025-03-05T11:10:32.692995Z'
 publication_types:
 - article-journal

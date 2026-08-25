@@ -25,7 +25,7 @@ authors:
 - Albert Cardona
 - Johannes Schindelin
 - H. Sebastian Seung
-date: '2015-01-01'
+date: '2015-11-05'
 publishDate: '2025-03-05T11:10:32.912852Z'
 publication_types:
 - article-journal

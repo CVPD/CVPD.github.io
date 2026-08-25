@@ -4,7 +4,7 @@ title: Single phase multi-view clustering using unified graph learning and spect
 authors:
 - Fadi Dornaika
 - Sally El Hajjar
-date: '2023-01-01'
+date: '2023-06-30'
 publishDate: '2025-06-04T11:13:08.966826Z'
 publication_types:
 - article-journal

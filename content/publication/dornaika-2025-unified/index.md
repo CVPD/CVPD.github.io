@@ -6,7 +6,7 @@ authors:
 - Sally El Hajjar
 - Jinan Charafeddine
 - Nagore Barrena
-date: '2025-01-01'
+date: '2024-12-30'
 publishDate: '2025-06-04T11:13:09.011439Z'
 publication_types:
 - article-journal

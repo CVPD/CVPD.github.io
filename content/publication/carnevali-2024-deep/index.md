@@ -14,7 +14,7 @@ authors:
 - Alvaro Castells-Garcia
 - Ignacio Arganda-Carreras
 - Maria Pia Cosma
-date: '2024-01-01'
+date: '2024-08-27'
 publishDate: '2025-05-30T15:30:23.957062Z'
 projects:
 - carla-2021

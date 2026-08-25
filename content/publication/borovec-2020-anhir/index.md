@@ -30,7 +30,7 @@ authors:
 - Paul Yushkevich
 - Shengyu Zhao
 - Arrate Muñoz-Barrutia
-date: '2020-01-01'
+date: '2020-04-07'
 publishDate: '2025-03-05T11:10:32.781645Z'
 publication_types:
 - article-journal

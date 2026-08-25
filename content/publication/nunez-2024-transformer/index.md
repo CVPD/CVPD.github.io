@@ -3,7 +3,7 @@ title: Transformer-based fall detection in videos
 authors:
 - Adrián Núñez-Marcos
 - Ignacio Arganda-Carreras
-date: '2024-01-01'
+date: '2024-01-22'
 publishDate: '2025-05-30T15:30:23.936027Z'
 projects:
 - carla-2021

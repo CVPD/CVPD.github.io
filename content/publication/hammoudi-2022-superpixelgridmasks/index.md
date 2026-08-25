@@ -8,7 +8,7 @@ authors:
 - Halim Benhabiles
 - Fadi Dornaika
 - Mahmoud Melkemi
-date: '2022-01-01'
+date: '2022-12-01'
 publishDate: '2025-06-05T09:02:01.021211Z'
 publication_types:
 - article-journal

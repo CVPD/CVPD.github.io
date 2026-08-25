@@ -5,7 +5,7 @@ authors:
 - David Legland
 - Ignacio Arganda-Carreras
 - Philippe Andrey
-date: '2016-01-01'
+date: '2016-07-13'
 publishDate: '2025-03-05T11:10:32.905929Z'
 publication_types:
 - article-journal

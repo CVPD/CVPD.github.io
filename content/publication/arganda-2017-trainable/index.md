@@ -9,7 +9,7 @@ authors:
 - Johannes Schindelin
 - Albert Cardona
 - H Sebastian Seung
-date: '2017-01-01'
+date: '2017-03-30'
 publishDate: '2025-03-05T11:10:32.875373Z'
 publication_types:
 - article-journal

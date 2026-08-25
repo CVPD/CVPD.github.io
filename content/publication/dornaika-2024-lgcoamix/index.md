@@ -4,7 +4,7 @@ title: 'LGCOAMix: Local and Global Context-and-Object-Part-Aware Superpixel-Base
 authors:
 - Fadi Dornaika
 - Danyang Sun
-date: '2024-01-01'
+date: '2023-12-07'
 publishDate: '2025-06-17T08:17:01.583660Z'
 projects:
 - carla-2021

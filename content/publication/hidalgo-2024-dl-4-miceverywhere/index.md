@@ -12,7 +12,7 @@ authors:
 - Guillaume Jacquemet
 - Ricardo Henriques
 - Estibaliz Gómez-de-Mariscal
-date: '2024-01-01'
+date: '2024-05-17'
 publishDate: '2025-05-30T15:30:23.898167Z'
 projects:
 - carla-2021

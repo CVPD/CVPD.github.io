@@ -11,7 +11,7 @@ authors:
 - Mikel Arlegi
 - Joseba Rios-Garaizar
 - Aida Gómez-Robles
-date: '2023-01-01'
+date: '2022-10-28'
 publishDate: '2025-05-30T15:30:23.845017Z'
 publication_types:
 - article-journal

@@ -4,7 +4,7 @@ title: Direct multi-view spectral clustering with consistent kernelized graph an
 authors:
 - Fadi Dornaika
 - Sally El Hajjar
-date: '2023-01-01'
+date: '2023-03-06'
 publishDate: '2025-06-04T11:13:08.974919Z'
 projects:
   - carla-2021

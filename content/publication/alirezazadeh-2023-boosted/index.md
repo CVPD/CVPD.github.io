@@ -4,7 +4,7 @@ title: Boosted Additive Angular Margin Loss for breast cancer diagnosis from his
 authors:
 - Pendar Alirezazadeh
 - Fadi Dornaika
-date: '2023-01-01'
+date: '2023-09-22'
 publishDate: '2025-06-13T10:28:35.690880Z'
 publication_types:
 - article-journal

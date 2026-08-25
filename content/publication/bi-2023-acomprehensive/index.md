@@ -4,7 +4,7 @@ title: A Comprehensive Deep Semi-supervised Graph Learning Approach Incorporatin
 authors:
 - Jingjun Bi
 - Fadi Dornaika
-date: '2023-01-01'
+date: '2023-11-18'
 publishDate: '2025-06-18T11:12:18.113869Z'
 publication_types:
 - paper-conference

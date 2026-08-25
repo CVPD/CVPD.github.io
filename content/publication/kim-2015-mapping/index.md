@@ -14,7 +14,7 @@ authors:
 - Kathleen S Rockland
 - H Sebastian Seung
 - Pavel Osten
-date: '2015-01-01'
+date: '2014-12-31'
 publishDate: '2025-03-05T11:10:32.927578Z'
 publication_types:
 - article-journal

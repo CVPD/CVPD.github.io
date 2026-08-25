@@ -8,7 +8,7 @@ authors:
 - Sara García
 - Unai Elordi
 - Oihana Otaegui
-date: '2023-01-01'
+date: '2022-11-02'
 publishDate: '2025-02-05T09:06:52.058716Z'
 publication_types:
 - article-journal

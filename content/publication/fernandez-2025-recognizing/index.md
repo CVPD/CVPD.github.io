@@ -6,7 +6,7 @@ authors:
 - Aitor González-Marfil
 - Ignacio Arganda-Carreras
 - Diego Garate
-date: '2025-01-01'
+date: '2025-08-19'
 publishDate: '2025-08-28T08:46:19.432446Z'
 publication_types:
 - article-journal

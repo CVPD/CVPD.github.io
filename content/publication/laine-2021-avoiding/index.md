@@ -5,7 +5,7 @@ authors:
 - Ignacio Arganda-Carreras
 - Ricardo Henriques
 - Guillaume Jacquemet
-date: '2021-01-01'
+date: '2021-10-04'
 publishDate: '2025-03-05T11:10:32.744831Z'
 publication_types:
 - article-journal

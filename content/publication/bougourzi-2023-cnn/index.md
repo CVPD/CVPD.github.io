@@ -7,7 +7,7 @@ authors:
 - Nagore Barrena
 - Cosimo Distante
 - Abdelmalik Taleb-Ahmed
-date: '2023-01-01'
+date: '2022-08-26'
 publishDate: '2025-06-10T13:46:55.360129Z'
 publication_types:
 - article-journal

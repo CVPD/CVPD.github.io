@@ -17,7 +17,7 @@ authors:
 - Pedro Gómez-Gálvez
 - Ignacio Arganda-Carreras
 - Luis M Escudero
-date: '2023-01-01'
+date: '2023-09-25'
 publishDate: '2025-05-30T15:30:23.854588Z'
 projects:
   - carla-2021

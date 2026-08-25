@@ -3,7 +3,7 @@ title: Sample-weighted fused graph-based semi-supervised learning on multi-view 
 authors:
 - Jingjun Bi
 - Fadi Dornaika
-date: '2024-01-01'
+date: '2023-12-05'
 publishDate: '2025-06-17T08:17:01.557965Z'
 publication_types:
 - article-journal

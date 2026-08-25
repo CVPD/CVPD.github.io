@@ -9,7 +9,7 @@ authors:
 - Roberto Marabini
 - Jose Maria Carazo
 - Carlos Ortiz-de-Solorzano
-date: '2010-01-01'
+date: '2010-09-30'
 publishDate: '2025-03-05T11:10:32.980997Z'
 publication_types:
 - article-journal
