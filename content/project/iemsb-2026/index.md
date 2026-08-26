@@ -7,7 +7,7 @@ funding: €649,000
 funding_agency: "Gobierno Vasco - Ayudas para apoyar las actividades de grupos de investigación del sistema universitario vasco (2026-2029)"
 draft: false
 featured: true
-authors: ["Ignacio Arganda-Carreras", "Fadi Dornaika", "Nagore Barrena", "Unai Elordi", "Aitor González-Marfil"]
+authors: ["Ignacio Arganda-Carreras", "Fadi Dornaika", "Nagore Barrena", "Unai Elordi"]
 image:
   filename: "euskal-jaurlaritza-logo.png"
   focal_point: "center"
