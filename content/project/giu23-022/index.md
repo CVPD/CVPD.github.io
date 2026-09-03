@@ -51,5 +51,5 @@ This project addresses current challenges in applying deep learning techniques t
 
 - Funded by the **University of the Basque Country (UPV/EHU)** under the **2023 Call for Research Group Grants** program.
 - **Total funding**: 18,924€
-- Reference code: **GIU23/0922**
+- Reference code: **GIU23/022**
 ---
