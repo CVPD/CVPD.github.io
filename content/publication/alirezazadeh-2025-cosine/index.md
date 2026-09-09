@@ -9,6 +9,8 @@ date: '2025-01-28'
 publishDate: '2026-09-09T07:58:31.742348Z'
 publication_types:
 - article-journal
+projects:
+- carla-2021
 publication: '*ACM Trans. Intell. Syst. Technol.*'
 doi: 10.1145/3718093
 abstract: Breast cancer claims thousands of lives annually, emphasizing the need for
