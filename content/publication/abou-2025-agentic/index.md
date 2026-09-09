@@ -9,6 +9,8 @@ date: '2025-11-14'
 publishDate: '2026-09-09T07:58:31.731271Z'
 publication_types:
 - article-journal
+projects:
+- giu23-022
 publication: '*Artificial Intelligence Review*'
 doi: 10.1007/s10462-025-11422-4
 abstract: 'Agentic AI represents a transformative shift in artificial intelligence,
