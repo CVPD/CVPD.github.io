@@ -6,10 +6,12 @@ authors:
 - Nerea Aranjuelo
 - Ignacio Arganda-Carreras
 - Marcos Nieto
-date: '2024-01-01'
+date: '2024-02-27'
 publishDate: '2025-06-07T06:03:46.607969Z'
 publication_types:
 - paper-conference
+projects:
+- carla-2021
 publication: '*Proceedings of the 19th International Joint Conference on Computer
   Vision, Imaging and Computer Graphics Theory and Applications - Volume 4: VISAPP*'
 doi: 10.5220/0012357200003660
