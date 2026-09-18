@@ -9,6 +9,9 @@ date: '2026-02-03'
 publishDate: '2026-04-13T10:35:42.222429Z'
 publication_types:
 - article-journal
+projects:
+- giu23-022
+- carla-2021
 publication: '*IEEE Intelligent Transportation Systems Magazine*'
 doi: 10.1109/MITS.2026.3653178
 abstract: Autonomous driving is advancing rapidly, fueled by improvements in sensor
