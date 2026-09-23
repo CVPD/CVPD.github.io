@@ -1,7 +1,7 @@
 ---
 title: "IEMSB - Imaging Empowered Multiscale Biophysics (2026-2029)"
 summary: IEMSB brings together advanced imaging, artificial intelligence, chemistry and quantitative biophysics to connect molecular mechanisms with cellular and tissue function.
-date: 2026-01-01
+date: 2026-08-24
 end_date: 2029-12-31
 funding: €649,000
 funding_agency: "Gobierno Vasco - Ayudas para apoyar las actividades de grupos de investigación del sistema universitario vasco (2026-2029)"
