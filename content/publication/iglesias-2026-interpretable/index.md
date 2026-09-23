@@ -7,7 +7,7 @@ authors:
 - Pedro Brandimarte
 - Jokin Irastorza
 - Marcos Nieto
-date: '2026-01-01'
+date: '2026-09-10'
 publishDate: '2026-09-18T10:34:53.978472Z'
 publication_types:
 - article-journal
