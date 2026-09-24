@@ -78,7 +78,7 @@ CALM4GRAINS is **Subproject 2 (SP2)** within the coordinated project:
 
 - **Call / Program**: MICINN-IA (MICINN-IA25/03) - Research projects in the field of Artificial Intelligence (AIA 2025)
 - **Funding body**: State Research Agency (AEI), Spanish Ministry of Science, Innovation and Universities (MICIU)
-- **External reference code**: **AIA2025-164165-C42**
+- **Reference code**: **AIA2025-164165-C42**
 - **Official subproject title**: **Cross-domain Adaptation and Learning for Microscopy**
 - **Total funding granted**: **328,500.00 €**
 
