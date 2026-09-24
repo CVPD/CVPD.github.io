@@ -78,6 +78,7 @@ The wider IEMSB group comprises 22 members, including 21 doctors and one predoct
 
 - **Call**: [Ayudas para apoyar las actividades de grupos de investigación del sistema universitario vasco (2026-2029)](https://www.euskadi.eus/ayuda_subvencion/2026/ikertalde/web01-tramite/es/)
 - **Funding body**: Gobierno Vasco / Euskal Jaurlaritza
+- **Reference code**: **IT2001-26**
 - **Resolution**: 24 August 2026
 - **Granted total**: **649,000 €**
 
