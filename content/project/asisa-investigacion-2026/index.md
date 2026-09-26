@@ -48,7 +48,7 @@ The project combines expertise in:
 | **Amount** | 6,000 EUR |
 | **Duration** | 2026-2027 |
 | **Principal Investigator** | Unai Elordi |
-| **Researchers** | David Campo Caballero ( Facultad de Medicina y Enfermeria, Osakidetza), Elsa Fernandez Gómez, Ignacio Arganda-Carreras |
+| **Researchers** | David Garcia Rivero, David Campo Caballero ( Facultad de Medicina y Enfermeria, Osakidetza), Elsa Fernandez Gómez, Ignacio Arganda-Carreras |
 | **Affiliation** | CVPD Research Group |
 
 ## Related Research Lines
