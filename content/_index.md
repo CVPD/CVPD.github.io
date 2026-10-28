@@ -80,6 +80,20 @@ sections:
         {{% cta cta_link="./members/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+
+  - block: markdown
+    content:
+      title: Sponsors
+      subtitle:
+      text: |
+        <p style="text-align: center;">
+        <a href="https://zulip.com" target="_blank" rel="noopener"><img src="/media/sponsors/zulip-org-logo.svg" alt="Zulip" style="height: 70px; width: auto;"></a>
+        </p>
+        <p style="text-align: center;">
+        Our team communication runs on <a href="https://zulip.com" target="_blank" rel="noopener"><strong>Zulip</strong></a>, which generously sponsors the CVPD group with free <em>Zulip Cloud Standard</em> hosting. Thank you, Zulip!
+        </p>
+    design:
+      columns: '1'
 ---
 
 
