@@ -1,5 +1,5 @@
 ---
-title: 'Explainable Artificial Intelligence (XAI) for Point Cloud Perception inAutonomous
+title: 'Explainable Artificial Intelligence (XAI) for Point Cloud Perception in Autonomous
   Driving: A Survey'
 authors:
 - Aitor Iglesias
