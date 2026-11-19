@@ -19,10 +19,10 @@ sections:
           - PhD Students
           - Grad Students
           - Master Students
+          - Technicians
           - Administration
           - Visitors
           - Alumni
-          - Technicians
       sort_by: Params.last_name
       sort_ascending: true
     design:
