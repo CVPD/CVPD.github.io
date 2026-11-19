@@ -49,12 +49,12 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Master Students
+  - Technicians
 ---
 
-**Lore Oregi Lauzirika** is currently completing an MSc in Computer Vision at the Autonomous University of Barcelona (UAB), where she is conducting her Master's thesis under the supervision of [Dr. Ignacio Arganda-Carreras](https://cvpd.github.io/author/ignacio-arganda-carreras/) and [Dr. Nagore Barrena](https://cvpd.github.io/author/nagore-barrena/). Her research focuses on deep learning methods for biomedical image analysis, with a particular emphasis on single-image super-resolution (SISR). She is expected to defend her thesis by September 2026.
+**Lore Oregi Lauzirika** completed her MSc in Computer Vision at the Autonomous University of Barcelona (UAB), under the supervision of [Dr. Ignacio Arganda-Carreras](https://cvpd.github.io/author/ignacio-arganda-carreras/) and [Dr. Nagore Barrena](https://cvpd.github.io/author/nagore-barrena/). Her research focuses on deep learning methods for biomedical image analysis, with a particular emphasis on single-image super-resolution (SISR).
 
-Her Master's research investigates the transferability of state-of-the-art SISR methods developed for natural images to microscopy data. The project includes reproducing top-performing approaches from the NTIRE 2025 Challenge on Image Super-Resolution and evaluating their performance on biomedical datasets. This work aims to analyze the challenges that arise when applying these methods to microscopy images, such as differences in noise characteristics, structural patterns, and image statistics, while assessing their potential to enhance spatial resolution in life science applications. If time permits, the developed approach will be integrated into BiaPy to facilitate its use in bioimage analysis workflows.
+Her Master's research investigated the transferability of state-of-the-art SISR methods developed for natural images to microscopy data. The project included reproducing top-performing approaches from the NTIRE 2025 Challenge on Image Super-Resolution and evaluating their performance on biomedical datasets. This work aims to analyze the challenges that arise when applying these methods to microscopy images, such as differences in noise characteristics, structural patterns, and image statistics, while assessing their potential to enhance spatial resolution in life science applications. If time permits, the developed approach will be integrated into BiaPy to facilitate its use in bioimage analysis workflows.
 
 Lore earned her BSc in Artificial Intelligence from the University of the Basque Country (UPV/EHU) in 2025. During her undergraduate studies, she completed her Bachelor's thesis under the supervision of Ignacio Arganda-Carreras and Nagore Barrena, focusing on one-shot learning models for biomedical image analysis.
 
