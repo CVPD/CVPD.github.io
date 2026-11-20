@@ -20,8 +20,6 @@ From **3 to 6 November 2026**, the **Computer Vision and Pattern Discovery (CVPD
 
 We used a publicly available **brainbow image** of a mouse brain to propose a project focused on the **detection of cells centroids**. Our team was composed of  **Leonidas Ioannidis**, **Tania Orosco**, **Michal Ejankowski**, **Helen Fiorella Medina**, **Clément Caporal**, and **Ignacio Arganda-Carreras**.
 
-![Group picture](brainhack_group_picture.jpg)
-
 ### ~~(Ready, Set, Go!)~~ Brain - Bow - Hack !
 
 The motivated team worked on the project using various tools such as:
