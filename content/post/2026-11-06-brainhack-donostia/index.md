@@ -32,7 +32,7 @@ The motivated team worked on the project using various tools such as:
 
 In total exactly 1002 cells were annotated, with classes such as **Astrocytes** and **Pyramidal Neurons**.
 
-All the annotated patch are available in a [Zenodo repository](https://zenodo.org/record/tocomplete) for further analysis and research. Do not hesitate to use them for your own research and to cite the original source of the data!
+All the annotated patch are available in a [Zenodo repository](https://zenodo.org/records/24339994) for further analysis and research. Do not hesitate to use them for your own research and to cite the original source of the data!
 
 ![Example of patches](patch_grid.png)
 
