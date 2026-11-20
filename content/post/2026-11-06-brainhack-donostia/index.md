@@ -42,6 +42,6 @@ You want to continue to brainhack: open an issue in our [GitHub repository](http
 
 #### Data license
 
-- source: https://idr.openmicroscopy.org/study/idr0048/
+- Source: https://idr.openmicroscopy.org/study/idr0048/
 - Authors: Multicolor multiscale brain imaging with chromatic multiphoton serial microscopy, Abdeladim L, Matho KS, Clavreul S, Mahou P, Sintes J-M, Solinas X, Arganda-Carreras I, Turney SG, Lichtman JW, Chessel A, Bemelmans A-P, Loulier K, Supatto W, Livet J, Beaurepaire E
 - License / access: CC BY-NC 4.0
