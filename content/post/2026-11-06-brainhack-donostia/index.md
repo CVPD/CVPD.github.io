@@ -14,7 +14,7 @@ tags:
 featured: false
 ---
 
-From **3 to 6 November 2026**, the **Computer Vision and Pattern Discovery (CVPD)** group participated in the (**Brainhack Donostia 2026**)[https://brainhack-donostia.github.io/] event, a collaborative hackathon that brings together researchers, students, and enthusiasts from various disciplines to work on neuroscience-related projects.
+From **3 to 6 November 2026**, the **Computer Vision and Pattern Discovery (CVPD)** group participated in the [**Brainhack Donostia 2026**](https://brainhack-donostia.github.io/) event, a collaborative hackathon that brings together researchers, students, and enthusiasts from various disciplines to work on neuroscience-related projects.
 
 **Brainbow** datasets enable researchers to distinguish individual cells and identify **lineage clusters**, providing valuable insights into brain development and cellular organization. Recent advances in microscopy, such as **ChroMS**, now make it possible to acquire **mesoscale images of entire brains**, opening new opportunities for **large-scale cellular analysis**.
 
